@@ -3,13 +3,13 @@
 [Background(image="bg_cher_1",fadetime=1,screenadapt="coverall")]
 [Delay(time=1)]
 [character(name="char_013_riop")]
-[name="Страж"]  Угх... Гарх...
-[name="Страж"]  Эти головорезы Реюниона... очень даже энергичны!
+[name="Гард"]  Угх... Гарх...
+[name="Гард"]  Эти головорезы Реюниона... очень даже энергичны!
 [character]
 [name="Капитан Урсуса"]  Вы кто такие?
 [name="Капитан Урсуса"]  Почему вы в Чернобоге в такое время?!
 [character(name="char_013_riop")]
-[name="Страж"]  А? Что происходит...
+[name="Гард"]  А? Что происходит...
 [character]
 [name="Капитан Урсуса"]  Вы шпионы?!
 [Character(name="char_130_doberm_ex")]
