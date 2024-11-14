@@ -13,7 +13,7 @@
 [Dialog]
 [Delay(time=0.7)]
 [Character(name="char_013_riop")]
-[name="Страж"]   *вздох* *вздох*...
+[name="Гард"]   *вздох* *вздох*...
 [Character(name="char_130_doberm_ex")]
 [name="Доберман"]  Похоже, они не успели оповестить остальных.
 [name="Доберман"]  ...Хорошо сработано, Д-р. {@nickname}.
@@ -98,21 +98,21 @@
 [Character(name="char_016_medic")]
 [name="Медик"]   Эй! Что б тебя! Хватит убегать! Пришло время для инъекции!
 [Character(name="char_016_medic",name2="char_013_riop",focus=2)]
-[name="Страж"]   А? А? Я же сказал, я в порядке! Мне пока что лечение ни к чему!
+[name="Гард"]   А? А? Я же сказал, я в порядке! Мне пока что лечение ни к чему!
 [Character(name="char_016_medic",name2="char_013_riop",focus=1)]
 [name="Медик"]   Тебе необходимо регулярно делать инъекции, чтобы замедлить развитие симптомов!
 [name="Медик"]   Разве ты не говорили, что у тебя кружится голова?
 [Character(name="char_016_medic",name2="char_013_riop",focus=2)]
-[name="Страж"]   Это еще ничего не значит, я в порядке!
+[name="Гард"]   Это еще ничего не значит, я в порядке!
 [Character(name="char_016_medic",name2="char_013_riop",focus=1)]
 [name="Медик"]   А что, если во время боя у тебя проявятся и другие проблемы?
 [name="Медик"]   Ради всеобщей безопасности ты должны заботиться и о себе!
 [Character(name="char_016_medic",name2="char_013_riop",focus=2)]
-[name="Страж"]   ...
+[name="Гард"]   ...
 [Character(name="char_016_medic",name2="char_013_riop",focus=1)]
 [name="Медик"]   А ну не двигайся! Сейчас сделаю тебе укол!
 [Character(name="char_016_medic",name2="char_013_riop",focus=2)]
-[name="Страж"]   Аах!!
+[name="Гард"]   Аах!!
 [Character]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=0.6, block=true)]
 [Dialog]
