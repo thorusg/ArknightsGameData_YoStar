@@ -3,16 +3,16 @@
 [PlayMusic(intro="$m_bat_game02_intro", key="$m_bat_game02_loop", volume=0.8, crossfade=1.5, delay=0.5)]
 [Delay(time=1)]
 [Character(name="char_1507_Mephisto_1#4")]
-[name="Mephisto"]   What's with this woman...
+[name="Мефисто"]   Да что с этой женщиной...
 [Dialog]
 [Delay(time=0.6)]
 [Character(name="char_148_nearl_1")]
-[name="Nearl"]   ...You there.
-[name="Nearl"]   The Reunion forces worked like a well-oiled machine when they took over the Chernobog military strongholds.
-[name="Nearl"]   But your men act like deranged thugs.
-[name="Nearl"]   Mindless slaughter, burning down the city, hunting down innocents... This was all for your own sadistic pleasure, was it not?
-[name="Nearl"]   Someone base enough to plot these senseless crimes at a time like this... could not possibly have designed the plan to take down an entire city.
-[name="Nearl"]   Your commander probably ordered you to cause chaos, but you succumbed to your perversion and tastelessness.
+[name="Нирл"]   ...Ты там.
+[name="Нирл"]   Силы Реюниона работали как хорошо отлаженная машина, захватывая военные опорные пункты Чернобога.
+[name="Нирл"]   Но твои люди ведут себя как ненормальные головорезы.
+[name="Нирл"]   Бездумная резня, сжигание города, охота на невинных... Все это было ради удовлетворения твоих садистких желаний, да?
+[name="Нирл"]   Кто-то, настолько подлый, чтобы замышлять эти бессмысленные преступления в такое время... просто не мог разработать план по уничтожению целого города.
+[name="Нирл"]   Your commander probably ordered you to cause chaos, but you succumbed to your perversion and tastelessness.
 [Character(name="char_1507_Mephisto_1#2")]
 [name="Mephisto"]   ...
 [name="Mephisto"]   ...Faust.
@@ -20,14 +20,14 @@
 [Character(name="char_1508_Faust_1#2")]
 [name="Faust"]   ...
 [Character(name="char_148_nearl_1#4")]
-[name="Nearl"]   !
+[name="Нирл"]   !
 [CameraShake(duration=1, xstrength=8, ystrength=6, vibrato=30, randomness=90, fadeout=true, block=false)]
 [Blocker(a=0.7, r=0.95, g=0.95, b=0.95, fadetime=0.02, block=true)]
 [PlaySound(key="$d_sp_ballista")]
 [Blocker(a=0, r=0.95, g=0.95, b=0.95, fadetime=0.25, block=true)]
 [Delay(time=1)]
 [Character(name="char_148_nearl_1#3")]
-[name="Nearl"]   *cough* *cough*...
+[name="Нирл"]   *cough* *cough*...
 [Character(name="char_002_amiya_1#7 ")]
 [name="Amiya"]  Nearl!
 [Character(name="char_130_doberm_ex")]
@@ -36,8 +36,8 @@
 [Character(name="char_002_amiya_1#7 ")]
 [name="Amiya"]  Nearl, you need to retreat!
 [Character(name="char_148_nearl_1#3")]
-[name="Nearl"]   I can't... He's too powerful. I can't afford to let him hit our squads.
-[name="Nearl"]   I have to intercept his attacks!
+[name="Нирл"]   I can't... He's too powerful. I can't afford to let him hit our squads.
+[name="Нирл"]   I have to intercept his attacks!
 [Character(name="char_1507_Mephisto_1#2")]
 [name="Mephisto"]  She managed to block Faust's ballista... with only a shield--?!
 [Character(name="char_1507_Mephisto_1#3")]
@@ -46,7 +46,7 @@
 [Character(name="char_1508_Faust_1#2")]
 [name="Faust"]    --!
 [Character(name="char_148_nearl_1#3")]
-[name="Nearl"]  What... it's coming from my right? !
+[name="Нирл"]  What... it's coming from my right? !
 [Character(name="char_130_doberm_ex")]
 [name="Dobermann"]  Oh no! Hurry, dodge--
 [Character(name="char_014_riope" )]
@@ -82,7 +82,7 @@
 [Character(name="char_014_riope",name2="char_130_doberm_ex",focus=2)]
 [name="Dobermann"]  He's very mobile and has high firepower. The longer this drags on, the less likely we'll be able to block his shots!
 [Character(name="char_148_nearl_1#3")]
-[name="Nearl"]  We can't give him time to set up...! Amiya, make your move while Team E3's Snipers keep him occupied!
+[name="Нирл"]  We can't give him time to set up...! Amiya, make your move while Team E3's Snipers keep him occupied!
 [Character(name="char_002_amiya_1#7 ")]
 [name="Amiya"]  Understood!
 [name="Amiya"]  Team E1 Snipers, come with me and suppress Reunion's forces!
@@ -99,9 +99,9 @@
 [Character(name="char_014_riope" )]
 [name="Ace"]  Nearl, now's your chance! Hurry!
 [Character(name="char_148_nearl_1#3")]
-[name="Nearl"]   All members of Team E4, we're going to break through their formation!
-[name="Nearl"]   We're going to clear everything out of our way in one fell swoop!
-[name="Nearl"]   Let's run wild!!
+[name="Нирл"]   All members of Team E4, we're going to break through their formation!
+[name="Нирл"]   We're going to clear everything out of our way in one fell swoop!
+[name="Нирл"]   Let's run wild!!
 [Character(name="char_1002_nsabr_2")]
 [name="Reunion Member"]  Fire! Fire! Don't let her get any closer...
 [name="Reunion Member"]  Huh...?
@@ -114,9 +114,9 @@
 [Blocker(a=0, r=0.95, g=0.95, b=0.95, fadetime=0.25, block=true)]
 [Delay(time=1)]
 [Character(name="char_148_nearl_1#3")]
-[name="Nearl"]   If you wish to stand against a Kazimierz knight, come back after you've trained a few more decades.
+[name="Нирл"]   If you wish to stand against a Kazimierz knight, come back after you've trained a few more decades.
 [Character(name="char_148_nearl_1#3",name2="char_130_doberm_ex",focus=1)]
-[name="Nearl"]   Dobermann! Follow me!
+[name="Нирл"]   Dobermann! Follow me!
 [Character(name="char_130_doberm_ex")]
 [name="Dobermann"]  Understood!
 [Delay(time=0.6)]
