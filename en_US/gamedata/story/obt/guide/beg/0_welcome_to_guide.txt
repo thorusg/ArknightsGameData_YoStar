@@ -6,24 +6,24 @@
 [ImageTween(image="bg_0_babel", tiled=true, xScaleTo=1.05, yScaleTo=1.05, duration=3, block=false)]
 [ImageTween(image="bg_0_babel", tiled=true, xScaleTo=1.5, yScaleTo=1.5, duration=75, block=false)]
 [name=""]   Прошло немало времени с тех пор, как мы виделись в последний раз.
-[name=""]   Все это время... Ты балансировал на краю пропасти.
+[name=""]   Все это время... Тебе пришлось балансировать на краю пропасти.
 [Dialog]
 [Delay(time=1.3)]
-[name=""]   Возможно, ты позабыл, кто ты есть, но достаточно просто вспомнить свое имя.
+[name=""]   Возможно, ты и позабыл, кто ты есть, но будет достаточно просто вспомнить свое имя.
 [Dialog]
 [name=""]   ...Время пришло. Тебе не стоит задерживаться здесь надолго.
-[name=""]   В конце концов, ты еще не мой гость и не должен находиться здесь.
+[name=""]   В конце концов, пока что ты не мой гость и не должен находиться здесь.
 [name=""]   Она по прежнему нуждается в тебе.
 [Dialog]
 [Delay(time=1)]
 [name=""]   23-е Декабря.
-[name=""]   Может ты и не помнишь, что означает эта дата.
+[name=""]   Может, ты и не помнишь, что означает эта дата.
 [name=""]   И этот факт может поставить тебя в опасное положение.
 [name=""]   ......
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [Image]
 [name=""]   Нет...
-[name=""]   Ты должен попытаться вспомнить.
+[name=""]   Ты обязан попытаться вспомнить.
 [Dialog]
 [PlayMusic(intro="$ekg_loop", key="$ekg_loop", volume=0.8, delay=0)]
 [Blocker(a=1, r=255, g=255, b=255, afrom=0, rfrom=0, gfrom=0, bfrom=0, fadetime=0.1, block=true)]
@@ -41,12 +41,12 @@
 [Dialog]
 [CameraEffect(effect="Grayscale", fadetime=8, amount=0, block=false)]
 [Delay(time=1)]
-[name="Отдаленный голос"]   Возьмите гемостат!
+[name="Отдаленный голос"]   Принисите гемостат!
 [name="Отдаленный голос"]   ...состояние стабильное... начинаем резекцию... осторожно, фибрилляция желудочков...
 [Dialog]
 [Delay(time=1)]
 [name="Отдаленный голос"]   ...Извините...
-[name="Отдаленный голос"]   За то, что заставляю Вас снова страдать...
+[name="Отдаленный голос"]   Что снова заставляю Вас страдать...
 [Delay(time=0.5)]
 [StopMusic(fadetime=1)]
 [Background(fadetime=1, block=false)]
@@ -92,16 +92,16 @@
 [Dialog]
 [name="???"]   Медик, как Доктор?
 [name="???"]   Но всего мгновение назад... мы держались за руки...
-[name="???"]   Так почему... почему Доктор до сих пор не проснулся...?
+[name="???"]   Так почему... почему Доктор не просыпается...?
 [Character(name="char_016_medic")]
 [name="Медик"]   Амия! Без паники, успокойся для начала!
 [Character(name="char_016_medic",name2="char_002_amiya_1#4",focus=2)]
 [name="Амия"]   Ах... Извини.
 [Character(name="char_016_medic",name2="char_002_amiya_1#4",focus=1)]
-[name="Медик"]   Ты всегда так нервничаешь, когда речь заходит о Докторе.
+[name="Медик"]   Ты всегда так переживаешь, когда дело касается Доктора.
 [name="Медик"]   Но, Амия, если бы случилось самое худшее... что бы ты тогда делала?
 [Character(name="char_016_medic",name2="char_002_amiya_1#4",focus=2)]
-[name="Амия"]   ...Я уже мысленно подготовилась к этому. Мы бы продолжили согласно плану.
+[name="Амия"]   ...Я уже мысленно подготовилась к такому варианту. Мы бы продолжили согласно плану.
 [Character(name="char_016_medic",name2="char_002_amiya_1#4",focus=1)]
 [name="Медик"]   ...Я понимаю. В любом случае, я сделаю то, о чем ты просишь.
 [Character(name="char_016_medic",name2="char_002_amiya_1#1",focus=2)]
@@ -132,7 +132,7 @@
 [name="Амия"]   Доктор...?
 [name="Амия"]   Я так рада... Доктор...
 [Character(name="char_016_medic")]
-[name="Медик"]   Осторожно! Вам не стоит этого делать...
+[name="Медик"]   Осторожно! Вам не стоит...
 [Blocker(a=0.5, r=1, g=0.5, b=0.5, afrom=0, rfrom=0, gfrom=0, bfrom=0, fadetime=0.1, block=true)]
 [Blocker(a=0,fadetime=0.1, block=true)]
 [CameraShake(duration=0.5, xstrength=10, ystrength=12, vibrato=15, randomness=90, fadeout=true, block=false)]
@@ -158,7 +158,7 @@
 [name="Амия"]   Вы...
 [name="Амия"]   Вы член Родос Айленд, как и мы...
 [name="Амия"]   ...и мой напарник.
-[name="Амия"]   ...Dr. {@nickname}.
+[name="Амия"]   ...Д-р. {@nickname}.
 [name="Амия"]   Вы для меня самый важный человек.
 [name="Амия"]   Доктор... вы не помните?
 [Decision(options="...Могу я тебе доверять?;...;Понятно... Приятно познакомиться, Амия.", values="1;2;3")]
@@ -178,7 +178,7 @@
 [name="Амия"]   Ах, эм, привет.
 [name="Амия"]   ...
 [Character(name="char_002_amiya_1#4")]
-[name="Амия"]   Не знаю, как правильно сказать, но много чего изменилось по сравнению с прошлым.
+[name="Амия"]   Не знаю, как правильно сказать, но много чего успело измениться, по сравнению с прошлым...
 [name="Амия"]   Включая меня.
 [Predicate(references="1;2;3")]
 [Character(name="char_002_amiya_1#1")]
@@ -192,7 +192,7 @@
 [Character(name="char_002_amiya_1#1",name2="char_016_medic",focus=1)]
 [name="Амия"]   ...
 [name="Амия"]   Я уверена, что всё будет хорошо, если мы дадим Доктору немного личного пространства...
-[Decision(options="Where is this...", values="1")]
+[Decision(options="Где мы...", values="1")]
 [Predicate(references="1")]
 [name="Амия"]   Здесь безопасно—
 [character(fadetime=0.5)]
@@ -221,7 +221,7 @@
 [character(name="char_1002_nsabr_1")]
 [CameraShake(duration=1, xstrength=4, ystrength=4, vibrato=30, randomness=90, block=false)]
 [PlaySound(key="$d_gen_soldiersrun")]
-[name="Reunion Member"]   ...
+[name="Член Реюниона"]   ...
 [Dialog]
 [character(name="char_013_riop")]
 [name="Тяжеловооружённый мужчина"]   Что всё это значит?!
@@ -231,7 +231,7 @@
 [Blocker(a=0, r=0.95, g=0.95, b=0.95, fadetime=0.25, block=true)]
 [CameraShake(duration=0.6, xstrength=5, ystrength=8, vibrato=30, randomness=90, block=true)]
 [character(name="char_013_riop")]
-[name="Тяжеловооружённый мужчина"]   Они атакуют, Амия! Еще и хорошо вооружёны!
+[name="Тяжеловооружённый мужчина"]   Они нападают, Амия! Еще и хорошо вооружены!
 [Blocker(a=0.7, r=0.95, g=0.95, b=0.95, fadetime=0.02, block=true)]
 [PlaySound(key="$e_atk_arrow_h")]
 [PlaySound(key="$e_atk_arrow_h")]
@@ -242,27 +242,27 @@
 [character(name="char_002_amiya_1#7")]
 [name="Амия"]   Будьте осторожны! Спрячтесь и защитите Доктора!
 [name="Амия"]   Эта форма... они из движения Реюниона? Но как это возможно...
-[name="Амия"]   Стража, приготовиться к бою!
+[name="Амия"]   Гард, готовься к бою!
 [character(name="char_013_riop")]
-[name="Страж"]   Принято!
+[name="Гард"]   Принято!
 [character]
 [CameraShake(duration=0.5, xstrength=8, ystrength=10, vibrato=30, randomness=90, block=false)]
 [Blocker(a=1, r=255, g=255, b=255, afrom=0, rfrom=0, gfrom=0, bfrom=0, fadetime=0.1, block=true)]
 [PlaySound(key="$d_sp_ballista")]
 [Blocker(a=0, fadetime=1.5, block=true)]
 [character(name="char_013_riop")]
-[name="Страж"]   Проклятия... Они пришли за Доктором?!
+[name="Гард"]   Проклятье... Они пришли за Доктором?!
 [character(name="char_002_amiya_1",name2="char_013_riop",focus=1)]
 [name="Амия"]   Нет... Никто не должен был знать о том, что Доктор здесь.
 [character(name="char_002_amiya_1#7",name2="char_013_riop",focus=1)]
-[name="Амия"]  Вы можете связаться с Каль'цит?
+[name="Амия"]  Ты можешь связаться с Каль'цит?
 [character(name="char_002_amiya_1",name2="char_013_riop",focus=2)]
-[name="Страж"]   Не знаю почему, но оборудование не работает!
+[name="Гард"]   Не знаю почему, но оборудование не работает!
 [character(name="char_002_amiya_1")]
 [name="Амия"]   ...Кто-то оборвал нашу линию связи.
 [name="Амия"]   Нас обнаружило правительство Урсуса?
 [character(name="char_002_amiya_1",name2="char_013_riop",focus=2)]
-[name="Страж"]   Что нам теперь делать?
+[name="Гард"]   Что нам теперь делать?
 [character(name="char_002_amiya_1")]
 [name="Амия"]   Каль'цит не сможет командовать битвой, как мы изначально планировали.
 [name="Амия"]   ...
