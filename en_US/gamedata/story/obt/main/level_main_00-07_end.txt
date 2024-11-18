@@ -69,7 +69,7 @@
 [Blocker(a=0, fadetime=0.3, block=true)]
 [Character(name="char_1502_crowns")]
 [name="???"]  Родос Айленд...
-[name="???"]  Я поймала вас.
+[name="???"]  Попались.
 [Character(name="char_1002_nsabr_2")]
 [name="Член Реюниона"]   ...!
 [name="Член Реюниона"]   Убейте их всех! !
