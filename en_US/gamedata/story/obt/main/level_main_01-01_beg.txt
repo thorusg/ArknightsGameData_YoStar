@@ -20,7 +20,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Character(name="char_130_doberm_ex", name2="char_148_nearl_1", focus=1)]
 [name="Доберман"]  Еще хуже делает тот факт, что головорезы Реюниона могут скрываться в каждом углу.
-[name="Доберман"]  Хотя, пожалуй, это уже слишком пессиместично.
+[name="Доберман"]  Хотя, пожалуй, это уже слишком пессимистично.
 [Character(name="char_130_doberm_ex", name2="char_148_nearl_1", focus=2)]
 [name="Нирл"]  Тебе стоило сказать, что они, вероятно, веселятся на улицах.
 [Blocker(a=0, initr=2, r=0, g=0, b=0, fadetime=1, block=true)]
