@@ -7,7 +7,7 @@
 [PlaySound(key="$d_gen_explo_n")]
 [CameraShake(duration=1, xstrength=3, ystrength=5, vibrato=30, randomness=90, fadeout=false)]
 [Character(name="char_130_doberm_ex")]
-[name="Доберман"]  Приготовится к столкновению!!!
+[name="Доберман"]  Приготовиться к столкновению!!!
 [name="Доберман"]  Рассредоточиться!
 [name="Доберман"]  Их слишком много... такими темпами все здания в этом городе будут разрушены!
 [name="Доберман"]  Дела плохи...!
