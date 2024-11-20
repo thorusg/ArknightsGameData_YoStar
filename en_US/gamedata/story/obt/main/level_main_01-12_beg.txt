@@ -1,6 +1,6 @@
 [HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")] 第十二关（前）
-[name=""]   Time - Unknown \ Weather - Unknown \ Visibility - Poor 
-[name=""]   Chernobog - Operation Squad E0's Location
+[name=""]   Время - Неизвестно \ Погода - Неизвестно \ Видимость - Низкая 
+[name=""]   Чернобог - Расположение операционной команды E0
 [name=""]   Dr. {@nickname} Rescue Operation - Final Retreat Phase 
 [dialog]
 [Background(image="bg_cher_3", width=1, height=1, fadetime=1, screenadapt="coverall")]
