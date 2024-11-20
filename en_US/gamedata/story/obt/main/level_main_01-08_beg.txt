@@ -328,8 +328,8 @@
 [Blocker(a=1, r=0, g=0, b=0, afrom=0, rfrom=0, gfrom=0, bfrom=0, fadetime=0.2, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, afrom=0, rfrom=0, gfrom=0, bfrom=0, fadetime=0.2, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, afrom=0, rfrom=0, gfrom=0, bfrom=0, fadetime=0.2, block=false)]
-[name="Амия"]   Ngh...
-[name="Амия"]   I must... protect everyone...!
+[name="Амия"]   Нгх......
+[name="Амия"]   Я дожна... защитить всех...!
 [CameraShake(duration=6, xstrength=10, ystrength=8, vibrato=20, randomness=90, fadeout=true, block=false)]
 [Blocker(a=0.7, r=0.95, g=0.95, b=0.95, fadetime=0.2, block=true)]
 [Blocker(a=0, r=0.95, g=0.95, b=0.95, fadetime=0.25, block=true)]
@@ -351,17 +351,17 @@
 [Character(name="char_148_nearl_1#8")]
 [Delay=1]
 [Character(name="char_148_nearl_1#3",name2="char_130_doberm_ex",focus=2)]
-[name="Доберман"]   Amiya is holding back the enemy's Arts... all by herself...?
+[name="Доберман"]   Амия сдерживает вражеское Искусство... в одиночку...?
 [Character(name="char_148_nearl_1#3",name2="char_130_doberm_ex",focus=1)]
-[name="Нирл"]   It's no good... That power is too tremendous!
-[name="Нирл"]   Even Amiya won't be able to...
-[name="Нирл"]   She won't be able to hold out for long!
+[name="Нирл"]   Это нехорошо... Эта сила слишком велика!
+[name="Нирл"]   Даже Амия не сможет...
+[name="Нирл"]   Она не сможет долго продержаться!
 [Character(name="char_016_medic")]
 [name="Медик"]   Amiya!
 [Character(name="char_002_amiya_1#7")]
-[name="Амия"]   Don't worry... Don't worry about me...
-[name="Амия"]   I can handle this...!
-[name="Амия"]   I want to... I must... protect you all!
+[name="Амия"]   Не волнуйтесь... Не волнуйтесь обо мне...
+[name="Амия"]   Я справлюсь с этим...!
+[name="Амия"]   Я хочу... Я должна... защитить вас всех!
 [Dialog]
 [Character(fadetime=1)]
 [PlaySound(key="$d_gen_thunders_amb", volume=0.5)]
@@ -376,37 +376,37 @@
 [Blocker(a=0, fadetime=2, block=true)]
 [CameraShake(duration=0.5, xstrength=10, ystrength=12, vibrato=30, randomness=90, block=false)]
 [Character(name="char_016_medic")]
-[name="Медик"]   Dark matter... is sealing the enemy's Arts within the plaza...
+[name="Медик"]  Темная материя... запечатывает вражеское Исскуство...
 [Character(name="char_002_amiya_1#9")]
-[name="Амия"]   Ngh... Argh... Ughh!
+[name="Амия"]   Нгх... Аргх... Угхх!
 [Character(name="char_013_riop")]
-[name="Гард"]   H-her barrier is catching on fire!
+[name="Гард"]   Её барьер загорелся!
 [Character(name="char_130_doberm_ex",name2="char_002_amiya_1#9",focus=1)]
-[name="Доберман"]   Amiya, stop!! Your ring will--!
+[name="Доберман"]   Амия, остановись!!! Твое кольцо...!
 [Character(name="char_130_doberm_ex",name2="char_002_amiya_1#4",focus=2)]
-[name="Амия"]   I don't care... even if...
-[name="Амия"]   Doctor, I'm sorry...
-[name="Амия"]   Even if this brings disaster, even if I...!
+[name="Амия"]   Мне всё равно... даже если...
+[name="Амия"]   Доктор, мне жаль...
+[name="Амия"]   Даже если это приведет к беде, даже если я...!
 [Character(name="char_002_amiya_1#4")]
-[name="Амия"]   I don't want to lose... the person dearest to me... ever again...
+[name="Амия"]   Я не хочу потерять... самого дорогого мне человека... снова...
 [Character(name="char_011_talula_1")]
-[name="Талула"]   Heh...
-[name="Талула"]   Very good.
+[name="Талула"]   Хех...
+[name="Талула"]   Очень хорошо...
 [Character(name="char_002_amiya_1#7")]
-[name="Амия"]   Aghh... Aaaaaahhh...!!
+[name="Амия"]   Агхх... Аааааа...!!
 [Character(name="char_148_nearl_1#3")]
-[name="Нирл"]   Amiya!
-[name="Нирл"]   Damn it... We're going to lose her...!
+[name="Нирл"]   Амия!
+[name="Нирл"]   Проклятье... Мы потеряем её...!
 [Character(name="char_130_doberm_ex",name2="char_148_nearl_1#3",focus=1)]
-[name="Доберман"]   What are you doing?
+[name="Доберман"]   Что ты делаешь?
 [Character(name="char_130_doberm_ex",name2="char_148_nearl_1#3",focus=2)]
-[name="Нирл"]   Destroying that she-dragon's Arts!
+[name="Нирл"]   Уничтожаю Искусство этой драконицы!
 [Character(name="char_130_doberm_ex",name2="char_148_nearl_1#3",focus=1)]
-[name="Доберман"]   You...
+[name="Доберман"]   Ты...
 [Character(name="char_148_nearl_1#3")]
-[name="Нирл"]   ... 'O Light of Kazimierz, the Radiant Knight offers her body to thee...'
+[name="Нирл"]   ... 'О Свет Казимежа, Лучезарный Рыцарь вверяет тебе своё тело...'
 [Character(name="char_130_doberm_ex")]
-[name="Доберман"]   Doctor! Just go! We'll help Amiya, but you have to...
+[name="Доберман"]   Доктор! Просто уходи! Мы поможем Амии, но ты должен...
 [Character(name="char_011_talula_1")]
 [name="Талула"]   --!
 [Dialog]
@@ -446,42 +446,42 @@
 [Character(name="char_002_amiya_1#9")]
 [Blocker(a=0, r=1, g=1, b=1, fadetime=0.5, block=true)]
 [CameraShake(duration=1, xstrength=10, ystrength=12, vibrato=30, randomness=90, block=false)]
-[name="Амия"]   Aaaaaaaaghhh!!
+[name="Амия"]   Ааааааагх!!
 [Blocker(a=1, r=1, g=1, b=1, afrom=0, rfrom=0, gfrom=0, bfrom=0, fadetime=0.1, block=true)]
 [Blocker(a=0, r=0, g=0, b=0, afrom=0, rfrom=0, gfrom=0, bfrom=0, fadetime=1, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, block=true)]
 [stopmusic(fadetime=1)]
-[name="Амия"]   What...?
-[name="Эйс"]   That's enough, Amiya.
+[name="Амия"]  Что...?
+[name="Эйс"]   Достаточно, Амия.
 [name="Амия"]   --?!
 [character(fadetime=0)]
 [Image]
 [Background]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(name="char_014_riope")]
-[name="Эйс"]   You've done well.
-[name="Эйс"]   Let us share your burden.
+[name="Эйс"]   Ты хорошо справилась.
+[name="Эйс"]   Позволь нам разделить твоё бремя.
 [Character(name="char_002_amiya_1#4")]
-[name="Амия"]   I...
+[name="Амия"]   Я...
 [CameraShake(duration=1, xstrength=10, ystrength=12, vibrato=30, randomness=90, block=false)]
 [Character(name="char_130_doberm_ex")]
-[name="Доберман"]   Amiya!
+[name="Доберман"]   Амия!
 [Character(name="char_014_riope")]
-[name="Эйс"]   Dobermann, take her with you. I'll see you soon.
+[name="Эйс"]   Доберман, возьми её с собой. До скорой встречи.
 [Character(name="char_130_doberm_ex")]
-[name="Доберман"]   ...Ace...
+[name="Доберман"]   ...Эйс...
 [Character(name="char_002_amiya_1#4")]
-[name="Амия"]   Ace... No... Ace...!
-[name="Амия"]   Promise me... that you'll...
+[name="Амия"]   Эйс... Нет... Эйс...!
+[name="Амия"]   Обещай мне... что ты...
 [Character(fadetime=1.5)]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [name="Эйс"]   ——
-[name="Эйс"]   I'm sorry, Dr. {@nickname}. You might not remember me.
-[name="Эйс"]   But I remember you, and I know what kind of person you are.
-[name="Эйс"]   ... There will come a day when you and Amiya will face this cruel land together.
-[name="Эйс"]   That is why... you must cherish her, Doctor.
-[name="Эйс"]   Let's go.
-[name="Эйс"]   Godspeed.
+[name="Эйс"]   Прости, Доктор {@nickname}. Возможно, ты меня не помнишь.
+[name="Эйс"]   Но я помню тебя и знаю, что ты за человек.
+[name="Эйс"]   ... Настанет день, когда ты и Амия вместе встретитесь с этой жестокой землей.
+[name="Эйс"]   Вот почему... ты должен беречь её, Доктор.
+[name="Эйс"]   Идите.
+[name="Эйс"]   Счастливого пути.
 [Delay(time=0.6)]
 [Dialog]
 [Blocker(block=true)]
