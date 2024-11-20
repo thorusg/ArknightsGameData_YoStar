@@ -4,35 +4,35 @@
 [PlaySound(key="$d_gen_soldiersrun",volume=0.5)]
 [CameraShake(duration=3,xstrength=2,ystrength=3,vibrato=10,randomness=90,fadeout=true,block=true)]
 [Character(name="char_148_nearl_1#3")]
-[name="Nearl"]  Chaaaarge—!!
+[name="Нирл"]  В а-атаку!
 [Character(name="char_1002_nsabr_2")]
-[name="Reunion Member"]   Huh?
-[name="Reunion Member"]   —Who's there?!
+[name="Член Реюниона"]   Чего?
+[name="Член Реюниона"]   -Кто там?!
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]   Tsk, where are you looking? Take this!
+[name="Доберман"]   Куда это ты глядишь? Получай!
 [playsound(key="$p_imp_whip_h", volume=0.7)]
 [Blocker(a=0.7, r=0.95, g=0.95, b=0.95, fadetime=0.02, block=true)]
 [Blocker(a=0, r=0.95, g=0.95, b=0.95, fadetime=0.25, block=true)]
 [Character(name="char_1002_nsabr_2")]
 [CameraShake(duration=3,xstrength=2,ystrength=3,vibrato=10,randomness=90,fadeout=true,block=false)]
-[name="Reunion Member"]   Gah!!
+[name="Член Реюниона"]   Гах!!
 [Dialog]
 [Blocker(a=1, initr=2, r=0, g=0, b=0, fadetime=0.6, block=true)]
 [Character(fadetime=0)]
 [Blocker(a=0, fadetime=0.6, block=true)]
 [Character(name="char_013_riop", name2="char_148_nearl_1", focus=1)]
-[name="Guard"]   Phew...
-[name="Guard"]   Reunion's forces are regrouping behind us... they're getting ready to attack!
+[name="Гард"]   Ух...
+[name="Гард"]   Силы Реюниона перегруппировываются позади нас... они готовятся к атаке!
 [Character(name="char_013_riop", name2="char_148_nearl_1#3", focus=2)]
-[name="Nearl"]  They can't keep pace with us! Keep charging!
+[name="Нирл"]  Им не угнаться за нами! Продолжайте атаку!
 [Character(fadetime=0)]
 [PlaySound(key="$d_gen_soldiersrun",volume=0.8)]
 [CameraShake(duration=3,xstrength=2,ystrength=3,vibrato=10,randomness=90,fadeout=true,block=true)]
 [Character(name="char_130_doberm_ex", name2="char_148_nearl_1#3", focus=1)]
-[name="Dobermann"]  We're almost out of Reunion-controlled territory! Don't stop moving!!
+[name="Доберман"]  Мы почти выбрались за пределы контролируемой Реюнионом территории! Не останавливайтесь!!!
 [Character(name="char_130_doberm_ex", name2="char_148_nearl_1#3", focus=2)]
-[name="Nearl"]   These trifling thugs...
-[name="Nearl"]   ...Can't hope to stop us!
+[name="Нирл"]   Эти пустяковые бандиты...
+[name="Нирл"]   ...Пусть даже не надеются нас остановить!
 [Delay(time=0.6)]
 [Dialog]
 [Blocker(block=true)]
