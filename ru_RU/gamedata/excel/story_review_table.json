@@ -1,5 +1,5 @@
 {
- // "1stact": {
+  "1stact": {
     "id": "1stact",
     "name": "Grani and the Knights' Treasure",
     "entryType": "ACTIVITY",
@@ -451,7 +451,7 @@
       }
     ]
   },
- // "act3d0": {
+  "act3d0": {
     "id": "act3d0",
     "name": "Heart of Surging Flame",
     "entryType": "ACTIVITY",
@@ -1173,7 +1173,7 @@
       }
     ]
   },
- // "act5d0": {
+  "act5d0": {
     "id": "act5d0",
     "name": "Code of Brawl",
     "entryType": "ACTIVITY",
@@ -1922,7 +1922,7 @@
       }
     ]
   },
- // "act11d0": {
+  "act11d0": {
     "id": "act11d0",
     "name": "Twilight of Wolumonde",
     "entryType": "ACTIVITY",
@@ -2482,7 +2482,7 @@
       }
     ]
   },
- // "act9d0": {
+  "act9d0": {
     "id": "act9d0",
     "name": "Darknights Memoir",
     "entryType": "ACTIVITY",
@@ -2853,7 +2853,7 @@
       }
     ]
   },
- // "act12d0": {
+  "act12d0": {
     "id": "act12d0",
     "name": "The Great Chief Returns",
     "entryType": "ACTIVITY",
@@ -3440,7 +3440,7 @@
       }
     ]
   },
- // "act13d5": {
+  "act13d5": {
     "id": "act13d5",
     "name": "Maria Nearl",
     "entryType": "ACTIVITY",
@@ -3973,7 +3973,7 @@
       }
     ]
   },
- // "act15d0": {
+  "act15d0": {
     "id": "act15d0",
     "name": "Mansfield Break",
     "entryType": "ACTIVITY",
@@ -4479,7 +4479,7 @@
       }
     ]
   },
- // "act16d5": {
+  "act16d5": {
     "id": "act16d5",
     "name": "Who Is Real",
     "entryType": "ACTIVITY",
@@ -4958,7 +4958,7 @@
       }
     ]
   },
- // "act17d0": {
+  "act17d0": {
     "id": "act17d0",
     "name": "Operation Originium Dust",
     "entryType": "ACTIVITY",
@@ -5437,7 +5437,7 @@
       }
     ]
   },
- // "act18d0": {
+  "act18d0": {
     "id": "act18d0",
     "name": "A Walk in the Dust",
     "entryType": "ACTIVITY",
@@ -5835,7 +5835,7 @@
       }
     ]
   },
- // "act18d3": {
+  "act18d3": {
     "id": "act18d3",
     "name": "Under Tides",
     "entryType": "ACTIVITY",
@@ -6341,7 +6341,7 @@
       }
     ]
   },
- // "act12side": {
+  "act12side": {
     "id": "act12side",
     "name": "Dossoles Holiday",
     "entryType": "ACTIVITY",
@@ -6901,7 +6901,7 @@
       }
     ]
   },
- // "act13side": {
+  "act13side": {
     "id": "act13side",
     "name": "Near Light",
     "entryType": "ACTIVITY",
@@ -7569,7 +7569,7 @@
       }
     ]
   },
- // "act14side": {
+  "act14side": {
     "id": "act14side",
     "name": "Break the Ice",
     "entryType": "ACTIVITY",
@@ -8129,7 +8129,7 @@
       }
     ]
   },
- // "act15side": {
+  "act15side": {
     "id": "act15side",
     "name": "Invitation to Wine",
     "entryType": "ACTIVITY",
@@ -8662,7 +8662,7 @@
       }
     ]
   },
- // "act16side": {
+  "act16side": {
     "id": "act16side",
     "name": "Guide Ahead",
     "entryType": "ACTIVITY",
@@ -9168,7 +9168,7 @@
       }
     ]
   },
- // "act17side": {
+  "act17side": {
     "id": "act17side",
     "name": "Stultifera Navis",
     "entryType": "ACTIVITY",
@@ -9836,7 +9836,7 @@
       }
     ]
   },
- // "act18side": {
+  "act18side": {
     "id": "act18side",
     "name": "Lingering Echoes",
     "entryType": "ACTIVITY",
@@ -10369,7 +10369,7 @@
       }
     ]
   },
- // "act20side": {
+  "act20side": {
     "id": "act20side",
     "name": "Ideal City: Endless Carnival",
     "entryType": "ACTIVITY",
@@ -10875,7 +10875,7 @@
       }
     ]
   },
- // "act19side": {
+  "act19side": {
     "id": "act19side",
     "name": "Dorothy's Vision",
     "entryType": "ACTIVITY",
@@ -11435,7 +11435,7 @@
       }
     ]
   },
- // "act21side": {
+  "act21side": {
     "id": "act21side",
     "name": "IL Siracusano",
     "entryType": "ACTIVITY",
@@ -12103,7 +12103,7 @@
       }
     ]
   },
- // "act22side": {
+  "act22side": {
     "id": "act22side",
     "name": "What the Firelight Casts",
     "entryType": "ACTIVITY",
@@ -12609,7 +12609,7 @@
       }
     ]
   },
- // "act23side": {
+  "act23side": {
     "id": "act23side",
     "name": "Where Vernal Winds Will Never Blow",
     "entryType": "ACTIVITY",
@@ -13142,7 +13142,7 @@
       }
     ]
   },
- // "act24side": {
+  "act24side": {
     "id": "act24side",
     "name": "A Flurry to the Flame",
     "entryType": "ACTIVITY",
@@ -13675,7 +13675,7 @@
       }
     ]
   },
- // "act25side": {
+  "act25side": {
     "id": "act25side",
     "name": "Lone Trail",
     "entryType": "ACTIVITY",
@@ -14343,7 +14343,7 @@
       }
     ]
   },
- // "act26side": {
+  "act26side": {
     "id": "act26side",
     "name": "Hortus de Escapismo",
     "entryType": "ACTIVITY",
@@ -14876,7 +14876,7 @@
       }
     ]
   },
- // "act27side": {
+  "act27side": {
     "id": "act27side",
     "name": "So Long, Adele: Home Away From Home",
     "entryType": "ACTIVITY",
@@ -15409,7 +15409,7 @@
       }
     ]
   },
- // "act28side": {
+  "act28side": {
     "id": "act28side",
     "name": "Come Catastrophes or Wakes of Vultures",
     "entryType": "ACTIVITY",
@@ -15942,7 +15942,7 @@
       }
     ]
   },
- // "act29side": {
+  "act29side": {
     "id": "act29side",
     "name": "Zwillingstürme im Herbst",
     "entryType": "ACTIVITY",
@@ -16583,7 +16583,7 @@
       }
     ]
   },
- // "act30side": {
+  "act30side": {
     "id": "act30side",
     "name": "The Rides to Lake Silberneherze",
     "entryType": "ACTIVITY",
@@ -17116,7 +17116,7 @@
       }
     ]
   },
- // "act31side": {
+  "act31side": {
     "id": "act31side",
     "name": "Here A People Sows",
     "entryType": "ACTIVITY",
@@ -17649,7 +17649,7 @@
       }
     ]
   },
- // "act32side": {
+  "act32side": {
     "id": "act32side",
     "name": "Operation Lucent Arrowhead",
     "entryType": "ACTIVITY",
@@ -18182,7 +18182,7 @@
       }
     ]
   },
- // "act33side": {
+  "act33side": {
     "id": "act33side",
     "name": "Babel",
     "entryType": "ACTIVITY",
@@ -18823,7 +18823,7 @@
       }
     ]
   },
- // "act34side": {
+  "act34side": {
     "id": "act34side",
     "name": "Path of Life",
     "entryType": "ACTIVITY",
@@ -19356,7 +19356,7 @@
       }
     ]
   },
- // "act35side": {
+  "act35side": {
     "id": "act35side",
     "name": "Adventure That Cannot Wait for the Sun",
     "entryType": "ACTIVITY",
@@ -19889,7 +19889,7 @@
       }
     ]
   },
- // "act36side": {
+  "act36side": {
     "id": "act36side",
     "name": "Delicious On Terra",
     "entryType": "ACTIVITY",
@@ -20341,7 +20341,7 @@
       }
     ]
   },
- // "act37side": {
+  "act37side": {
     "id": "act37side",
     "name": "Ending a Grand Overture",
     "entryType": "ACTIVITY",
@@ -20847,7 +20847,7 @@
       }
     ]
   },
- // "act38side": {
+  "act38side": {
     "id": "act38side",
     "name": "I Portatori dei Velluti",
     "entryType": "ACTIVITY",
@@ -21515,7 +21515,7 @@
       }
     ]
   },
- // "act39side": {
+  "act39side": {
     "id": "act39side",
     "name": "Exodus from the Pale Sea",
     "entryType": "ACTIVITY",
@@ -22048,7 +22048,7 @@
       }
     ]
   },
- // "act40side": {
+  "act40side": {
     "id": "act40side",
     "name": "Such is the Joy of Our Reunion",
     "entryType": "ACTIVITY",
@@ -22581,7 +22581,7 @@
       }
     ]
   },
- // "act41side": {
+  "act41side": {
     "id": "act41side",
     "name": "When Elegies Are Ashes",
     "entryType": "ACTIVITY",
@@ -23114,7 +23114,7 @@
       }
     ]
   },
- // "act4d0": {
+  "act4d0": {
     "id": "act4d0",
     "name": "Operational Intelligence",
     "entryType": "MINI_ACTIVITY",
@@ -23297,7 +23297,7 @@
       }
     ]
   },
- // "act6d5": {
+  "act6d5": {
     "id": "act6d5",
     "name": "Ancient Forge",
     "entryType": "MINI_ACTIVITY",
@@ -23396,7 +23396,7 @@
       }
     ]
   },
- // "act7d5": {
+  "act7d5": {
     "id": "act7d5",
     "name": "Stories of Afternoon",
     "entryType": "MINI_ACTIVITY",
@@ -23558,7 +23558,7 @@
       }
     ]
   },
- // "act10d5": {
+  "act10d5": {
     "id": "act10d5",
     "name": "Children of Ursus",
     "entryType": "MINI_ACTIVITY",
@@ -23741,7 +23741,7 @@
       }
     ]
   },
- // "act13d0": {
+  "act13d0": {
     "id": "act13d0",
     "name": "Rewinding Breeze",
     "entryType": "MINI_ACTIVITY",
@@ -23924,7 +23924,7 @@
       }
     ]
   },
- // "act15d5": {
+  "act15d5": {
     "id": "act15d5",
     "name": "Beyond Here",
     "entryType": "MINI_ACTIVITY",
@@ -24107,7 +24107,7 @@
       }
     ]
   },
- // "act7mini": {
+  "act7mini": {
     "id": "act7mini",
     "name": "Preluding Lights",
     "entryType": "MINI_ACTIVITY",
@@ -24269,7 +24269,7 @@
       }
     ]
   },
- // "act8mini": {
+  "act8mini": {
     "id": "act8mini",
     "name": "Vigilo",
     "entryType": "MINI_ACTIVITY",
@@ -24431,7 +24431,7 @@
       }
     ]
   },
- // "act9mini": {
+  "act9mini": {
     "id": "act9mini",
     "name": "Pinus Sylvestris",
     "entryType": "MINI_ACTIVITY",
@@ -24614,7 +24614,7 @@
       }
     ]
   },
- // "act10mini": {
+  "act10mini": {
     "id": "act10mini",
     "name": "A Light Spark in Darkness",
     "entryType": "MINI_ACTIVITY",
@@ -24776,7 +24776,7 @@
       }
     ]
   },
- // "act11mini": {
+  "act11mini": {
     "id": "act11mini",
     "name": "To Be Continued",
     "entryType": "MINI_ACTIVITY",
@@ -24938,7 +24938,7 @@
       }
     ]
   },
- // "act12mini": {
+  "act12mini": {
     "id": "act12mini",
     "name": "An Obscure Wanderer",
     "entryType": "MINI_ACTIVITY",
@@ -25121,7 +25121,7 @@
       }
     ]
   },
- // "act13mini": {
+  "act13mini": {
     "id": "act13mini",
     "name": "It's Been A While",
     "entryType": "MINI_ACTIVITY",
@@ -25283,7 +25283,7 @@
       }
     ]
   },
- // "act14mini": {
+  "act14mini": {
     "id": "act14mini",
     "name": "A Death in Chunfen",
     "entryType": "MINI_ACTIVITY",
@@ -25445,7 +25445,7 @@
       }
     ]
   },
- // "act15mini": {
+  "act15mini": {
     "id": "act15mini",
     "name": "The Black Forest Wills A Dream",
     "entryType": "MINI_ACTIVITY",
@@ -25628,7 +25628,7 @@
       }
     ]
   },
- // "act16mini": {
+  "act16mini": {
     "id": "act16mini",
     "name": "To the Grinning Valley",
     "entryType": "MINI_ACTIVITY",
@@ -25790,7 +25790,7 @@
       }
     ]
   },
- // "act17mini": {
+  "act17mini": {
     "id": "act17mini",
     "name": "A Kazdelian Rescue",
     "entryType": "MINI_ACTIVITY",
@@ -25952,7 +25952,7 @@
       }
     ]
   },
- // "act18mini": {
+  "act18mini": {
     "id": "act18mini",
     "name": "See You Soon",
     "entryType": "MINI_ACTIVITY",
@@ -26500,7 +26500,7 @@
       }
     ]
   },
-//  "main_1": {
+  "main_1": {
     "id": "main_1",
     "name": "Evil Time Part 2",
     "entryType": "MAINLINE",
@@ -26844,7 +26844,7 @@
       }
     ]
   },
-//  "main_2": {
+  "main_2": {
     "id": "main_2",
     "name": "Separated Hearts",
     "entryType": "MAINLINE",
@@ -27404,7 +27404,7 @@
       }
     ]
   },
-//  "main_3": {
+  "main_3": {
     "id": "main_3",
     "name": "Stinging Shock",
     "entryType": "MAINLINE",
@@ -27856,7 +27856,7 @@
       }
     ]
   },
-//  "main_4": {
+  "main_4": {
     "id": "main_4",
     "name": "Burning Run",
     "entryType": "MAINLINE",
@@ -28416,7 +28416,7 @@
       }
     ]
   },
-//  "main_5": {
+  "main_5": {
     "id": "main_5",
     "name": "Necessary Solutions",
     "entryType": "MAINLINE",
@@ -28895,7 +28895,7 @@
       }
     ]
   },
-//  "main_6": {
+  "main_6": {
     "id": "main_6",
     "name": "Partial Necrosis",
     "entryType": "MAINLINE",
@@ -29644,7 +29644,7 @@
       }
     ]
   },
-//  "main_7": {
+  "main_7": {
     "id": "main_7",
     "name": "The Birth of Tragedy",
     "entryType": "MAINLINE",
@@ -30204,7 +30204,7 @@
       }
     ]
   },
-//  "main_8": {
+  "main_8": {
     "id": "main_8",
     "name": "Roaring Flare",
     "entryType": "MAINLINE",
@@ -31277,7 +31277,7 @@
       }
     ]
   },
-//  "main_9": {
+  "main_9": {
     "id": "main_9",
     "name": "Stormwatch",
     "entryType": "MAINLINE",
@@ -31837,7 +31837,7 @@
       }
     ]
   },
-//  "main_10": {
+  "main_10": {
     "id": "main_10",
     "name": "Shatterpoint",
     "entryType": "MAINLINE",
@@ -32613,7 +32613,7 @@
       }
     ]
   },
-//  "main_11": {
+  "main_11": {
     "id": "main_11",
     "name": "Return To Mist",
     "entryType": "MAINLINE",
@@ -33362,7 +33362,7 @@
       }
     ]
   },
-//  "main_12": {
+  "main_12": {
     "id": "main_12",
     "name": "All Quiet Under the Thunder",
     "entryType": "MAINLINE",
@@ -34111,7 +34111,7 @@
       }
     ]
   },
-//  "main_13": {
+  "main_13": {
     "id": "main_13",
     "name": "The Whirlpool that is Passion",
     "entryType": "MAINLINE",
@@ -34860,7 +34860,7 @@
       }
     ]
   },
-//  "main_14": {
+  "main_14": {
     "id": "main_14",
     "name": "Absolved Will Be the Seekers",
     "entryType": "MAINLINE",
@@ -35987,7 +35987,7 @@
       }
     ]
   },
-//  "main_15": {
+  "main_15": {
     "id": "main_15",
     "name": "Dissociative Recombination",
     "entryType": "MAINLINE",
@@ -36682,7 +36682,7 @@
       }
     ]
   },
-//  "story_12fce_set_1": {
+  "story_12fce_set_1": {
     "id": "story_12fce_set_1",
     "name": "Certain Choices",
     "entryType": "NONE",
@@ -36723,7 +36723,7 @@
       }
     ]
   },
-//  "story_kroos_set_1": {
+  "story_kroos_set_1": {
     "id": "story_kroos_set_1",
     "name": "Apples",
     "entryType": "NONE",
@@ -36764,7 +36764,7 @@
       }
     ]
   },
-//  "story_rope_set_1": {
+  "story_rope_set_1": {
     "id": "story_rope_set_1",
     "name": "Floral Perfume",
     "entryType": "NONE",
@@ -36826,7 +36826,7 @@
       }
     ]
   },
-//  "story_yuki_set_1": {
+  "story_yuki_set_1": {
     "id": "story_yuki_set_1",
     "name": "The Way of Shinobi",
     "entryType": "NONE",
@@ -36867,7 +36867,7 @@
       }
     ]
   },
-//  "story_broca_set_1": {
+  "story_broca_set_1": {
     "id": "story_broca_set_1",
     "name": "The First Step Towards Trust",
     "entryType": "NONE",
@@ -36908,7 +36908,7 @@
       }
     ]
   },
-//  "story_prove_set_1": {
+  "story_prove_set_1": {
     "id": "story_prove_set_1",
     "name": "Coworkers",
     "entryType": "NONE",
@@ -36949,7 +36949,7 @@
       }
     ]
   },
-//  "story_milu_set_1": {
+  "story_milu_set_1": {
     "id": "story_milu_set_1",
     "name": "On My Way",
     "entryType": "NONE",
@@ -36990,7 +36990,7 @@
       }
     ]
   },
-//  "story_cerber_set_1": {
+  "story_cerber_set_1": {
     "id": "story_cerber_set_1",
     "name": "XXL Honey Biscuit",
     "entryType": "NONE",
@@ -37031,7 +37031,7 @@
       }
     ]
   },
-//  "story_amgoat_set_1": {
+  "story_amgoat_set_1": {
     "id": "story_amgoat_set_1",
     "name": "Heart of a Scholar",
     "entryType": "NONE",
@@ -37072,7 +37072,7 @@
       }
     ]
   },
-//  "story_amgoat_set_2": {
+  "story_amgoat_set_2": {
     "id": "story_amgoat_set_2",
     "name": "Volcano",
     "entryType": "NONE",
@@ -37113,7 +37113,7 @@
       }
     ]
   },
-//  "story_phatom_set_1": {
+  "story_phatom_set_1": {
     "id": "story_phatom_set_1",
     "name": "Cooperation",
     "entryType": "NONE",
@@ -37154,7 +37154,7 @@
       }
     ]
   },
-//  "story_medic2_set_1": {
+  "story_medic2_set_1": {
     "id": "story_medic2_set_1",
     "name": "A Piece of Graffiti",
     "entryType": "NONE",
@@ -37195,7 +37195,7 @@
       }
     ]
   },
-//  "story_melan_set_1": {
+  "story_melan_set_1": {
     "id": "story_melan_set_1",
     "name": "Team Captain",
     "entryType": "NONE",
@@ -37236,7 +37236,7 @@
       }
     ]
   },
-//  "story_lava_set_1": {
+  "story_lava_set_1": {
     "id": "story_lava_set_1",
     "name": "'Sisters'",
     "entryType": "NONE",
@@ -37277,7 +37277,7 @@
       }
     ]
   },
-//  "story_lava_set_2": {
+  "story_lava_set_2": {
     "id": "story_lava_set_2",
     "name": "'Caring'",
     "entryType": "NONE",
@@ -37318,7 +37318,7 @@
       }
     ]
   },
-//  "story_vigna_set_1": {
+  "story_vigna_set_1": {
     "id": "story_vigna_set_1",
     "name": "What You've Gotta Do",
     "entryType": "NONE",
@@ -37359,7 +37359,7 @@
       }
     ]
   },
-//  "story_fmout_set_1": {
+  "story_fmout_set_1": {
     "id": "story_fmout_set_1",
     "name": "'Divination'",
     "entryType": "NONE",
@@ -37400,7 +37400,7 @@
       }
     ]
   },
-//  "story_otter_set_1": {
+  "story_otter_set_1": {
     "id": "story_otter_set_1",
     "name": "One Packed Daily Schedule",
     "entryType": "NONE",
@@ -37441,7 +37441,7 @@
       }
     ]
   },
-//  "story_bldsk_set_1": {
+  "story_bldsk_set_1": {
     "id": "story_bldsk_set_1",
     "name": "'Monster'",
     "entryType": "NONE",
@@ -37482,7 +37482,7 @@
       }
     ]
   },
-//  "story_aglina_set_1": {
+  "story_aglina_set_1": {
     "id": "story_aglina_set_1",
     "name": "'Package with No Recipient'",
     "entryType": "NONE",
@@ -37544,7 +37544,7 @@
       }
     ]
   },
-//  "story_ethan_set_1": {
+  "story_ethan_set_1": {
     "id": "story_ethan_set_1",
     "name": "'Old Friends in Foreign Places'",
     "entryType": "NONE",
@@ -37585,7 +37585,7 @@
       }
     ]
   },
-//  "story_flower_set_1": {
+  "story_flower_set_1": {
     "id": "story_flower_set_1",
     "name": "'Refurbishment Plans'",
     "entryType": "NONE",
@@ -37626,7 +37626,7 @@
       }
     ]
   },
-//  "story_liskam_set_1": {
+  "story_liskam_set_1": {
     "id": "story_liskam_set_1",
     "name": "'Apple Pie Party, Now Preparing!'",
     "entryType": "NONE",
@@ -37667,7 +37667,7 @@
       }
     ]
   },
-//  "story_liskam_set_2": {
+  "story_liskam_set_2": {
     "id": "story_liskam_set_2",
     "name": "'Still Waiting'",
     "entryType": "NONE",
@@ -37708,7 +37708,7 @@
       }
     ]
   },
-//  "story_shwaz_set_1": {
+  "story_shwaz_set_1": {
     "id": "story_shwaz_set_1",
     "name": "'The Day We Left Home'",
     "entryType": "NONE",
@@ -37749,7 +37749,7 @@
       }
     ]
   },
-//  "story_noirc_set_1": {
+  "story_noirc_set_1": {
     "id": "story_noirc_set_1",
     "name": "The Other Side of the Deck",
     "entryType": "NONE",
@@ -37790,7 +37790,7 @@
       }
     ]
   },
-//  "story_tiger_set_1": {
+  "story_tiger_set_1": {
     "id": "story_tiger_set_1",
     "name": "The Guide to Mutual Learning",
     "entryType": "NONE",
@@ -37831,7 +37831,7 @@
       }
     ]
   },
-//  "story_sidero_set_1": {
+  "story_sidero_set_1": {
     "id": "story_sidero_set_1",
     "name": "Diligent",
     "entryType": "NONE",
@@ -37872,7 +37872,7 @@
       }
     ]
   },
-//  "story_angel_set_1": {
+  "story_angel_set_1": {
     "id": "story_angel_set_1",
     "name": "Incoming Mail",
     "entryType": "NONE",
@@ -37913,7 +37913,7 @@
       }
     ]
   },
-//  "story_nights_set_1": {
+  "story_nights_set_1": {
     "id": "story_nights_set_1",
     "name": "'Kitties'",
     "entryType": "NONE",
@@ -37954,7 +37954,7 @@
       }
     ]
   },
-//  "story_ghost_set_1": {
+  "story_ghost_set_1": {
     "id": "story_ghost_set_1",
     "name": "Merry Christmas!",
     "entryType": "NONE",
@@ -37995,7 +37995,7 @@
       }
     ]
   },
-//  "story_texas_set_1": {
+  "story_texas_set_1": {
     "id": "story_texas_set_1",
     "name": "Guaranteed Success",
     "entryType": "NONE",
@@ -38036,7 +38036,7 @@
       }
     ]
   },
-//  "story_helage_set_1": {
+  "story_helage_set_1": {
     "id": "story_helage_set_1",
     "name": "Fate",
     "entryType": "NONE",
@@ -38077,7 +38077,7 @@
       }
     ]
   },
-//  "story_therex_set_1": {
+  "story_therex_set_1": {
     "id": "story_therex_set_1",
     "name": "Scorching-Hot Assault!",
     "entryType": "NONE",
@@ -38118,7 +38118,7 @@
       }
     ]
   },
-//  "story_skgoat_set_1": {
+  "story_skgoat_set_1": {
     "id": "story_skgoat_set_1",
     "name": "Extra Work",
     "entryType": "NONE",
@@ -38159,7 +38159,7 @@
       }
     ]
   },
-//  "story_savage_set_1": {
+  "story_savage_set_1": {
     "id": "story_savage_set_1",
     "name": "Painful Reversal",
     "entryType": "NONE",
@@ -38200,7 +38200,7 @@
       }
     ]
   },
-//  "story_savage_set_2": {
+  "story_savage_set_2": {
     "id": "story_savage_set_2",
     "name": "No Less Than a Pie",
     "entryType": "NONE",
@@ -38262,7 +38262,7 @@
       }
     ]
   },
-//  "story_cgbird_set_1": {
+  "story_cgbird_set_1": {
     "id": "story_cgbird_set_1",
     "name": "A Song and a Blue Feather",
     "entryType": "NONE",
@@ -38303,7 +38303,7 @@
       }
     ]
   },
-//  "story_f12yin_set_1": {
+  "story_f12yin_set_1": {
     "id": "story_f12yin_set_1",
     "name": "Unexpected Annoyance",
     "entryType": "NONE",
@@ -38344,7 +38344,7 @@
       }
     ]
   },
-//  "story_popka_set_1": {
+  "story_popka_set_1": {
     "id": "story_popka_set_1",
     "name": "Funtime",
     "entryType": "NONE",
@@ -38385,7 +38385,7 @@
       }
     ]
   },
-//  "story_shotst_set_1": {
+  "story_shotst_set_1": {
     "id": "story_shotst_set_1",
     "name": "Scalding Old Memories",
     "entryType": "NONE",
@@ -38426,7 +38426,7 @@
       }
     ]
   },
-//  "story_breeze_set_1": {
+  "story_breeze_set_1": {
     "id": "story_breeze_set_1",
     "name": "Breeze's Warmth, Chilled Forest",
     "entryType": "NONE",
@@ -38467,7 +38467,7 @@
       }
     ]
   },
-//  "story_mostma_set_1": {
+  "story_mostma_set_1": {
     "id": "story_mostma_set_1",
     "name": "Atop the Skyscrapers",
     "entryType": "NONE",
@@ -38508,7 +38508,7 @@
       }
     ]
   },
-//  "story_durin_set_1": {
+  "story_durin_set_1": {
     "id": "story_durin_set_1",
     "name": "Lunchtime Nap",
     "entryType": "NONE",
@@ -38549,7 +38549,7 @@
       }
     ]
   },
-//  "story_durnar_set_1": {
+  "story_durnar_set_1": {
     "id": "story_durnar_set_1",
     "name": "Extra Training",
     "entryType": "NONE",
@@ -38590,7 +38590,7 @@
       }
     ]
   },
-//  "story_durnar_set_2": {
+  "story_durnar_set_2": {
     "id": "story_durnar_set_2",
     "name": "A Glass with Old Stories",
     "entryType": "NONE",
@@ -38631,7 +38631,7 @@
       }
     ]
   },
-//  "story_gravel_set_1": {
+  "story_gravel_set_1": {
     "id": "story_gravel_set_1",
     "name": "Past in Dreams",
     "entryType": "NONE",
@@ -38672,7 +38672,7 @@
       }
     ]
   },
-//  "story_huang_set_1": {
+  "story_huang_set_1": {
     "id": "story_huang_set_1",
     "name": "Will You?",
     "entryType": "NONE",
@@ -38713,7 +38713,7 @@
       }
     ]
   },
-//  "story_chen2_set_1": {
+  "story_chen2_set_1": {
     "id": "story_chen2_set_1",
     "name": "Belonging",
     "entryType": "NONE",
@@ -38754,7 +38754,7 @@
       }
     ]
   },
-//  "story_chen2_set_2": {
+  "story_chen2_set_2": {
     "id": "story_chen2_set_2",
     "name": "Pathways",
     "entryType": "NONE",
@@ -38795,7 +38795,7 @@
       }
     ]
   },
-//  "story_fang_set_1": {
+  "story_fang_set_1": {
     "id": "story_fang_set_1",
     "name": "Second Charge",
     "entryType": "NONE",
@@ -38836,7 +38836,7 @@
       }
     ]
   },
-//  "story_ghost_set_2": {
+  "story_ghost_set_2": {
     "id": "story_ghost_set_2",
     "name": "I, Namely I",
     "entryType": "NONE",
@@ -38877,7 +38877,7 @@
       }
     ]
   },
-//  "story_susuro_set_1": {
+  "story_susuro_set_1": {
     "id": "story_susuro_set_1",
     "name": "Professional Doctor",
     "entryType": "NONE",
@@ -38918,7 +38918,7 @@
       }
     ]
   },
-//  "story_glady_set_1": {
+  "story_glady_set_1": {
     "id": "story_glady_set_1",
     "name": "Dehydration",
     "entryType": "NONE",
@@ -38959,7 +38959,7 @@
       }
     ]
   },
-//  "story_tomimi_set_1": {
+  "story_tomimi_set_1": {
     "id": "story_tomimi_set_1",
     "name": "Brand New Life",
     "entryType": "NONE",
@@ -39000,7 +39000,7 @@
       }
     ]
   },
-//  "story_sqrrel_set_1": {
+  "story_sqrrel_set_1": {
     "id": "story_sqrrel_set_1",
     "name": "Careful of Flammables",
     "entryType": "NONE",
@@ -39041,7 +39041,7 @@
       }
     ]
   },
-//  "story_ardign_set_1": {
+  "story_ardign_set_1": {
     "id": "story_ardign_set_1",
     "name": "It'll Be Fine, Guaranteed!",
     "entryType": "NONE",
@@ -39082,7 +39082,7 @@
       }
     ]
   },
-//  "story_bpipe_set_1": {
+  "story_bpipe_set_1": {
     "id": "story_bpipe_set_1",
     "name": "Dangerous Road",
     "entryType": "NONE",
@@ -39123,7 +39123,7 @@
       }
     ]
   },
-//  "story_sora_set_1": {
+  "story_sora_set_1": {
     "id": "story_sora_set_1",
     "name": "Distance",
     "entryType": "NONE",
@@ -39164,7 +39164,7 @@
       }
     ]
   },
-//  "story_catap_set_1": {
+  "story_catap_set_1": {
     "id": "story_catap_set_1",
     "name": "Break Free",
     "entryType": "NONE",
@@ -39205,7 +39205,7 @@
       }
     ]
   },
-//  "story_catap_set_2": {
+  "story_catap_set_2": {
     "id": "story_catap_set_2",
     "name": "Change",
     "entryType": "NONE",
@@ -39246,7 +39246,7 @@
       }
     ]
   },
-//  "story_midn_set_1": {
+  "story_midn_set_1": {
     "id": "story_midn_set_1",
     "name": "Letter From Home",
     "entryType": "NONE",
@@ -39287,7 +39287,7 @@
       }
     ]
   },
-//  "story_nearl2_set_1": {
+  "story_nearl2_set_1": {
     "id": "story_nearl2_set_1",
     "name": "Starting Point",
     "entryType": "NONE",
@@ -39328,7 +39328,7 @@
       }
     ]
   },
-//  "story_platnm_set_1": {
+  "story_platnm_set_1": {
     "id": "story_platnm_set_1",
     "name": "Bubbles",
     "entryType": "NONE",
@@ -39369,7 +39369,7 @@
       }
     ]
   },
-//  "story_plosis_set_1": {
+  "story_plosis_set_1": {
     "id": "story_plosis_set_1",
     "name": "Deep, Dark Dream",
     "entryType": "NONE",
@@ -39410,7 +39410,7 @@
       }
     ]
   },
-//  "story_sunbr_set_1": {
+  "story_sunbr_set_1": {
     "id": "story_sunbr_set_1",
     "name": "Lost Companion",
     "entryType": "NONE",
@@ -39451,7 +39451,7 @@
       }
     ]
   },
-//  "story_sunbr_set_2": {
+  "story_sunbr_set_2": {
     "id": "story_sunbr_set_2",
     "name": "Growing Up",
     "entryType": "NONE",
@@ -39492,7 +39492,7 @@
       }
     ]
   },
-//  "story_blemsh_set_1": {
+  "story_blemsh_set_1": {
     "id": "story_blemsh_set_1",
     "name": "Ready to Serve",
     "entryType": "NONE",
@@ -39533,7 +39533,7 @@
       }
     ]
   },
-//  "story_mantic_set_1": {
+  "story_mantic_set_1": {
     "id": "story_mantic_set_1",
     "name": "Dead Silence",
     "entryType": "NONE",
@@ -39574,7 +39574,7 @@
       }
     ]
   },
-//  "story_shotst_set_2": {
+  "story_shotst_set_2": {
     "id": "story_shotst_set_2",
     "name": "Dilemma",
     "entryType": "NONE",
@@ -39615,7 +39615,7 @@
       }
     ]
   },
-//  "story_wyvern_set_1": {
+  "story_wyvern_set_1": {
     "id": "story_wyvern_set_1",
     "name": "Originium Slugs and Hops",
     "entryType": "NONE",
@@ -39656,7 +39656,7 @@
       }
     ]
   },
-//  "story_cast3_set_1": {
+  "story_cast3_set_1": {
     "id": "story_cast3_set_1",
     "name": "Immortal",
     "entryType": "NONE",
@@ -39697,7 +39697,7 @@
       }
     ]
   },
-//  "story_svrash_set_1": {
+  "story_svrash_set_1": {
     "id": "story_svrash_set_1",
     "name": "Unpredictable",
     "entryType": "NONE",
@@ -39738,7 +39738,7 @@
       }
     ]
   },
-//  "story_svrash_set_2": {
+  "story_svrash_set_2": {
     "id": "story_svrash_set_2",
     "name": "Unbreakable Ice",
     "entryType": "NONE",
@@ -39779,7 +39779,7 @@
       }
     ]
   },
-//  "story_slbell_set_1": {
+  "story_slbell_set_1": {
     "id": "story_slbell_set_1",
     "name": "Beyond the Snowy Mountain",
     "entryType": "NONE",
@@ -39820,7 +39820,7 @@
       }
     ]
   },
-//  "story_slchan_set_1": {
+  "story_slchan_set_1": {
     "id": "story_slchan_set_1",
     "name": "Heart of the Cliffs",
     "entryType": "NONE",
@@ -39861,7 +39861,7 @@
       }
     ]
   },
-//  "story_yak_set_1": {
+  "story_yak_set_1": {
     "id": "story_yak_set_1",
     "name": "One Day",
     "entryType": "NONE",
@@ -39902,7 +39902,7 @@
       }
     ]
   },
-//  "story_mizuki_set_1": {
+  "story_mizuki_set_1": {
     "id": "story_mizuki_set_1",
     "name": "The Fifth Contact",
     "entryType": "NONE",
@@ -39943,7 +39943,7 @@
       }
     ]
   },
-//  "story_glassb_set_1": {
+  "story_glassb_set_1": {
     "id": "story_glassb_set_1",
     "name": "Let's Go, Let's Go",
     "entryType": "NONE",
@@ -39984,7 +39984,7 @@
       }
     ]
   },
-//  "story_prove_set_2": {
+  "story_prove_set_2": {
     "id": "story_prove_set_2",
     "name": "A Perilous Road",
     "entryType": "NONE",
@@ -40025,7 +40025,7 @@
       }
     ]
   },
-//  "story_falco_set_1": {
+  "story_falco_set_1": {
     "id": "story_falco_set_1",
     "name": "A Grand, Distant Ideal",
     "entryType": "NONE",
@@ -40066,7 +40066,7 @@
       }
     ]
   },
-//  "story_ncdeer_set_1": {
+  "story_ncdeer_set_1": {
     "id": "story_ncdeer_set_1",
     "name": "Great Compassion",
     "entryType": "NONE",
@@ -40107,7 +40107,7 @@
       }
     ]
   },
-//  "story_ling_set_1": {
+  "story_ling_set_1": {
     "id": "story_ling_set_1",
     "name": "From a Long Dream Woken",
     "entryType": "NONE",
@@ -40148,7 +40148,7 @@
       }
     ]
   },
-//  "story_nian_set_1": {
+  "story_nian_set_1": {
     "id": "story_nian_set_1",
     "name": "A Thousand Years in a Sigh",
     "entryType": "NONE",
@@ -40189,7 +40189,7 @@
       }
     ]
   },
-//  "story_panda_set_1": {
+  "story_panda_set_1": {
     "id": "story_panda_set_1",
     "name": "Nosedive",
     "entryType": "NONE",
@@ -40230,7 +40230,7 @@
       }
     ]
   },
-//  "story_swire_set_1": {
+  "story_swire_set_1": {
     "id": "story_swire_set_1",
     "name": "Day Before the Job",
     "entryType": "NONE",
@@ -40271,7 +40271,7 @@
       }
     ]
   },
-//  "story_chen_set_1": {
+  "story_chen_set_1": {
     "id": "story_chen_set_1",
     "name": "In One Effort",
     "entryType": "NONE",
@@ -40312,7 +40312,7 @@
       }
     ]
   },
-//  "story_nothin_set_1": {
+  "story_nothin_set_1": {
     "id": "story_nothin_set_1",
     "name": "Drowning",
     "entryType": "NONE",
@@ -40353,7 +40353,7 @@
       }
     ]
   },
-//  "story_strong_set_1": {
+  "story_strong_set_1": {
     "id": "story_strong_set_1",
     "name": "Roll With Your Mistakes",
     "entryType": "NONE",
@@ -40394,7 +40394,7 @@
       }
     ]
   },
-//  "story_sqrrel_set_2": {
+  "story_sqrrel_set_2": {
     "id": "story_sqrrel_set_2",
     "name": "Flammables",
     "entryType": "NONE",
@@ -40435,7 +40435,7 @@
       }
     ]
   },
-//  "story_phenxi_set_1": {
+  "story_phenxi_set_1": {
     "id": "story_phenxi_set_1",
     "name": "Paradisus",
     "entryType": "NONE",
@@ -40476,7 +40476,7 @@
       }
     ]
   },
-//  "story_franka_set_1": {
+  "story_franka_set_1": {
     "id": "story_franka_set_1",
     "name": "Symbols of the Past",
     "entryType": "NONE",
@@ -40517,7 +40517,7 @@
       }
     ]
   },
-//  "story_myrrh_set_1": {
+  "story_myrrh_set_1": {
     "id": "story_myrrh_set_1",
     "name": "Lucky Charm",
     "entryType": "NONE",
@@ -40558,7 +40558,7 @@
       }
     ]
   },
-//  "story_scave_set_1": {
+  "story_scave_set_1": {
     "id": "story_scave_set_1",
     "name": "The Will of a Coin",
     "entryType": "NONE",
@@ -40599,7 +40599,7 @@
       }
     ]
   },
-//  "story_angel_set_2": {
+  "story_angel_set_2": {
     "id": "story_angel_set_2",
     "name": "Constants Within Changes",
     "entryType": "NONE",
@@ -40640,7 +40640,7 @@
       }
     ]
   },
-//  "story_waaifu_set_1": {
+  "story_waaifu_set_1": {
     "id": "story_waaifu_set_1",
     "name": "What Martial Arts Serve",
     "entryType": "NONE",
@@ -40681,7 +40681,7 @@
       }
     ]
   },
-//  "story_folivo_set_1": {
+  "story_folivo_set_1": {
     "id": "story_folivo_set_1",
     "name": "Recorder",
     "entryType": "NONE",
@@ -40722,7 +40722,7 @@
       }
     ]
   },
-//  "story_horn_set_1": {
+  "story_horn_set_1": {
     "id": "story_horn_set_1",
     "name": "Solo",
     "entryType": "NONE",
@@ -40763,7 +40763,7 @@
       }
     ]
   },
-//  "story_ceylon_set_1": {
+  "story_ceylon_set_1": {
     "id": "story_ceylon_set_1",
     "name": "Heartfelt Present",
     "entryType": "NONE",
@@ -40804,7 +40804,7 @@
       }
     ]
   },
-//  "story_bldsk_set_2": {
+  "story_bldsk_set_2": {
     "id": "story_bldsk_set_2",
     "name": "Rarely Serious",
     "entryType": "NONE",
@@ -40845,7 +40845,7 @@
       }
     ]
   },
-//  "story_jesica_set_1": {
+  "story_jesica_set_1": {
     "id": "story_jesica_set_1",
     "name": "The Slow Walk Ahead",
     "entryType": "NONE",
@@ -40886,7 +40886,7 @@
       }
     ]
   },
-//  "story_cutter_set_1": {
+  "story_cutter_set_1": {
     "id": "story_cutter_set_1",
     "name": "Meals, Ready-to-Eat",
     "entryType": "NONE",
@@ -40927,7 +40927,7 @@
       }
     ]
   },
-//  "story_ghost2_set_1": {
+  "story_ghost2_set_1": {
     "id": "story_ghost2_set_1",
     "name": "Selfhood",
     "entryType": "NONE",
@@ -40968,7 +40968,7 @@
       }
     ]
   },
-//  "story_irene_set_1": {
+  "story_irene_set_1": {
     "id": "story_irene_set_1",
     "name": "Lantern's Twilight",
     "entryType": "NONE",
@@ -41009,7 +41009,7 @@
       }
     ]
   },
-//  "story_whispr_set_1": {
+  "story_whispr_set_1": {
     "id": "story_whispr_set_1",
     "name": "Before the Rain",
     "entryType": "NONE",
@@ -41050,7 +41050,7 @@
       }
     ]
   },
-//  "story_asbest_set_1": {
+  "story_asbest_set_1": {
     "id": "story_asbest_set_1",
     "name": "Strange Sights",
     "entryType": "NONE",
@@ -41091,7 +41091,7 @@
       }
     ]
   },
-//  "story_flower_set_2": {
+  "story_flower_set_2": {
     "id": "story_flower_set_2",
     "name": "How Old Trees Grow",
     "entryType": "NONE",
@@ -41132,7 +41132,7 @@
       }
     ]
   },
-//  "story_orchid_set_1": {
+  "story_orchid_set_1": {
     "id": "story_orchid_set_1",
     "name": "Incomplete",
     "entryType": "NONE",
@@ -41173,7 +41173,7 @@
       }
     ]
   },
-//  "story_ebnhlz_set_1": {
+  "story_ebnhlz_set_1": {
     "id": "story_ebnhlz_set_1",
     "name": "Lone Lamp",
     "entryType": "NONE",
@@ -41214,7 +41214,7 @@
       }
     ]
   },
-//  "story_hbisc2_set_1": {
+  "story_hbisc2_set_1": {
     "id": "story_hbisc2_set_1",
     "name": "Nameless Flower",
     "entryType": "NONE",
@@ -41255,7 +41255,7 @@
       }
     ]
   },
-//  "story_skgoat_set_2": {
+  "story_skgoat_set_2": {
     "id": "story_skgoat_set_2",
     "name": "Distant Relic",
     "entryType": "NONE",
@@ -41296,7 +41296,7 @@
       }
     ]
   },
-//  "story_hmau_set_1": {
+  "story_hmau_set_1": {
     "id": "story_hmau_set_1",
     "name": "South Wall",
     "entryType": "NONE",
@@ -41337,7 +41337,7 @@
       }
     ]
   },
-//  "story_greyy_set_1": {
+  "story_greyy_set_1": {
     "id": "story_greyy_set_1",
     "name": "Filter Stars",
     "entryType": "NONE",
@@ -41378,7 +41378,7 @@
       }
     ]
   },
-//  "story_skadi_set_1": {
+  "story_skadi_set_1": {
     "id": "story_skadi_set_1",
     "name": "Endless Journey",
     "entryType": "NONE",
@@ -41419,7 +41419,7 @@
       }
     ]
   },
-//  "story_aosta_set_1": {
+  "story_aosta_set_1": {
     "id": "story_aosta_set_1",
     "name": "Future Woven",
     "entryType": "NONE",
@@ -41460,7 +41460,7 @@
       }
     ]
   },
-//  "story_toddi_set_1": {
+  "story_toddi_set_1": {
     "id": "story_toddi_set_1",
     "name": "Armor and Crossbow",
     "entryType": "NONE",
@@ -41501,7 +41501,7 @@
       }
     ]
   },
-//  "story_greyy2_set_1": {
+  "story_greyy2_set_1": {
     "id": "story_greyy2_set_1",
     "name": "Light, He Wrote",
     "entryType": "NONE",
@@ -41542,7 +41542,7 @@
       }
     ]
   },
-//  "story_ifrit_set_1": {
+  "story_ifrit_set_1": {
     "id": "story_ifrit_set_1",
     "name": "Team Captain",
     "entryType": "NONE",
@@ -41583,7 +41583,7 @@
       }
     ]
   },
-//  "story_silent_set_1": {
+  "story_silent_set_1": {
     "id": "story_silent_set_1",
     "name": "New to the Workforce",
     "entryType": "NONE",
@@ -41624,7 +41624,7 @@
       }
     ]
   },
-//  "story_bluep_set_1": {
+  "story_bluep_set_1": {
     "id": "story_bluep_set_1",
     "name": "Untouchable",
     "entryType": "NONE",
@@ -41665,7 +41665,7 @@
       }
     ]
   },
-//  "story_gvial2_set_1": {
+  "story_gvial2_set_1": {
     "id": "story_gvial2_set_1",
     "name": "In the Name of Alcohol!",
     "entryType": "NONE",
@@ -41706,7 +41706,7 @@
       }
     ]
   },
-//  "story_thorns_set_1": {
+  "story_thorns_set_1": {
     "id": "story_thorns_set_1",
     "name": "Anniversary",
     "entryType": "NONE",
@@ -41747,7 +41747,7 @@
       }
     ]
   },
-//  "story_flint_set_1": {
+  "story_flint_set_1": {
     "id": "story_flint_set_1",
     "name": "Warrior's Due",
     "entryType": "NONE",
@@ -41788,7 +41788,7 @@
       }
     ]
   },
-//  "story_aprl_set_1": {
+  "story_aprl_set_1": {
     "id": "story_aprl_set_1",
     "name": "Hunter's Vision",
     "entryType": "NONE",
@@ -41829,7 +41829,7 @@
       }
     ]
   },
-//  "story_indigo_set_1": {
+  "story_indigo_set_1": {
     "id": "story_indigo_set_1",
     "name": "Hardcore Drink",
     "entryType": "NONE",
@@ -41870,7 +41870,7 @@
       }
     ]
   },
-//  "story_pinecn_set_1": {
+  "story_pinecn_set_1": {
     "id": "story_pinecn_set_1",
     "name": "Yours Sincerely",
     "entryType": "NONE",
@@ -41911,7 +41911,7 @@
       }
     ]
   },
-//  "story_mgllan_set_1": {
+  "story_mgllan_set_1": {
     "id": "story_mgllan_set_1",
     "name": "Cycle of Life",
     "entryType": "NONE",
@@ -41952,7 +41952,7 @@
       }
     ]
   },
-//  "story_hpsts_set_1": {
+  "story_hpsts_set_1": {
     "id": "story_hpsts_set_1",
     "name": "Forging",
     "entryType": "NONE",
@@ -41993,7 +41993,7 @@
       }
     ]
   },
-//  "story_skfire_set_1": {
+  "story_skfire_set_1": {
     "id": "story_skfire_set_1",
     "name": "Old Classmate",
     "entryType": "NONE",
@@ -42034,7 +42034,7 @@
       }
     ]
   },
-//  "story_brownb_set_1": {
+  "story_brownb_set_1": {
     "id": "story_brownb_set_1",
     "name": "Ending Bell",
     "entryType": "NONE",
@@ -42075,7 +42075,7 @@
       }
     ]
   },
-//  "story_otter_set_2": {
+  "story_otter_set_2": {
     "id": "story_otter_set_2",
     "name": "Heart of Creation",
     "entryType": "NONE",
@@ -42116,7 +42116,7 @@
       }
     ]
   },
-//  "story_headbr_set_1": {
+  "story_headbr_set_1": {
     "id": "story_headbr_set_1",
     "name": "Strong Meets Stronger",
     "entryType": "NONE",
@@ -42157,7 +42157,7 @@
       }
     ]
   },
-//  "story_estell_set_1": {
+  "story_estell_set_1": {
     "id": "story_estell_set_1",
     "name": "One Small Step For Her",
     "entryType": "NONE",
@@ -42198,7 +42198,7 @@
       }
     ]
   },
-//  "story_podego_set_1": {
+  "story_podego_set_1": {
     "id": "story_podego_set_1",
     "name": "Bloom Season",
     "entryType": "NONE",
@@ -42239,7 +42239,7 @@
       }
     ]
   },
-//  "story_weedy_set_1": {
+  "story_weedy_set_1": {
     "id": "story_weedy_set_1",
     "name": "Together Aboard",
     "entryType": "NONE",
@@ -42280,7 +42280,7 @@
       }
     ]
   },
-//  "story_aurora_set_1": {
+  "story_aurora_set_1": {
     "id": "story_aurora_set_1",
     "name": "What She Saw",
     "entryType": "NONE",
@@ -42321,7 +42321,7 @@
       }
     ]
   },
-//  "story_mint_set_1": {
+  "story_mint_set_1": {
     "id": "story_mint_set_1",
     "name": "Yesterday Once More",
     "entryType": "NONE",
@@ -42362,7 +42362,7 @@
       }
     ]
   },
-//  "story_bstalk_set_1": {
+  "story_bstalk_set_1": {
     "id": "story_bstalk_set_1",
     "name": "The Wilds Do They Call",
     "entryType": "NONE",
@@ -42403,7 +42403,7 @@
       }
     ]
   },
-//  "story_lolxh_set_1": {
+  "story_lolxh_set_1": {
     "id": "story_lolxh_set_1",
     "name": "Sleepwalker Sailing",
     "entryType": "NONE",
@@ -42444,7 +42444,7 @@
       }
     ]
   },
-//  "story_moeshd_set_1": {
+  "story_moeshd_set_1": {
     "id": "story_moeshd_set_1",
     "name": "The Business",
     "entryType": "NONE",
@@ -42485,7 +42485,7 @@
       }
     ]
   },
-//  "story_kirara_set_1": {
+  "story_kirara_set_1": {
     "id": "story_kirara_set_1",
     "name": "Secret Ending",
     "entryType": "NONE",
@@ -42526,7 +42526,7 @@
       }
     ]
   },
-//  "story_kirara_set_2": {
+  "story_kirara_set_2": {
     "id": "story_kirara_set_2",
     "name": "No-Damage Clear",
     "entryType": "NONE",
@@ -42567,7 +42567,7 @@
       }
     ]
   },
-//  "story_billro_set_1": {
+  "story_billro_set_1": {
     "id": "story_billro_set_1",
     "name": "Protector's Nature",
     "entryType": "NONE",
@@ -42608,7 +42608,7 @@
       }
     ]
   },
-//  "story_bibeak_set_1": {
+  "story_bibeak_set_1": {
     "id": "story_bibeak_set_1",
     "name": "Shell Break",
     "entryType": "NONE",
@@ -42649,7 +42649,7 @@
       }
     ]
   },
-//  "story_tuye_set_1": {
+  "story_tuye_set_1": {
     "id": "story_tuye_set_1",
     "name": "Desert Rainbow",
     "entryType": "NONE",
@@ -42690,7 +42690,7 @@
       }
     ]
   },
-//  "story_beewax_set_1": {
+  "story_beewax_set_1": {
     "id": "story_beewax_set_1",
     "name": "Trail of Sands",
     "entryType": "NONE",
@@ -42731,7 +42731,7 @@
       }
     ]
   },
-//  "story_glider_set_1": {
+  "story_glider_set_1": {
     "id": "story_glider_set_1",
     "name": "A Bitterest Rhizome",
     "entryType": "NONE",
@@ -42772,7 +42772,7 @@
       }
     ]
   },
-//  "story_windft_set_1": {
+  "story_windft_set_1": {
     "id": "story_windft_set_1",
     "name": "Lone Dance at the Old Factory",
     "entryType": "NONE",
@@ -42813,7 +42813,7 @@
       }
     ]
   },
-//  "story_rockr_set_1": {
+  "story_rockr_set_1": {
     "id": "story_rockr_set_1",
     "name": "Six Hundred Pounds",
     "entryType": "NONE",
@@ -42854,7 +42854,7 @@
       }
     ]
   },
-//  "story_totter_set_1": {
+  "story_totter_set_1": {
     "id": "story_totter_set_1",
     "name": "A Plan",
     "entryType": "NONE",
@@ -42895,7 +42895,7 @@
       }
     ]
   },
-//  "story_vigil_set_1": {
+  "story_vigil_set_1": {
     "id": "story_vigil_set_1",
     "name": "Future Coming",
     "entryType": "NONE",
@@ -42936,7 +42936,7 @@
       }
     ]
   },
-//  "story_f12yin_set_2": {
+  "story_f12yin_set_2": {
     "id": "story_f12yin_set_2",
     "name": "Sinner's Path",
     "entryType": "NONE",
@@ -42977,7 +42977,7 @@
       }
     ]
   },
-//  "story_wildmn_set_1": {
+  "story_wildmn_set_1": {
     "id": "story_wildmn_set_1",
     "name": "Aspiration",
     "entryType": "NONE",
@@ -43018,7 +43018,7 @@
       }
     ]
   },
-//  "story_elysm_set_1": {
+  "story_elysm_set_1": {
     "id": "story_elysm_set_1",
     "name": "Long Journey",
     "entryType": "NONE",
@@ -43059,7 +43059,7 @@
       }
     ]
   },
-//  "story_meteo_set_1": {
+  "story_meteo_set_1": {
     "id": "story_meteo_set_1",
     "name": "Firefly's Light",
     "entryType": "NONE",
@@ -43100,7 +43100,7 @@
       }
     ]
   },
-//  "story_spot_set_1": {
+  "story_spot_set_1": {
     "id": "story_spot_set_1",
     "name": "Face of the Hero",
     "entryType": "NONE",
@@ -43141,7 +43141,7 @@
       }
     ]
   },
-//  "story_astesi_set_1": {
+  "story_astesi_set_1": {
     "id": "story_astesi_set_1",
     "name": "Revelation",
     "entryType": "NONE",
@@ -43182,7 +43182,7 @@
       }
     ]
   },
-//  "story_takila_set_1": {
+  "story_takila_set_1": {
     "id": "story_takila_set_1",
     "name": "Taste of Thorns",
     "entryType": "NONE",
@@ -43223,7 +43223,7 @@
       }
     ]
   },
-//  "story_deepcl_set_1": {
+  "story_deepcl_set_1": {
     "id": "story_deepcl_set_1",
     "name": "Azure Memories",
     "entryType": "NONE",
@@ -43264,7 +43264,7 @@
       }
     ]
   },
-//  "story_robrta_set_1": {
+  "story_robrta_set_1": {
     "id": "story_robrta_set_1",
     "name": "Elegy",
     "entryType": "NONE",
@@ -43305,7 +43305,7 @@
       }
     ]
   },
-//  "story_sleach_set_1": {
+  "story_sleach_set_1": {
     "id": "story_sleach_set_1",
     "name": "A Pair of Fowlbeasts",
     "entryType": "NONE",
@@ -43346,7 +43346,7 @@
       }
     ]
   },
-//  "story_hamoni_set_1": {
+  "story_hamoni_set_1": {
     "id": "story_hamoni_set_1",
     "name": "Solitary Dancer",
     "entryType": "NONE",
@@ -43387,7 +43387,7 @@
       }
     ]
   },
-//  "story_mm_set_1": {
+  "story_mm_set_1": {
     "id": "story_mm_set_1",
     "name": "The Great Detective's Case Files - Volume I",
     "entryType": "NONE",
@@ -43428,7 +43428,7 @@
       }
     ]
   },
-//  "story_frncat_set_1": {
+  "story_frncat_set_1": {
     "id": "story_frncat_set_1",
     "name": "Sweetheart",
     "entryType": "NONE",
@@ -43469,7 +43469,7 @@
       }
     ]
   },
-//  "story_archet_set_1": {
+  "story_archet_set_1": {
     "id": "story_archet_set_1",
     "name": "Idol Promotion",
     "entryType": "NONE",
@@ -43510,7 +43510,7 @@
       }
     ]
   },
-//  "story_serum_set_1": {
+  "story_serum_set_1": {
     "id": "story_serum_set_1",
     "name": "Corroserum's Badge",
     "entryType": "NONE",
@@ -43551,7 +43551,7 @@
       }
     ]
   },
-//  "story_zebra_set_1": {
+  "story_zebra_set_1": {
     "id": "story_zebra_set_1",
     "name": "Untimeliness",
     "entryType": "NONE",
@@ -43592,7 +43592,7 @@
       }
     ]
   },
-//  "story_bibeak_set_2": {
+  "story_bibeak_set_2": {
     "id": "story_bibeak_set_2",
     "name": "Through the Long Hallway",
     "entryType": "NONE",
@@ -43633,7 +43633,7 @@
       }
     ]
   },
-//  "story_chyue_set_1": {
+  "story_chyue_set_1": {
     "id": "story_chyue_set_1",
     "name": "Once Upon a Time, I Wandered Afar",
     "entryType": "NONE",
@@ -43674,7 +43674,7 @@
       }
     ]
   },
-//  "story_dusk_set_1": {
+  "story_dusk_set_1": {
     "id": "story_dusk_set_1",
     "name": "Dawn and Dusk",
     "entryType": "NONE",
@@ -43715,7 +43715,7 @@
       }
     ]
   },
-//  "story_haak_set_1": {
+  "story_haak_set_1": {
     "id": "story_haak_set_1",
     "name": "A Night of Terror",
     "entryType": "NONE",
@@ -43756,7 +43756,7 @@
       }
     ]
   },
-//  "story_lmlee_set_1": {
+  "story_lmlee_set_1": {
     "id": "story_lmlee_set_1",
     "name": "Three Square Meals a Day",
     "entryType": "NONE",
@@ -43797,7 +43797,7 @@
       }
     ]
   },
-//  "story_mberry_set_1": {
+  "story_mberry_set_1": {
     "id": "story_mberry_set_1",
     "name": "A Prayer for Peace",
     "entryType": "NONE",
@@ -43838,7 +43838,7 @@
       }
     ]
   },
-//  "story_blkngt_set_1": {
+  "story_blkngt_set_1": {
     "id": "story_blkngt_set_1",
     "name": "Souls of the Wilderness",
     "entryType": "NONE",
@@ -43879,7 +43879,7 @@
       }
     ]
   },
-//  "story_quercu_set_1": {
+  "story_quercu_set_1": {
     "id": "story_quercu_set_1",
     "name": "Final Moments",
     "entryType": "NONE",
@@ -43920,7 +43920,7 @@
       }
     ]
   },
-//  "story_quercu_set_2": {
+  "story_quercu_set_2": {
     "id": "story_quercu_set_2",
     "name": "The Sprouts of Life",
     "entryType": "NONE",
@@ -43961,7 +43961,7 @@
       }
     ]
   },
-//  "story_iris_set_1": {
+  "story_iris_set_1": {
     "id": "story_iris_set_1",
     "name": "The Candy House",
     "entryType": "NONE",
@@ -44002,7 +44002,7 @@
       }
     ]
   },
-//  "story_chiave_set_1": {
+  "story_chiave_set_1": {
     "id": "story_chiave_set_1",
     "name": "Masterpiece",
     "entryType": "NONE",
@@ -44043,7 +44043,7 @@
       }
     ]
   },
-//  "story_bgsnow_set_1": {
+  "story_bgsnow_set_1": {
     "id": "story_bgsnow_set_1",
     "name": "Fallen Inktrails",
     "entryType": "NONE",
@@ -44084,7 +44084,7 @@
       }
     ]
   },
-//  "story_tknogi_set_1": {
+  "story_tknogi_set_1": {
     "id": "story_tknogi_set_1",
     "name": "An Ordinary Sunset",
     "entryType": "NONE",
@@ -44125,7 +44125,7 @@
       }
     ]
   },
-//  "story_snsant_set_1": {
+  "story_snsant_set_1": {
     "id": "story_snsant_set_1",
     "name": "A Dilemma of Values",
     "entryType": "NONE",
@@ -44166,7 +44166,7 @@
       }
     ]
   },
-//  "story_acdrop_set_1": {
+  "story_acdrop_set_1": {
     "id": "story_acdrop_set_1",
     "name": "The Face of a Wall",
     "entryType": "NONE",
@@ -44207,7 +44207,7 @@
       }
     ]
   },
-//  "story_bison_set_1": {
+  "story_bison_set_1": {
     "id": "story_bison_set_1",
     "name": "A Fulfilling Holiday",
     "entryType": "NONE",
@@ -44248,7 +44248,7 @@
       }
     ]
   },
-//  "story_breeze_set_2": {
+  "story_breeze_set_2": {
     "id": "story_breeze_set_2",
     "name": "Prisoner's Dream",
     "entryType": "NONE",
@@ -44289,7 +44289,7 @@
       }
     ]
   },
-//  "story_vodfox_set_1": {
+  "story_vodfox_set_1": {
     "id": "story_vodfox_set_1",
     "name": "A Curse Without Words",
     "entryType": "NONE",
@@ -44330,7 +44330,7 @@
       }
     ]
   },
-//  "story_sophia_set_1": {
+  "story_sophia_set_1": {
     "id": "story_sophia_set_1",
     "name": "Exclusive Interview",
     "entryType": "NONE",
@@ -44371,7 +44371,7 @@
       }
     ]
   },
-//  "story_morgan_set_1": {
+  "story_morgan_set_1": {
     "id": "story_morgan_set_1",
     "name": "Beneath the Worthy Wheel",
     "entryType": "NONE",
@@ -44412,7 +44412,7 @@
       }
     ]
   },
-//  "story_cammou_set_1": {
+  "story_cammou_set_1": {
     "id": "story_cammou_set_1",
     "name": "Unmanned Workshop",
     "entryType": "NONE",
@@ -44453,7 +44453,7 @@
       }
     ]
   },
-//  "story_strong_set_2": {
+  "story_strong_set_2": {
     "id": "story_strong_set_2",
     "name": "VIP",
     "entryType": "NONE",
@@ -44494,7 +44494,7 @@
       }
     ]
   },
-//  "story_lumen_set_1": {
+  "story_lumen_set_1": {
     "id": "story_lumen_set_1",
     "name": "Till the Lights Shine Bright",
     "entryType": "NONE",
@@ -44535,7 +44535,7 @@
       }
     ]
   },
-//  "story_ayer_set_1": {
+  "story_ayer_set_1": {
     "id": "story_ayer_set_1",
     "name": "Seeker in the Sands",
     "entryType": "NONE",
@@ -44576,7 +44576,7 @@
       }
     ]
   },
-//  "story_lionhd_set_1": {
+  "story_lionhd_set_1": {
     "id": "story_lionhd_set_1",
     "name": "Living in Darkness",
     "entryType": "NONE",
@@ -44617,7 +44617,7 @@
       }
     ]
   },
-//  "story_quartz_set_1": {
+  "story_quartz_set_1": {
     "id": "story_quartz_set_1",
     "name": "No Regrets",
     "entryType": "NONE",
@@ -44658,7 +44658,7 @@
       }
     ]
   },
-//  "story_doroth_set_1": {
+  "story_doroth_set_1": {
     "id": "story_doroth_set_1",
     "name": "Where is the Friend's House?",
     "entryType": "NONE",
@@ -44699,7 +44699,7 @@
       }
     ]
   },
-//  "story_peper_set_1": {
+  "story_peper_set_1": {
     "id": "story_peper_set_1",
     "name": "Mercenary Youth",
     "entryType": "NONE",
@@ -44740,7 +44740,7 @@
       }
     ]
   },
-//  "story_sesa_set_1": {
+  "story_sesa_set_1": {
     "id": "story_sesa_set_1",
     "name": "Fatal Attraction",
     "entryType": "NONE",
@@ -44781,7 +44781,7 @@
       }
     ]
   },
-//  "story_glacus_set_1": {
+  "story_glacus_set_1": {
     "id": "story_glacus_set_1",
     "name": "On My Own Two Legs",
     "entryType": "NONE",
@@ -44822,7 +44822,7 @@
       }
     ]
   },
-//  "story_frostl_set_1": {
+  "story_frostl_set_1": {
     "id": "story_frostl_set_1",
     "name": "Learning to Read",
     "entryType": "NONE",
@@ -44863,7 +44863,7 @@
       }
     ]
   },
-//  "story_headbr_set_2": {
+  "story_headbr_set_2": {
     "id": "story_headbr_set_2",
     "name": "Burning on a Winter Night",
     "entryType": "NONE",
@@ -44904,7 +44904,7 @@
       }
     ]
   },
-//  "story_erato_set_1": {
+  "story_erato_set_1": {
     "id": "story_erato_set_1",
     "name": "The Epic of Heroes",
     "entryType": "NONE",
@@ -44945,7 +44945,7 @@
       }
     ]
   },
-//  "story_ctable_set_1": {
+  "story_ctable_set_1": {
     "id": "story_ctable_set_1",
     "name": "A Fowl Through the Window",
     "entryType": "NONE",
@@ -44986,7 +44986,7 @@
       }
     ]
   },
-//  "story_kazema_set_1": {
+  "story_kazema_set_1": {
     "id": "story_kazema_set_1",
     "name": "One Should, One Must",
     "entryType": "NONE",
@@ -45027,7 +45027,7 @@
       }
     ]
   },
-//  "story_jaksel_set_1": {
+  "story_jaksel_set_1": {
     "id": "story_jaksel_set_1",
     "name": "A Priceless Medal",
     "entryType": "NONE",
@@ -45068,7 +45068,7 @@
       }
     ]
   },
-//  "story_excu_set_1": {
+  "story_excu_set_1": {
     "id": "story_excu_set_1",
     "name": "Executor",
     "entryType": "NONE",
@@ -45109,7 +45109,7 @@
       }
     ]
   },
-//  "story_inside_set_1": {
+  "story_inside_set_1": {
     "id": "story_inside_set_1",
     "name": "Secret Mission",
     "entryType": "NONE",
@@ -45150,7 +45150,7 @@
       }
     ]
   },
-//  "story_leizi_set_1": {
+  "story_leizi_set_1": {
     "id": "story_leizi_set_1",
     "name": "One Who Controls Lightning",
     "entryType": "NONE",
@@ -45191,7 +45191,7 @@
       }
     ]
   },
-//  "story_forcer_set_1": {
+  "story_forcer_set_1": {
     "id": "story_forcer_set_1",
     "name": "Departure Plans",
     "entryType": "NONE",
@@ -45232,7 +45232,7 @@
       }
     ]
   },
-//  "story_firwhl_set_1": {
+  "story_firwhl_set_1": {
     "id": "story_firwhl_set_1",
     "name": "The Lone Goer",
     "entryType": "NONE",
@@ -45273,7 +45273,7 @@
       }
     ]
   },
-//  "story_kafka_set_1": {
+  "story_kafka_set_1": {
     "id": "story_kafka_set_1",
     "name": "Let's Keep That a Secret",
     "entryType": "NONE",
@@ -45314,7 +45314,7 @@
       }
     ]
   },
-//  "story_pudd_set_1": {
+  "story_pudd_set_1": {
     "id": "story_pudd_set_1",
     "name": "What the Snow's Like Far Away",
     "entryType": "NONE",
@@ -45355,7 +45355,7 @@
       }
     ]
   },
-//  "story_utage_set_1": {
+  "story_utage_set_1": {
     "id": "story_utage_set_1",
     "name": "The Game of Chic",
     "entryType": "NONE",
@@ -45396,7 +45396,7 @@
       }
     ]
   },
-//  "story_mlyss_set_1": {
+  "story_mlyss_set_1": {
     "id": "story_mlyss_set_1",
     "name": "April Showers",
     "entryType": "NONE",
@@ -45437,7 +45437,7 @@
       }
     ]
   },
-//  "story_qanik_set_1": {
+  "story_qanik_set_1": {
     "id": "story_qanik_set_1",
     "name": "Blizzards Be Your Voice",
     "entryType": "NONE",
@@ -45478,7 +45478,7 @@
       }
     ]
   },
-//  "story_provs_set_1": {
+  "story_provs_set_1": {
     "id": "story_provs_set_1",
     "name": "Hypothetically Just",
     "entryType": "NONE",
@@ -45519,7 +45519,7 @@
       }
     ]
   },
-//  "story_akafyu_set_1": {
+  "story_akafyu_set_1": {
     "id": "story_akafyu_set_1",
     "name": "Swordswoman from a Distant Land",
     "entryType": "NONE",
@@ -45560,7 +45560,7 @@
       }
     ]
   },
-//  "story_halo_set_1": {
+  "story_halo_set_1": {
     "id": "story_halo_set_1",
     "name": "Now Experimenting...",
     "entryType": "NONE",
@@ -45601,7 +45601,7 @@
       }
     ]
   },
-//  "story_glassb_set_2": {
+  "story_glassb_set_2": {
     "id": "story_glassb_set_2",
     "name": "Before I Say Goodbye",
     "entryType": "NONE",
@@ -45642,7 +45642,7 @@
       }
     ]
   },
-//  "story_snakek_set_1": {
+  "story_snakek_set_1": {
     "id": "story_snakek_set_1",
     "name": "The Great Bagnapping Adventure",
     "entryType": "NONE",
@@ -45683,7 +45683,7 @@
       }
     ]
   },
-//  "story_nblade_set_1": {
+  "story_nblade_set_1": {
     "id": "story_nblade_set_1",
     "name": "Tachihaki",
     "entryType": "NONE",
@@ -45724,7 +45724,7 @@
       }
     ]
   },
-//  "story_sleach_set_2": {
+  "story_sleach_set_2": {
     "id": "story_sleach_set_2",
     "name": "Flowers by the Temples of Your Head",
     "entryType": "NONE",
@@ -45765,7 +45765,7 @@
       }
     ]
   },
-//  "story_bryota_set_1": {
+  "story_bryota_set_1": {
     "id": "story_bryota_set_1",
     "name": "Day & Night at Fashion Street",
     "entryType": "NONE",
@@ -45806,7 +45806,7 @@
       }
     ]
   },
-//  "story_myrtle_set_1": {
+  "story_myrtle_set_1": {
     "id": "story_myrtle_set_1",
     "name": "Mission Report Filing Guide",
     "entryType": "NONE",
@@ -45847,7 +45847,7 @@
       }
     ]
   },
-//  "story_humus_set_1": {
+  "story_humus_set_1": {
     "id": "story_humus_set_1",
     "name": "Wasteland Artisan",
     "entryType": "NONE",
@@ -45888,7 +45888,7 @@
       }
     ]
   },
-//  "story_malist_set_1": {
+  "story_malist_set_1": {
     "id": "story_malist_set_1",
     "name": "In the Endless Summer",
     "entryType": "NONE",
@@ -45929,7 +45929,7 @@
       }
     ]
   },
-//  "story_grani_set_1": {
+  "story_grani_set_1": {
     "id": "story_grani_set_1",
     "name": "Once Rock Bottom...",
     "entryType": "NONE",
@@ -45970,7 +45970,7 @@
       }
     ]
   },
-//  "story_chnut_set_1": {
+  "story_chnut_set_1": {
     "id": "story_chnut_set_1",
     "name": "Black Rocks",
     "entryType": "NONE",
@@ -46011,7 +46011,7 @@
       }
     ]
   },
-//  "story_hibisc_set_1": {
+  "story_hibisc_set_1": {
     "id": "story_hibisc_set_1",
     "name": "The Best Cure",
     "entryType": "NONE",
@@ -46052,7 +46052,7 @@
       }
     ]
   },
-//  "story_jesca2_set_1": {
+  "story_jesca2_set_1": {
     "id": "story_jesca2_set_1",
     "name": "Insignia",
     "entryType": "NONE",
@@ -46093,7 +46093,7 @@
       }
     ]
   },
-//  "story_excu2_set_1": {
+  "story_excu2_set_1": {
     "id": "story_excu2_set_1",
     "name": "Azure",
     "entryType": "NONE",
@@ -46134,7 +46134,7 @@
       }
     ]
   },
-//  "story_finlpp_set_1": {
+  "story_finlpp_set_1": {
     "id": "story_finlpp_set_1",
     "name": "A Trickle, a Rapids",
     "entryType": "NONE",
@@ -46175,7 +46175,7 @@
       }
     ]
   },
-//  "story_franka_set_2": {
+  "story_franka_set_2": {
     "id": "story_franka_set_2",
     "name": "To a Standstill",
     "entryType": "NONE",
@@ -46216,7 +46216,7 @@
       }
     ]
   },
-//  "story_crow_set_1": {
+  "story_crow_set_1": {
     "id": "story_crow_set_1",
     "name": "Plumas de Tenacidad",
     "entryType": "NONE",
@@ -46257,7 +46257,7 @@
       }
     ]
   },
-//  "story_clour_set_1": {
+  "story_clour_set_1": {
     "id": "story_clour_set_1",
     "name": "Somewhere to Make Home",
     "entryType": "NONE",
@@ -46298,7 +46298,7 @@
       }
     ]
   },
-//  "story_bena_set_1": {
+  "story_bena_set_1": {
     "id": "story_bena_set_1",
     "name": "The Simple Wish",
     "entryType": "NONE",
@@ -46339,7 +46339,7 @@
       }
     ]
   },
-//  "story_dagda_set_1": {
+  "story_dagda_set_1": {
     "id": "story_dagda_set_1",
     "name": "How She Strode Onward",
     "entryType": "NONE",
@@ -46380,7 +46380,7 @@
       }
     ]
   },
-//  "story_excu_set_2": {
+  "story_excu_set_2": {
     "id": "story_excu_set_2",
     "name": "Enemy",
     "entryType": "NONE",
@@ -46421,7 +46421,7 @@
       }
     ]
   },
-//  "story_sddrag_set_1": {
+  "story_sddrag_set_1": {
     "id": "story_sddrag_set_1",
     "name": "Heart Like a Reed",
     "entryType": "NONE",
@@ -46462,7 +46462,7 @@
       }
     ]
   },
-//  "story_heidi_set_1": {
+  "story_heidi_set_1": {
     "id": "story_heidi_set_1",
     "name": "The First Letter",
     "entryType": "NONE",
@@ -46503,7 +46503,7 @@
       }
     ]
   },
-//  "story_almond_set_1": {
+  "story_almond_set_1": {
     "id": "story_almond_set_1",
     "name": "Long-Haul",
     "entryType": "NONE",
@@ -46544,7 +46544,7 @@
       }
     ]
   },
-//  "story_poca_set_1": {
+  "story_poca_set_1": {
     "id": "story_poca_set_1",
     "name": "Yesterday's Morrow",
     "entryType": "NONE",
@@ -46585,7 +46585,7 @@
       }
     ]
   },
-//  "story_pianst_set_1": {
+  "story_pianst_set_1": {
     "id": "story_pianst_set_1",
     "name": "Dämmerung und Anbruch",
     "entryType": "NONE",
@@ -46626,7 +46626,7 @@
       }
     ]
   },
-//  "story_sntlla_set_1": {
+  "story_sntlla_set_1": {
     "id": "story_sntlla_set_1",
     "name": "Stirring Future's Snowflakes",
     "entryType": "NONE",
@@ -46667,7 +46667,7 @@
       }
     ]
   },
-//  "story_aprot2_set_1": {
+  "story_aprot2_set_1": {
     "id": "story_aprot2_set_1",
     "name": "The Play That Was",
     "entryType": "NONE",
@@ -46708,7 +46708,7 @@
       }
     ]
   },
-//  "story_cello_set_1": {
+  "story_cello_set_1": {
     "id": "story_cello_set_1",
     "name": "Himmelszelt und Federwolke",
     "entryType": "NONE",
@@ -46749,7 +46749,7 @@
       }
     ]
   },
-//  "story_kaitou_set_1": {
+  "story_kaitou_set_1": {
     "id": "story_kaitou_set_1",
     "name": "Refracted Starlight",
     "entryType": "NONE",
@@ -46790,7 +46790,7 @@
       }
     ]
   },
-//  "story_leto_set_1": {
+  "story_leto_set_1": {
     "id": "story_leto_set_1",
     "name": "Hide-and-Seek",
     "entryType": "NONE",
@@ -46831,7 +46831,7 @@
       }
     ]
   },
-//  "story_gnosis_set_1": {
+  "story_gnosis_set_1": {
     "id": "story_gnosis_set_1",
     "name": "Starting Point",
     "entryType": "NONE",
@@ -46872,7 +46872,7 @@
       }
     ]
   },
-//  "story_kjera_set_1": {
+  "story_kjera_set_1": {
     "id": "story_kjera_set_1",
     "name": "All She Cares About",
     "entryType": "NONE",
@@ -46913,7 +46913,7 @@
       }
     ]
   },
-//  "story_astesi_set_2": {
+  "story_astesi_set_2": {
     "id": "story_astesi_set_2",
     "name": "Return to Radiance",
     "entryType": "NONE",
@@ -46954,7 +46954,7 @@
       }
     ]
   },
-//  "story_buildr_set_1": {
+  "story_buildr_set_1": {
     "id": "story_buildr_set_1",
     "name": "The Fowlbeast That Returned",
     "entryType": "NONE",
@@ -46995,7 +46995,7 @@
       }
     ]
   },
-//  "story_melnte_set_1": {
+  "story_melnte_set_1": {
     "id": "story_melnte_set_1",
     "name": "Lost Time",
     "entryType": "NONE",
@@ -47036,7 +47036,7 @@
       }
     ]
   },
-//  "story_bubble_set_1": {
+  "story_bubble_set_1": {
     "id": "story_bubble_set_1",
     "name": "Trial For The Brave",
     "entryType": "NONE",
@@ -47077,7 +47077,7 @@
       }
     ]
   },
-//  "story_ansel_set_1": {
+  "story_ansel_set_1": {
     "id": "story_ansel_set_1",
     "name": "As A Medic",
     "entryType": "NONE",
@@ -47118,7 +47118,7 @@
       }
     ]
   },
-//  "story_shu_set_1": {
+  "story_shu_set_1": {
     "id": "story_shu_set_1",
     "name": "...Ask What I Seek",
     "entryType": "NONE",
@@ -47159,7 +47159,7 @@
       }
     ]
   },
-//  "story_qiubai_set_1": {
+  "story_qiubai_set_1": {
     "id": "story_qiubai_set_1",
     "name": "Thawing as the Winter",
     "entryType": "NONE",
@@ -47200,7 +47200,7 @@
       }
     ]
   },
-//  "story_chimes_set_1": {
+  "story_chimes_set_1": {
     "id": "story_chimes_set_1",
     "name": "Once a Leaf Has Fallen...",
     "entryType": "NONE",
@@ -47241,7 +47241,7 @@
       }
     ]
   },
-//  "story_slchan_set_2": {
+  "story_slchan_set_2": {
     "id": "story_slchan_set_2",
     "name": "New Peaks",
     "entryType": "NONE",
@@ -47282,7 +47282,7 @@
       }
     ]
   },
-//  "story_blitz_set_1": {
+  "story_blitz_set_1": {
     "id": "story_blitz_set_1",
     "name": "The Team's Sturdy Shield",
     "entryType": "NONE",
@@ -47323,7 +47323,7 @@
       }
     ]
   },
-//  "story_rfrost_set_1": {
+  "story_rfrost_set_1": {
     "id": "story_rfrost_set_1",
     "name": "Searching for Home",
     "entryType": "NONE",
@@ -47364,7 +47364,7 @@
       }
     ]
   },
-//  "story_ash_set_1": {
+  "story_ash_set_1": {
     "id": "story_ash_set_1",
     "name": "Traveling Companions",
     "entryType": "NONE",
@@ -47405,7 +47405,7 @@
       }
     ]
   },
-//  "story_tachak_set_1": {
+  "story_tachak_set_1": {
     "id": "story_tachak_set_1",
     "name": "The Same As Always",
     "entryType": "NONE",
@@ -47446,7 +47446,7 @@
       }
     ]
   },
-//  "story_ela_set_1": {
+  "story_ela_set_1": {
     "id": "story_ela_set_1",
     "name": "'Like The First Time'",
     "entryType": "NONE",
@@ -47487,7 +47487,7 @@
       }
     ]
   },
-//  "story_iana_set_1": {
+  "story_iana_set_1": {
     "id": "story_iana_set_1",
     "name": "Searching for Tomorrow",
     "entryType": "NONE",
@@ -47528,7 +47528,7 @@
       }
     ]
   },
-//  "story_fuze_set_1": {
+  "story_fuze_set_1": {
     "id": "story_fuze_set_1",
     "name": "Waking From A Dream",
     "entryType": "NONE",
@@ -47569,7 +47569,7 @@
       }
     ]
   },
-//  "story_rdoc_set_1": {
+  "story_rdoc_set_1": {
     "id": "story_rdoc_set_1",
     "name": "Ambiguous Appearance",
     "entryType": "NONE",
@@ -47610,7 +47610,7 @@
       }
     ]
   },
-//  "story_judge_set_1": {
+  "story_judge_set_1": {
     "id": "story_judge_set_1",
     "name": "Under My Umbrella",
     "entryType": "NONE",
@@ -47651,7 +47651,7 @@
       }
     ]
   },
-//  "story_spuria_set_1": {
+  "story_spuria_set_1": {
     "id": "story_spuria_set_1",
     "name": "A Gunshot Rings Out",
     "entryType": "NONE",
@@ -47692,7 +47692,7 @@
       }
     ]
   },
-//  "story_lunacu_set_1": {
+  "story_lunacu_set_1": {
     "id": "story_lunacu_set_1",
     "name": "To Dance With Somebody",
     "entryType": "NONE",
@@ -47733,7 +47733,7 @@
       }
     ]
   },
-//  "story_vrdant_set_1": {
+  "story_vrdant_set_1": {
     "id": "story_vrdant_set_1",
     "name": "Little Tuft, Where Art Thou?",
     "entryType": "NONE",
@@ -47774,7 +47774,7 @@
       }
     ]
   },
-//  "story_ascln_set_1": {
+  "story_ascln_set_1": {
     "id": "story_ascln_set_1",
     "name": "The Ones Who Walk With You",
     "entryType": "NONE",
@@ -47815,7 +47815,7 @@
       }
     ]
   },
-//  "story_shining_set_1": {
+  "story_shining_set_1": {
     "id": "story_shining_set_1",
     "name": "On a Rainy Night",
     "entryType": "NONE",
@@ -47856,7 +47856,7 @@
       }
     ]
   },
-//  "story_siege_set_1": {
+  "story_siege_set_1": {
     "id": "story_siege_set_1",
     "name": "Miraged Sun",
     "entryType": "NONE",
@@ -47897,7 +47897,7 @@
       }
     ]
   },
-//  "story_aroma_set_1": {
+  "story_aroma_set_1": {
     "id": "story_aroma_set_1",
     "name": "Come And Join Us",
     "entryType": "NONE",
@@ -47938,7 +47938,7 @@
       }
     ]
   },
-//  "story_swllow_set_1": {
+  "story_swllow_set_1": {
     "id": "story_swllow_set_1",
     "name": "All Roads...",
     "entryType": "NONE",
@@ -47979,7 +47979,7 @@
       }
     ]
   },
-//  "story_haini_set_1": {
+  "story_haini_set_1": {
     "id": "story_haini_set_1",
     "name": "The Hopeful Ones",
     "entryType": "NONE",
@@ -48020,7 +48020,7 @@
       }
     ]
   },
-//  "story_coldst_set_1": {
+  "story_coldst_set_1": {
     "id": "story_coldst_set_1",
     "name": "Have A Safe Trip",
     "entryType": "NONE",
@@ -48061,7 +48061,7 @@
       }
     ]
   },
-//  "story_luton_set_1": {
+  "story_luton_set_1": {
     "id": "story_luton_set_1",
     "name": "Under the Shining Sun",
     "entryType": "NONE",
@@ -48102,7 +48102,7 @@
       }
     ]
   },
-//  "story_deepcl_set_2": {
+  "story_deepcl_set_2": {
     "id": "story_deepcl_set_2",
     "name": "Blue Notes",
     "entryType": "NONE",
@@ -48143,7 +48143,7 @@
       }
     ]
   },
-//  "story_caper_set_1": {
+  "story_caper_set_1": {
     "id": "story_caper_set_1",
     "name": "Happy Place",
     "entryType": "NONE",
@@ -48184,7 +48184,7 @@
       }
     ]
   },
-//  "story_glaze_set_1": {
+  "story_glaze_set_1": {
     "id": "story_glaze_set_1",
     "name": "Evening in the Holy City",
     "entryType": "NONE",
@@ -48225,7 +48225,7 @@
       }
     ]
   },
-//  "story_harold_set_1": {
+  "story_harold_set_1": {
     "id": "story_harold_set_1",
     "name": "The Veteran's Prosthetic Limb",
     "entryType": "NONE",
@@ -48266,7 +48266,7 @@
       }
     ]
   },
-//  "story_warmy_set_1": {
+  "story_warmy_set_1": {
     "id": "story_warmy_set_1",
     "name": "Unfinished Ending",
     "entryType": "NONE",
@@ -48307,7 +48307,7 @@
       }
     ]
   },
-//  "story_agoat2_set_1": {
+  "story_agoat2_set_1": {
     "id": "story_agoat2_set_1",
     "name": "The First Step Into Night",
     "entryType": "NONE",
@@ -48348,7 +48348,7 @@
       }
     ]
   },
-//  "story_mudrok_set_1": {
+  "story_mudrok_set_1": {
     "id": "story_mudrok_set_1",
     "name": "In Kazdel",
     "entryType": "NONE",
@@ -48389,7 +48389,7 @@
       }
     ]
   },
-//  "story_lasher_set_1": {
+  "story_lasher_set_1": {
     "id": "story_lasher_set_1",
     "name": "Things Left Behind",
     "entryType": "NONE",
@@ -48430,7 +48430,7 @@
       }
     ]
   },
-//  "story_puzzle_set_1": {
+  "story_puzzle_set_1": {
     "id": "story_puzzle_set_1",
     "name": "Songs of Old",
     "entryType": "NONE",
@@ -48471,7 +48471,7 @@
       }
     ]
   },
-//  "story_cement_set_1": {
+  "story_cement_set_1": {
     "id": "story_cement_set_1",
     "name": "Sun in the Mine",
     "entryType": "NONE",
@@ -48512,7 +48512,7 @@
       }
     ]
   },
-//  "story_pianst_set_2": {
+  "story_pianst_set_2": {
     "id": "story_pianst_set_2",
     "name": "Before the Spilling Sunlight",
     "entryType": "NONE",
@@ -48553,7 +48553,7 @@
       }
     ]
   },
-//  "story_gdglow_set_1": {
+  "story_gdglow_set_1": {
     "id": "story_gdglow_set_1",
     "name": "A Complete Surprise",
     "entryType": "NONE",
@@ -48594,7 +48594,7 @@
       }
     ]
   },
-//  "story_zumama_set_1": {
+  "story_zumama_set_1": {
     "id": "story_zumama_set_1",
     "name": "Jungle Fantasy",
     "entryType": "NONE",
@@ -48635,7 +48635,7 @@
       }
     ]
   },
-//  "story_mitm_set_1": {
+  "story_mitm_set_1": {
     "id": "story_mitm_set_1",
     "name": "Written in Black and White",
     "entryType": "NONE",
@@ -48676,7 +48676,7 @@
       }
     ]
   },
-//  "story_blackd_set_1": {
+  "story_blackd_set_1": {
     "id": "story_blackd_set_1",
     "name": "Silverash's Shadow",
     "entryType": "NONE",
@@ -48717,7 +48717,7 @@
       }
     ]
   },
-//  "story_papyrs_set_1": {
+  "story_papyrs_set_1": {
     "id": "story_papyrs_set_1",
     "name": "Outside the Window",
     "entryType": "NONE",
@@ -48758,7 +48758,7 @@
       }
     ]
   },
-//  "story_baslin_set_1": {
+  "story_baslin_set_1": {
     "id": "story_baslin_set_1",
     "name": "Aufführung im Abendrot",
     "entryType": "NONE",
@@ -48799,7 +48799,7 @@
       }
     ]
   },
-//  "story_ironmn_set_1": {
+  "story_ironmn_set_1": {
     "id": "story_ironmn_set_1",
     "name": "Bad Mesh",
     "entryType": "NONE",
@@ -48840,7 +48840,7 @@
       }
     ]
   },
-//  "story_absin_set_1": {
+  "story_absin_set_1": {
     "id": "story_absin_set_1",
     "name": "Finding Life Through Death",
     "entryType": "NONE",
@@ -48881,7 +48881,7 @@
       }
     ]
   },
-//  "story_lessng_set_1": {
+  "story_lessng_set_1": {
     "id": "story_lessng_set_1",
     "name": "Building Urtica Together",
     "entryType": "NONE",
@@ -48922,7 +48922,7 @@
       }
     ]
   },
-//  "story_bdhkgt_set_1": {
+  "story_bdhkgt_set_1": {
     "id": "story_bdhkgt_set_1",
     "name": "Final Tournament",
     "entryType": "NONE",
@@ -48963,7 +48963,7 @@
       }
     ]
   },
-//  "story_shwaz_set_2": {
+  "story_shwaz_set_2": {
     "id": "story_shwaz_set_2",
     "name": "Just Another Day",
     "entryType": "NONE",
@@ -49004,7 +49004,7 @@
       }
     ]
   },
-//  "story_vigil_set_2": {
+  "story_vigil_set_2": {
     "id": "story_vigil_set_2",
     "name": "Double-Edged Sword",
     "entryType": "NONE",
@@ -49045,7 +49045,7 @@
       }
     ]
   },
-//  "story_sora_set_2": {
+  "story_sora_set_2": {
     "id": "story_sora_set_2",
     "name": "To the Stage!",
     "entryType": "NONE",
@@ -49086,7 +49086,7 @@
       }
     ]
   },
-//  "story_totter_set_2": {
+  "story_totter_set_2": {
     "id": "story_totter_set_2",
     "name": "Homecoming",
     "entryType": "NONE",
@@ -49127,7 +49127,7 @@
       }
     ]
   },
-//  "story_rosesa_set_1": {
+  "story_rosesa_set_1": {
     "id": "story_rosesa_set_1",
     "name": "Dreaming of the Good Life",
     "entryType": "NONE",
@@ -49168,7 +49168,7 @@
       }
     ]
   },
-//  "story_tecno_set_1": {
+  "story_tecno_set_1": {
     "id": "story_tecno_set_1",
     "name": "A Dance Together",
     "entryType": "NONE",
@@ -49209,7 +49209,7 @@
       }
     ]
   },
-//  "story_ceylon_set_2": {
+  "story_ceylon_set_2": {
     "id": "story_ceylon_set_2",
     "name": "The Ones Left behind",
     "entryType": "NONE",
@@ -49250,7 +49250,7 @@
       }
     ]
   },
-//  "story_blackd_set_2": {
+  "story_blackd_set_2": {
     "id": "story_blackd_set_2",
     "name": "Run Like the Wind",
     "entryType": "NONE",
@@ -49291,7 +49291,7 @@
       }
     ]
   },
-//  "story_yu_set_1": {
+  "story_yu_set_1": {
     "id": "story_yu_set_1",
     "name": "A Hundred Years in Daily Steps",
     "entryType": "NONE",
@@ -49332,7 +49332,7 @@
       }
     ]
   },
-//  "story_lin_set_1": {
+  "story_lin_set_1": {
     "id": "story_lin_set_1",
     "name": "Out with the Old, In with the New",
     "entryType": "NONE",
@@ -49373,7 +49373,7 @@
       }
     ]
   },
-//  "story_wanqin_set_1": {
+  "story_wanqin_set_1": {
     "id": "story_wanqin_set_1",
     "name": "Seeking Secrets",
     "entryType": "NONE",
@@ -49414,7 +49414,7 @@
       }
     ]
   },
-//  "story_grabds_set_1": {
+  "story_grabds_set_1": {
     "id": "story_grabds_set_1",
     "name": "Reliving Old Dreams",
     "entryType": "NONE",
@@ -49455,7 +49455,7 @@
       }
     ]
   },
-//  "story_brigid_set_1": {
+  "story_brigid_set_1": {
     "id": "story_brigid_set_1",
     "name": "Day of Departure",
     "entryType": "NONE",
@@ -49496,7 +49496,7 @@
       }
     ]
   },
-//  "story_fartth_set_1": {
+  "story_fartth_set_1": {
     "id": "story_fartth_set_1",
     "name": "Where She Belongs",
     "entryType": "NONE",
@@ -49537,7 +49537,7 @@
       }
     ]
   },
-//  "story_jnight_set_1": {
+  "story_jnight_set_1": {
     "id": "story_jnight_set_1",
     "name": "Justice Knight is Here For You!",
     "entryType": "NONE",
@@ -49578,7 +49578,7 @@
       }
     ]
   },
-//  "story_kalts_set_1": {
+  "story_kalts_set_1": {
     "id": "story_kalts_set_1",
     "name": "End of a Long Journey",
     "entryType": "NONE",
@@ -49619,7 +49619,7 @@
       }
     ]
   },
-//  "story_robin_set_1": {
+  "story_robin_set_1": {
     "id": "story_robin_set_1",
     "name": "To Live, To Feel",
     "entryType": "NONE",
@@ -49660,7 +49660,7 @@
       }
     ]
   },
-//  "story_adnach_set_1": {
+  "story_adnach_set_1": {
     "id": "story_adnach_set_1",
     "name": "Reserve Prophet",
     "entryType": "NONE",
@@ -49701,7 +49701,7 @@
       }
     ]
   },
-//  "story_ccheal_set_1": {
+  "story_ccheal_set_1": {
     "id": "story_ccheal_set_1",
     "name": "Path of Medicine",
     "entryType": "NONE",
