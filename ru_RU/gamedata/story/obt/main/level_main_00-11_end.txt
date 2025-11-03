@@ -4,113 +4,113 @@
 [PlaySound(key="$d_gen_soldiersrun",volume=0.5)]
 [Delay(time=1)]
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]  Scouting complete. I can confirm that the enemies pursuing us have been eliminated.
-[name="Dobermann"]  We've managed to break through their encirclement. We'll be at the outskirts of Chernobog soon.
+[name=Доберман"]  Разведка завершена. Могу подтвердить, что преследовавшие нас враги уничтожены.
+[name=Доберман"]  Мы прорвались через их кольцо. Скоро будем на окраинах Чернобога.
 [Character(name="char_014_riope", name2="char_130_doberm_ex", focus=1)]
-[name="Ace"]    Even though the enemies we defeated today were just a small portion of the whole force...
-[name="Ace"]    At least we're safe for now.
+[name="Эйс"]    Хотя побеждённые нами сегодня враги — лишь малая часть их сил...
+[name="Эйс"]    По крайней мере, мы пока в безопасности.
 [Character(name="char_014_riope", name2="char_148_nearl_1", focus=2)]
-[name="Nearl"]  Thank you for what you did back there. I am forever in your debt.
+[name="Нирл"]  Спасибо за то, что ты сделал. Я в неоплатном долгу перед тобой.
 [Character(name="char_014_riope", name2="char_148_nearl_1", focus=1)]
-[name="Ace"]    Don't say stuff like that. I don't have the right to ask the Radiant Knight for repayment anyway.
-[name="Ace"]    Anyway, let's talk about that sniper, Nearl.
+[name="Эйс"]    Не говори так. Мне и в голову не придёт требовать расплаты от Лучезарного Рыцаря.
+[name="Эйс"]    Ладно, поговорим о стрелке, Нирл.
 [Character(name="char_014_riope", name2="char_148_nearl_1", focus=2)]
-[name="Nearl"]  Sure.
-[name="Nearl"]  Putting aside the destructive power of that ballista...
-[name="Nearl"]  I think... he might have set up several turrets in advance, as well as other automatically-firing devices.
-[name="Nearl"]  I was targeted from different directions... but I only saw one sniper.
+[name="Нирл"]  Конечно.
+[name="Нирл"]  Не говоря о разрушительной мощи его баллисты...
+[name="Нирл"]  Думаю... он заранее установил несколько турелей и другие автоматические орудия.
+[name="Нирл"]  Меня обстреливали с разных сторон почти одновременно... но я видела только одного стрелка.
 [Character(name="char_014_riope", name2="char_148_nearl_1", focus=1)]
-[name="Ace"]    I had the same feeling.
-[name="Ace"]    The first and second shots exploded at about the same time, but there was a noticeable delay between them.
-[name="Ace"]    Those shots weren't fired from the same repeating ballista. At least, when we returned fire, we weren't targeting the same sniper.
+[name="Эйс"]    У меня было такое же ощущение.
+[name="Эйс"]    Первый и второй выстрелы прогремели примерно одновременно, но между ними была заметная задержка.
+[name="Эйс"]    Эти выстрелы произвели не из одной баллисты. В нашем ответном огне мы стреляли по разным стрелкам.
 [Character(name="char_014_riope", name2="char_148_nearl_1", focus=2)]
-[name="Nearl"]   Ace, did you realize something?
+[name="Нирл"]   Эйс, ты что-то понял?
 [Character(name="char_014_riope", name2="char_148_nearl_1", focus=1)]
-[name="Ace"]    I can't say for sure. What if the enemy was moving so quickly... to the point of basically being in several places at once?
+[name="Эйс"]    Не могу сказать наверняка. Что, если противник двигался так быстро, что фактически находился в нескольких местах одновременно?
 [Character(name="char_014_riope", name2="char_148_nearl_1", focus=2)]
-[name="Nearl"]  There's no way anyone could move that quickly. I can't even imagine how it'd be possible.
-[name="Nearl"]  We can't underestimate how dangerous Reunion is.
+[name="Нирл"]  Никто не способен двигаться так быстро. Даже представить не могу, как это возможно
+[name="Нирл"]  Мы не можем недооценивать, насколько опасен Реюнион.
 [Character(name="char_130_doberm_ex",name2="char_148_nearl_1", focus=1)]
-[name="Dobermann"]  It was that malicious brat who ordered the sniper to go after you. He didn't even call upon the sniper when he was attacking us...
+[name=Доберман"]  Это тот злобный щенок приказал стрелку напасть на тебя. Он даже не задействовал его, когда сражался с нами.
 [Character(name="char_130_doberm_ex",name2="char_148_nearl_1", focus=2)]
-[name="Nearl"]  Looks like that disgusting personality of his is backed up by some real power.
+[name="Нирл"]  Похоже, за его отвратительным характером стоит немалая сила.
 [Character(name="char_014_riope", name2="char_148_nearl_1", focus=1)]
-[name="Ace"]    However, he never attacked us, even when he was angry.
+[name="Эйс"]    Однако, он не стал нападать лично, даже когда разозлился.
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]  So either his combat capabilities are lacking, or he simply chose to not display his true abilities yet.
-[name="Dobermann"]  Just seeing his commanding abilities in action... makes me highly suspicious.
-[name="Dobermann"]   He was commanding his troops like puppets...
+[name=Доберман"]   Значит, либо он слаб в бою, либо просто не показал своих настоящих способностей.
+[name=Доберман"]   То, как он командует своими людьми... вызывает у меня подозрения
+[name=Доберман"]   Он отдавал приказы своим людям, словно те были марионетками...
 [Character(name="char_148_nearl_1#1")]
-[name="Nearl"]   In any case, we're no longer in territory that he controls.
+[name="Нирл"]   Как бы то ни было, мы уже вне его территории
 [Character(name="char_002_amiya_1#1")]
-[name="Amiya"]  Nearl... Thank you.
-[name="Amiya"]  If not for your timely arrival, we would have been in grave danger.
+[name="Амия"]  Нирл... Спасибо.
+[name="Амия"]  Если бы не Ваше своевременное прибытие, мы оказались бы в серьезной опасности.
 [Character(name="char_002_amiya_1#1", name2="char_148_nearl_1#1", focus=2)]
-[name="Nearl"]  I was just following the plan we agreed on beforehand.
-[name="Nearl"]  You were the one who asked me and Ace to make adjustments depending on the situation.
-[name="Nearl"]  You solved your own problem.
-[name="Nearl"]  On my way here, I saw the extent of Reunion's atrocities, and I had doubts about their power.
-[name="Nearl"]  What if I stopped to engage their forces?
-[name="Nearl"]  What if I helped Ursus defend against Reunion?
-[name="Nearl"]  What if I stayed back at the rendezvous point, waiting for you to come to me?
+[name="Нирл"]  Я лишь следовала плану, о котором мы договорились заранее.
+[name="Нирл"]  Ведь это ты попросила меня и Эйса вносить коррективы в зависимости от ситуации.
+[name="Нирл"]  Ты и сама справилась со своей проблемой.
+[name="Нирл"]  По дороге сюда я видела, до чего дошли зверства Реюньона — и усомнилась в их истинной силе.
+[name="Нирл"]  Что, если бы я остановилась, чтобы сразиться с ними?
+[name="Нирл"]  Что, если бы я помогла Урсусу отбить атаку Реюньона?
+[name="Нирл"]  Что, если бы я осталась на точке сбора и просто ждала, пока вы придёте?
 [Character(name="char_002_amiya_1#1", name2="char_148_nearl_1#7", focus=2)]
-[name="Nearl"]  ...If I was the one who called the shots, there's no saying how much worse the outcome could have been.
-[name="Nearl"]  I'm not good at thinking several steps ahead. The only way I know to get what I want is to keep fighting.
+[name="Нирл"]  ...Если бы всё зависело от моих решений, никто не знает, насколько хуже всё могло бы кончиться.
+[name="Нирл"]  Я не умею просчитывать всё наперёд. Единственный путь к цели, который я знаю — продолжать сражаться.
 [Character(name="char_002_amiya_1#1", name2="char_148_nearl_1#1", focus=2)]
-[name="Nearl"]  Amiya, I was only performing my duties, but you have the ability to end the crisis.
-[name="Nearl"]  You earned this victory, so have some more confidence in yourself.
+[name="Нирл"]  Амия, я просто исполняла свой долг. А вот у тебя есть способности, которыми ты можешь закончить этот кризис.
+[name="Нирл"]  Ты заслужила эту победу, так что будь более уверена в себе.
 [Character(name="char_002_amiya_1#1", name2="char_148_nearl_1#1", focus=1)]
-[name="Amiya"]  Miss Nearl...
+[name="Амия"]  Мисс Нирл...
 [Character(name="char_002_amiya_1#1", name2="char_148_nearl_1#6", focus=2)]
-[name="Nearl"]  Hehe.
+[name="Нирл"]  Хе-хе.
 [Character(name="char_148_nearl_1#1")]
-[name="Nearl"]  This person standing next to you must be the Doctor, then.
+[name="Нирл"]  Значит, человек рядом с тобой — это и есть Доктор?
 [Character(name="char_002_amiya_1#1")]
-[name="Amiya"]  That's right. But...
+[name="Амия"]  Верно. Но...
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]  Every time we meet someone, Amiya has to repeat the story about how the Doctor is suffering from amnesia. What a pain...
+[name=Доберман"]  Каждый раз, как мы кого-то встречаем, Амии приходится заново рассказывать историю о потере памяти Доктором. Какая морока...
 [Character(name="char_148_nearl_1#1")]
-[name="Nearl"]   Dr. {@nickname}...
+[name="Нирл"]   Доктор {@nickname}...
 [Character(name="char_148_nearl_1#1")]
-[name="Nearl"]   One of my friends lost her memories as well. I'm sure you two will get along.
-[name="Nearl"]   After all, you should understand how precious living in the present is.
+[name="Нирл"]   Одна из моих подруг тоже потеряла память. Уверена, что вы с ней поладите.
+[name="Нирл"]   В конце концов, Вы должны понимать, насколько ценно жить настоящим.
 [Character(name="char_002_amiya_1#2")]
-[name="Amiya"]  Mhm...!
+[name="Амия"]  Угу...!
 [Character(name="char_148_nearl_1#1")]
-[name="Nearl"]  Let's get going, everyone.
-[name="Nearl"]  We still have to escort the Doctor to Rhodes Island.
+[name="Нирл"]  Давайте поторопимся.
+[name="Нирл"]  Нам еще нужно сопроводить Доктора на Родос Айленд.
 [Dialog]
 [Blocker(a=1, initr=2, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(fadetime=0)]
 [Background(image="bg_cher_5", width=1, height=1, fadetime=0)]
 [Blocker(a=0, initr=2, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(name="char_1508_Faust_1",fadetime=2,block=true)]
-[name="Faust"]   Sorry... I failed.
+[name="Фауст"]   Извини... Я провалился.
 [Character(name="char_1507_Mephisto_1#1",name2="char_1508_Faust_1",focus=1)]
-[name="Mephisto"]  No, don't apologize. It was my mistake. I lost my temper.
-[name="Mephisto"]  Can you help me track Rhodes Island? I'll report the situation to Talulah first.
-[name="Mephisto"]  She should have taken over Chernobog's core command tower by now.
-[name="Mephisto"]  ...She will decide the fate of these insects.
+[name="Мефисто"]  Нет, не извиняйся. Это была моя ошибка. Я потерял самообладание.
+[name="Мефисто"]  Можешь помочь мне выследить Родос Айленд? Я доложу о ситуации Талуле.
+[name="Мефисто"]  Она уже должна была захватить башню управления ядром Чернобога.
+[name="Мефисто"]  ...Она решит судьбу этих насекомых.
 [Character(name="char_1507_Mephisto_1#1",name2="char_1508_Faust_1",focus=2)]
-[name="Faust"]   ...Understood.
+[name="Фауст"]   ...Понял.
 [Character(name="char_1507_Mephisto_1#2",name2="char_1508_Faust_1",focus=1)]
-[name="Mephisto"]  Be careful. Your safety is the most important thing, all right?
+[name="Мефисто"]  Будьте осторожен. Твоя безопасность — это самое главное, ладно?
 [Character(name="char_1507_Mephisto_1#1",name2="char_1508_Faust_1",focus=2)]
-[name="Faust"]   ...I will.
+[name="Фауст"]   ...Я постараюсь.
 [Blocker(a=1, initr=2, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(fadetime=0)]
 [Blocker(a=0, initr=2, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(name="char_1507_Mephisto_1")]
-[name="Mephisto"]   ...I suppose my mission is complete too.
+[name="Мефисто"]   ...Полагаю, моя миссия тоже заверешна.
 [Delay(time=0.6)]
-[name="Mephisto"]   Let's go, comrades.
+[name="Мефисто"]   Идемте, товарищи.
 [Blocker(a=1, r=0,g=0, b=0, fadetime=3, block=true)]
 [Background]
 [Character(fadetime=0)]
 [Image(image="avg_ep00_2",x=0, y=0, xScale=1, yScale=1, fadetime=3, screenadapt="coverall")]
 [Blocker(a=0, fadetime=0.6, block=false)]
 [Character(name="char_1507_Mephisto_1#5")]
-[name="Mephisto"]   Let us go forth and welcome our new era!!
+[name="Мефисто"]   Давайте поприветствуем начало новой эпохи!
 [delay(time=3)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]
 [Image(fadetime=0)]

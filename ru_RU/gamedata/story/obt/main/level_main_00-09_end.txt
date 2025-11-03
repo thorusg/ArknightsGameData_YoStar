@@ -11,49 +11,49 @@
 [Dialog]
 [Character]
 [Character(name="char_016_medic")]
-[name="Medic"]   Aaaagh--!
+[name="Медик"]   Аааагх--!
 [Character(name="char_013_riop", name2="char_016_medic", focus=1)]
-[name="Guard"]  Watch out! !
+[name="Гард"]  Берегись!
 [Character(name="char_013_riop", name2="char_016_medic", focus=2)]
-[name="Medic"]  I'm fine... It's just a scratch, don't worry...
+[name="Медик"]  Я в порядке... Это просто царапина, не волнуйтесь...
 [Character(name="char_002_amiya_1#7")]
-[name="Amiya"]  Not good enough... At this rate, they're going to close in on us.
+[name="Амия"]  Этого недостаточно... Они быстро нас настигнут!
 [Character(name="char_002_amiya_1#7", name2="char_130_doberm_ex", focus=2)]
-[name="Dobermann"]  I've already found the weak point in their line, but without reinforcements, it's taking all we have just to hold them back!
+[name="Доберман"]  Я нашла слабое место в их построении, но без подкрепления мы едва держим оборону!
 [Character(name="char_002_amiya_1#7")]
-[name="Amiya"]  ...Please hold out a bit longer! Focus your fire on the ranged enemies!
-[name="Amiya"]  Our Casters will take care of their vanguard!
+[name="Амия"]  ...Пожалуйста, продержитесь еще немного! Сосредоточьте огонь на стрелках противника!
+[name="Амия"]  Наши заклинатели позаботятся об их авангарде.
 [Dialog]
 [Character]
 [Character(name="char_1507_Mephisto_1#1")]
-[name="Mephisto"]  Good, good! This is how things should be! Next up, F3, E5!
+[name="Мефисто"]  Хорошо, хорошо! Вот так и надо! Дальше, F3, E5!
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]   This bloody brat...!
+[name="Доберман"]   Этот чертов сопляк...!
 [Dialog]
 [Character]
 [Character(name="char_1507_Mephisto_1#1")]
-[name="Mephisto"]  Excellent! Now, B4, B5!
+[name="Мефисто"]  Превосходно! Теперь B4, B5!
 [character(name="char_013_riop")]
-[name="Guard"]  The enemy is now trying to flank us!
+[name="Гард"]  Противник пытается зайти с фланга!
 [Character(name="char_002_amiya_1#7")]
-[name="Amiya"]  Take two Defenders and a Sniper! Just keep them busy!
+[name="Амия"]  Возьми двух щитоносцев и стрелка! Отвлеки их!
 [Dialog]
 [Character]
 [Character(name="char_1507_Mephisto_1#1")]
-[name="Mephisto"]  And next! H2, H6!
+[name="Мефисто"]  А теперь! H2, H6!
 [Character(name="char_016_medic")]
-[name="Medic"]   They... they're rushing our defensive line!
+[name="Медик"]   Они... они прорывают нашу линию обороны!
 [Character(name="char_014_riope")]
-[name="Ace"]   Vanguards, flush them out!
+[name="Эйс"]   Авангард, вытесните их!
 [Dialog]
 [Character]
 [Character(name="char_1507_Mephisto_1#1")]
-[name="Mephisto"]  That's right, let me see how you struggle!
-[name="Mephisto"]  Now, Casters. move to C7. Capture their Rook!
+[name="Мефисто"]  Вот так! Покажите мне, как вы сопротивляетесь!
+[name="Мефисто"]  Теперь, заклинатели, двигайтесь на C7. Возьмите их Ладью!
 [Character(name="char_002_amiya_1#7")]
-[name="Amiya"]  Enemy Casters have appeared! So far, they're hiding behind their Defenders!
+[name="Амия"]  Показались вражеские заклинатели! Пока что они прячутся за своими щитоносцами.
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]   It's too late! Take cover!
+[name="Доберман"]   Слишком поздно! В укрытие!
 [character]
 [Dialog]
 [Blocker(a=0.7, r=0.95, g=0.95, b=0.95, fadetime=0.02, block=true)]
@@ -66,24 +66,24 @@
 [CameraShake(duration=0.6, xstrength=5, ystrength=8, vibrato=30, randomness=90, block=true)]
 [Delay(time=0.5)]
 [Character(name="char_016_medic")]
-[name="Medic"]   Aaargghh!
+[name="Медик"]   Ааааргх!!
 [character(name="char_013_riop")]
-[name="Guard"]  *cough* *cough*...
+[name="Гард"]  *кашель* *кашель*...
 [Character(name="char_1507_Mephisto_1#5")]
-[name="Mephisto"]  Now be snuffed out, like flames before a storm!
+[name="Мефисто"]  Исчезните, как пламя перед бурей!
 [Character(name="char_002_amiya_1#7")]
-[name="Amiya"]  Is he really commanding his troops like that? How can he give such precise orders just by barking out chess moves?
-[name="Amiya"]  Those same disorderly thugs have been turned into an army under his command...!
-[name="Amiya"]  At this rate, he's going to keep exploiting the advantage he gets through his leadership...
+[name="Амия"]  Это то, как он командует своими людьми? Как у него выходит отдавать такие точные приказы, просто выкрикивая шахматные ходы?
+[name="Амия"]  Те же неорганизованные головорезы под его командованием стали настоящей армией!
+[name="Амия"]  Такими темпами он и дальше будет пользоваться преимуществом своего лидерства.
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]   On the other hand, if we manage to suppress him, they'll fall into disarray!
-[name="Dobermann"]   Don't give them even the slightest opening!
-[name="Dobermann"]   Damn it, we're running out of time!
+[name="Доберман"]   Если мы сумеем нейтрализовать его, они растеряются!
+[name="Доберман"]   Не давайте им ни малейшего шанса!
+[name="Доберман"]   Проклятье, у нас заканчивается время!
 [Character(name="char_002_amiya_1#7")]
-[name="Amiya"]  We can't allow ourselves to be stalled any longer!
+[name="Амия"]  Мы не можем позволить себе больше промедлять!
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
-[name="Amiya"]  Is there some way to turn the tables... anything?!
-[name="Amiya"]  We're going to be... Doctor's going to...
+[name="Амия"]  Как переломить ход боя... хоть что-то?!
+[name="Амия"]  Нам нужно... Доктору нужно...
 [Character(fadetime=0)]
 [stopmusic(fadetime=1)]
 [Dialog]
@@ -92,18 +92,18 @@
 [Blocker(a=1, r=0.95, g=0.95, b=0.95, fadetime=0.2, block=true)]
 [Blocker(a=0, r=0.95, g=0.95, b=0.95, fadetime=0.25, block=true)]
 [CameraShake(duration=1, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=true)]
-[name="Reunion Member"]  Gaaaaaaahh!!!
+[name="Член Реюниона"]  Гааааахх!!!
 [Character(name="char_1507_Mephisto_1#2")]
-[name="Mephisto"]  What?!
-[name="Mephisto"]  Huh... What's going on? Why are people getting knocked into the air?
-[name="Mephisto"]  What...
-[name="Mephisto"]  ... the hell is that?
+[name="Мефисто"]  Что?!
+[name="Мефисто"]  Э... Что происходит? Почему мои люди валятся с ног?..
+[name="Мефисто"]  Что...
+[name="Мефисто"]  ... что за чертовщина?
 [Character(name="char_148_nearl_1#5")]
-[name="???"]   You guys sure took your sweet time. I even had time to relocate the civilians.
+[name="???"]   Вы, ребята, не торопились. Я даже успела эвакуировать гражданских.
 [Character(name="char_002_amiya_1#6")]
-[name="Amiya"]  --?!!
+[name="Амия"]  --?!!
 [Character(name="char_148_nearl_1#5")]
-[name="???"]   Out of my way!
+[name="???"]   С дороги!
 [Character(fadetime=0)]
 [playsound(key="$p_imp_blunt_h")]
 [PlaySound(key="$d_sp_ballista")]
@@ -112,9 +112,9 @@
 [CameraShake(duration=1, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=true)]
 [PlayMusic(intro="$m_bat_game02_intro", key="$m_bat_game02_loop", volume=0.8, crossfade=1.5, delay=0.5)]
 [Character(name="char_1002_nsabr_2",name2="char_1002_nsabr_2")]
-[name="Reunion Member"]  Woah!!
+[name="Член Реюниона"]  Воу!!
 [Character(name="char_148_nearl_1#5")]
-[name="???"]   Let's hit 'em even harder! Don't give the enemies a chance to regroup!
+[name="???"]   Тесним их! Не дайте им перегруппироваться!
 [playsound(key="$p_imp_blunt_h")]
 [PlaySound(key="$d_sp_ballista")]
 [Blocker(a=1, r=0.95, g=0.95, b=0.95, fadetime=0.2, block=true)]
@@ -122,23 +122,23 @@
 [CameraShake(duration=1, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=true)]
 [PlaySound(key="$d_gen_soldiersrun",volume=0.8)]
 [Character(name="char_002_amiya_1#2")]
-[name="Amiya"]  Miss Nearl!!
+[name="Амия"]  Мисс Нирл!!
 [Character(name="char_148_nearl_1#5")]
 [Character(name="char_148_nearl_1#1",fadetime=1,block=true)]
 [Delay(time=0.3)]
-[name="Nearl"]  I'm here.
-[name="Nearl"]  I'm glad you're still safe, Amiya. Let's move.
+[name="Нирл"]  Я здесь.
+[name="Нирл"]  Я рада, что ты в порядке, Амия. Идём.
 [PlaySound(key="$d_gen_soldiersrun",volume=0.8)]
 [Character(name="char_130_doberm_ex", name2="char_148_nearl_1", focus=1)]
-[name="Dobermann"]   Thank goodness you were deployed in this operation.
+[name="Доберман"]   Слава богу, что тебя взяли на эту операцию.
 [Character(name="char_130_doberm_ex", name2="char_148_nearl_1", focus=2)]
-[name="Nearl"]  Using the signal flare was judicious. Seems like you've been having a rough time.
+[name="Нирл"]  Сигнальная ракета — отличное решение. Похоже, вам досталось.
 [Character(name="char_148_nearl_1#1")]
-[name="Nearl"]  ...
-[name="Nearl"]  You must be Dr. {@nickname}, right?
+[name="Нирл"]  ...
+[name="Нирл"]   Вы должно быть Доктор {@nickname}, верно?
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Character(name="char_148_nearl_1#1")]
-[name="Nearl"]  Radiant Knight, Nearl, at your service. Your chariot has arrived.
+[name="Нирл"]  Лучезарный рыцарь Нирл — к вашим услугам. Ваша колесница подана.
 [Delay(time=0.6)]
 [Dialog]
 [Blocker(block=true)]

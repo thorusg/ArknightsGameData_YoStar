@@ -26116,7 +26116,7 @@
   },
   "main_0": {
     "id": "main_0",
-    "name": "Evil Time Part 1",
+    "name": "Час Зла, часть 1",
     "entryType": "MAINLINE",
     "actType": "MAIN_STORY",
     "startTime": -1,
@@ -26479,7 +26479,7 @@
         "storyDependence": "main_0_level_main_00-10_beg",
         "storyCanShow": 0,
         "storyCode": "0-11",
-        "storyName": "Blockade Running",
+        "storyName": "Прорыв блокады",
         "storyPic": null,
         "storyInfo": "info/obt/main/level_main_00-11_end",
         "storyCanEnter": 1,

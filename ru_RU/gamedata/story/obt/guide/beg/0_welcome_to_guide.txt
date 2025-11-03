@@ -1,15 +1,15 @@
 [HEADER(is_tutorial=true, is_skippable=true, is_autoable=true, fit_mode="BLACK_MASK", deny_auto_switch_scene=true)] 初始引导
 [PlayMusic(key="$babel_loop", volume=0.8, delay=0.2)]
-[name=""]   Ох, это ты.
+[name=""]   Ах, это ты.
 [Dialog]
 [Image(image="bg_0_babel", fadetime=1, block=true)]
 [ImageTween(image="bg_0_babel", tiled=true, xScaleTo=1.05, yScaleTo=1.05, duration=3, block=false)]
 [ImageTween(image="bg_0_babel", tiled=true, xScaleTo=1.5, yScaleTo=1.5, duration=75, block=false)]
-[name=""]   Прошло довольно много времени с последней нашей встречи.
-[name=""]   Все это время... тебе пришлось держать баланс на краю обрыва.
+[name=""]   Прошло немало времени с нашей последней встречи.
+[name=""]   Все это время... ты держался на краю пропасти.
 [Dialog]
 [Delay(time=1.3)]
-[name=""]   Возможно, ты забыл, кто ты есть, но будет достаточно просто вспомнить свое имя.
+[name=""]   Возможно, ты позабыл, кто ты есть, но достаточно лишь вспомнить своё имя.
 [Dialog]
 [name=""]   ...Пора. Не задерживайся здесь надолго.
 [name=""]   В конце концов, ты пока еще не мой гость и даже не должен находиться здесь.
@@ -17,8 +17,8 @@
 [Dialog]
 [Delay(time=1)]
 [name=""]   23 декабря.
-[name=""]   Ты, возможно, не помнишь, что для тебя означает эта дата.
-[name=""]   И это подвергнет тебя опасности.
+[name=""]   Может, ты не помнишь, что значит для тебя дата.
+[name=""]   И это поставит тебя под удар.
 [name=""]   ......
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [Image]
@@ -32,21 +32,21 @@
 [Blocker(a=0, fadetime=0.3, block=true)]
 [CameraEffect(effect="Grayscale", fadetime=18, amount=0, block=false)]
 [Delay(time=2)]
-[name="Distant Voice"]   ...сознание...
-[name="Distant Voice"]   Кровообращение возобновлено... жизненные показатели стабилизированы... введен раствор кардиоплегии...
+[name="Отдаленный голос"]   ...сознание...
+[name="Отдаленный голос"]   Кровообращение возобновлено... жизненные показатели стабилизированы... введен кардиоплегический раствор.
 [Dialog]
 [Delay(time=2)]
 [CameraEffect(effect="Grayscale", fadetime=8, amount=1, block=false)]
-[name="Distant Voice"]   Температура тела низкая... вводите 20 кубиков гексаметазона, сейчас...
+[name="Отдаленный голос"]   Температура тела понижена... вводите 20 кубиков гексаметазона, сейчас...
 [Dialog]
 [CameraEffect(effect="Grayscale", fadetime=8, amount=0, block=false)]
 [Delay(time=1)]
-[name="Distant Voice"]   Подайте зажим!
-[name="Distant Voice"]   ....Состояние стабильное... начинаем резекцию... будьте осторожны с фибрилляцией желудочка...
+[name="Отдаленный голос"]   Подайте зажим!
+[name="Отдаленный голос"]   ....Состояние стабильное... начинаем резекцию... аккуратнее с фибрилляцией желудочков...
 [Dialog]
 [Delay(time=1)]
-[name="Distant Voice"]   ...Извини...
-[name="Distant Voice"]   Что заставляю тебя снова страдать...
+[name="Отдаленный голос"]   ...Прости...
+[name="Отдаленный голос"]   Что заставляю тебя страдать...
 [Delay(time=0.5)]
 [StopMusic(fadetime=1)]
 [Background(fadetime=1, block=false)]
@@ -68,8 +68,8 @@
 [name="???"]   Доктор...
 [Blocker(a=0, fadetime=10, block=false)]
 [name="???"]   ...руку!
-[name="???"]   Возьми меня...
-[name="???"]   Возьми меня за руку!!
+[name="???"]   Возьми мою...
+[name="???"]   Возьми мою руку!!
 [Dialog(time=1)]
 [Delay(time=1)]
 [Blocker(a=0, fadetime=2, block=false)]
@@ -78,7 +78,7 @@
 [Image(image="avg_0_1",x=-100, y=-50,xScale=1.3, yScale=1.3, fadetime=2)]
 [ImageTween(xFrom=-100, yFrom=-50, xTo=0, yTo=0, xScaleFrom=1.3, yScaleFrom=1.3, xScaleTo=1, yScaleTo=1, duration=35, block=false)]
 [name="???"]   ......
-[name="???"]   Экстренный...
+[name="???"]   Экстренно...
 [name="???"]   ...Помогите...
 [name="???"]   ...Готово...!
 [Dialog]
@@ -87,36 +87,36 @@
 [Delay(time=1)]
 [Dialog]
 [Character(name="char_002_amiya_1#1")]
-[name="???"]   Доктор, доктор!
+[name="???"]   Доктор, Доктор!
 [Delay(time=1)]
 [Dialog]
 [name="???"]   Медик, каково состояние Доктора?
-[name="???"]   Но, буквально секунду назад... он держал меня за руку...
+[name="???"]   Но ведь только что... он держал меня за руку...
 [name="???"]   Так почему... почему Доктор не просыпается...?
 [Character(name="char_016_medic")]
-[name="Медик"]   Амия! Без паники, постарайся успокоиться!
+[name="Медик"]   Амия! Без паники, успокойся!
 [Character(name="char_016_medic",name2="char_002_amiya_1#4",focus=2)]
-[name="Амия"]   Ах... Извини.
+[name="Амия"]   Ах... П-прости.
 [Character(name="char_016_medic",name2="char_002_amiya_1#4",focus=1)]
-[name="Медик"]   Ты всегда так нервничаешь, когда дело касается Доктора.
-[name="Медик"]   Но, Амия, если случится худшее... что ты собираешься делать?
+[name="Медик"]   Ты всегда так волнуешься, когда дело касается Доктора.
+[name="Медик"]   Но, Амия, если случится худшее... что ты тогда будешь делать?
 [Character(name="char_016_medic",name2="char_002_amiya_1#4",focus=2)]
-[name="Амия"]   ...Я уже морально готов к этому. Мы будем продолжать следовать плану.
+[name="Амия"]   ...Я уже морально готова. Мы будем действовать согласно плану.
 [Character(name="char_016_medic",name2="char_002_amiya_1#4",focus=1)]
-[name="Медик"]   ...Я понимаю. В любом случае, я сделаю что в моих силах.
+[name="Медик"]   ...Я понимаю. В любом случае, я сделаю всё возможное.
 [Character(name="char_016_medic",name2="char_002_amiya_1#1",focus=2)]
 [name="Амия"]   Хорошо... Спасибо.
 [Character(name="char_016_medic",name2="char_002_amiya_1#4",focus=2)]
-[name="Амия"]   Касательно Доктора...
+[name="Амия"]   Как Доктор?..
 [Character(name="char_016_medic",name2="char_002_amiya_1#4",focus=1)]
-[name="Медик"]   Не волнуйся, Амия. Все жизненные показатели сейчас стабильны.
-[name="Медик"]   Я сделаю еще одну проверку, специально для тебя.
+[name="Медик"]   Не беспокойся, Амия. Все жизненные показатели сейчас стабильны.
+[name="Медик"]   Проведу еще одну проверку — специально для тебя.
 [Character(name="char_016_medic",name2="char_002_amiya_1#4",focus=2)]
 [name="Амия"]   Спасибо... Большое спасибо!
 [Delay(time=1)]
 [Dialog]
 [Character(name="char_016_medic")]
-[name="Медик"]   М-м. Дыхание немного поверхностное, но кровяное давление в норме. Поводов для беспокойства нет.
+[name="Медик"]   М-м. Дыхание слегка поверхностное, но давление в норме. Поводов для беспокойства нет.
 [Blocker(a=0.6, r=255, g=150, b=13, afrom=0, rfrom=0, gfrom=0, bfrom=0, fadetime=0.1, block=true)]
 [PlaySound(key="$e_atk_blunt_n")]
 [CameraShake(duration=0.5, xstrength=3, ystrength=4, vibrato=30, randomness=90, block=true)]
@@ -126,7 +126,7 @@
 [name="Амия"]   ...!
 [Character(name="char_016_medic")]
 [name="Медик"]   ...
-[name="Медик"]   Вы уже проснулись?
+[name="Медик"]   Вы очнулись?
 [name="Медик"]   Амия, получилось! Доктор пришел в себя!
 [Character(name="char_002_amiya_1#3")]
 [name="Амия"]   Доктор...?
@@ -137,7 +137,7 @@
 [Blocker(a=0,fadetime=0.1, block=true)]
 [CameraShake(duration=0.5, xstrength=10, ystrength=12, vibrato=15, randomness=90, fadeout=true, block=false)]
 [Character(name="char_016_medic")]
-[name="Медик"]   Пока не пытайтесь особо сильно двигаться. Ваше тело еще не полностью адаптировалось.
+[name="Медик"]   Не пытайтесь пока вставать. Организм ещё не полностью адаптировался.
 [Character(name="char_002_amiya_1#4")]
 [name="Амия"]   Доктор...?
 [Delay(time=1)]
@@ -165,7 +165,7 @@
 [Predicate(references="1")]
 [Character(name="char_002_amiya_1#4")]
 [name="Амия"]   ...
-[name="Амия"]   Я понимаю. Наверное, для тебя сейчас немного сложно всё это разом принять.
+[name="Амия"]   Я понимаю. Наверное, для тебя сейчас немного сложно принять всё это разом.
 [name="Амия"]   Я не ожидаю, что ты сразу все вспомнишь, и не прошу довериться мне сразу.
 [Predicate(references="2")]
 [Character(name="char_002_amiya_1#4")]
@@ -203,9 +203,9 @@
 [Character(name="char_002_amiya_1#6")]
 [name="Амия"]   Э? Что происходит—
 [character(name="char_002_amiya_1#6", name2="char_013_riop",focus=2)]
-[name="Тяжело вооруженный мужчина"]   Амия, у нас проблема!
+[name="Тяжеловооруженный мужчина"]   Амия, у нас проблема!
 [character(name="char_002_amiya_1#6", name2="char_013_riop",focus=2)]
-[name="Тяжело вооруженный мужчина"]   Кто-то ворвался в здание!
+[name="Тяжеловооруженный мужчина"]   Кто-то проник на объект!
 [Blocker(a=1, r=0, g=0, b=0, afrom=0, rfrom=0, gfrom=0, bfrom=0, fadetime=0.6, block=true)]
 [delay=0.5]
 [Dialog]
@@ -217,21 +217,21 @@
 [Blocker(a=0, fadetime=1.5, block=true)]
 [Delay(time=0.7)]
 [character(name="char_002_amiya_1#6", name2="char_013_riop",focus=2)]
-[name="Тяжело вооруженный мужчина"]   То, как они одеты... они совсем не смахивают на солдат Урсуса!
+[name="Тяжеловооруженный мужчина"]   То, как они одеты... они совсем не походи на солдат Урсуса!
 [character(name="char_1002_nsabr_1")]
 [CameraShake(duration=1, xstrength=4, ystrength=4, vibrato=30, randomness=90, block=false)]
 [PlaySound(key="$d_gen_soldiersrun")]
 [name="Член Реюниона"]   ...
 [Dialog]
 [character(name="char_013_riop")]
-[name="Тяжело вооруженный мужчина"]   Что всё это значит?!
+[name="Тяжеловооруженный мужчина"]   Что всё это значит?!
 [Dialog]
 [Blocker(a=0.7, r=0.95, g=0.95, b=0.95, fadetime=0.02, block=true)]
 [PlaySound(key="$d_sp_ballista")]
 [Blocker(a=0, r=0.95, g=0.95, b=0.95, fadetime=0.25, block=true)]
 [CameraShake(duration=0.6, xstrength=5, ystrength=8, vibrato=30, randomness=90, block=true)]
 [character(name="char_013_riop")]
-[name="Тяжело вооруженный мужчина"]   Они атакуют! Амия, они вооружены до зубов!
+[name="Тяжеловооруженный мужчина"]   Они нападают! Амия, они вооружены до зубов!
 [Blocker(a=0.7, r=0.95, g=0.95, b=0.95, fadetime=0.02, block=true)]
 [PlaySound(key="$e_atk_arrow_h")]
 [PlaySound(key="$e_atk_arrow_h")]
@@ -242,7 +242,7 @@
 [character(name="char_002_amiya_1#7")]
 [name="Амия"]   Будьте осторожны, все! Укройтесь и защитите Доктора!
 [name="Амия"]   Эти одежды... они из движения Реюниона? Но как это возможно...
-[name="Амия"]   Гард, готовься к бою!
+[name="Амия"]   Стражи, готовься к бою!
 [character(name="char_013_riop")]
 [name="Гард"]   Принял!
 [character]
@@ -264,18 +264,18 @@
 [character(name="char_002_amiya_1",name2="char_013_riop",focus=2)]
 [name="Гард"]   Что мы будем делать теперь?
 [character(name="char_002_amiya_1")]
-[name="Амия"]  Каль'цит не сможет вести командывание, как мы планировали изначально.
+[name="Амия"]   Каль'цит не сможет вести командывание, как мы планировали изначально.
 [name="Амия"]   ...
 [character(name="char_002_amiya_1#7")]
 [name="Амия"]   ...Д-р. {@nickname}.
-[name="Амия"]   Я надеюсь, что... ты сможешь взять на себя командование.
+[name="Амия"]   Я надеюсь, что... ты сможешь принять на себя командование.
 [Character(name="char_016_medic",name2="char_002_amiya_1",focus=1)]
 [name="Медик"]  Разве это не слишком рискованно? Доктор только что пришел в себя...
 [Character(name="char_016_medic",name2="char_002_amiya_1",focus=2)]
-[name="Амия"]   Я бы хотела... попробовать.
+[name="Амия"]   Я бы хотела... рискнуть.
 [character(name="char_002_amiya_1")]
 [name="Амия"]   Даже без воспоминаний, Доктору...
-[name="Амия"]   ...всё-таки раньше сражался вместе с нами.
+[name="Амия"]   ...всё-таки раньше сражался бок о бок с нами.
 [Blocker(a=1, r=255, g=255, b=255, afrom=0, rfrom=0, gfrom=0, bfrom=0, fadetime=0.1, block=true)]
 [PlaySound(key="$flashback", volume=0.4)]
 [Background(image="bg_wild_a")]
@@ -292,7 +292,7 @@
 [name="Амия"]   ...
 [character(name="char_002_amiya_1")]
 [name="Амия"]   Мы через многое прошли вместе...
-[name="Амия"]   Доктор... Я просто знаю, что вы сможете это сделать.
+[name="Амия"]   Доктор... Я просто знаю, что ты способен на это.
 [Blocker(a=1, r=255, g=255, b=255, afrom=0, rfrom=0, gfrom=0, bfrom=0, fadetime=0.1, block=true)]
 [PlaySound(key="$flashback", volume=0.4)]
 [Background(image="bg_wild_a")]
@@ -309,7 +309,7 @@
 [name="Амия"]   Я понимаю, что просить тебя вот так очень неожиданно и невежливо.
 [name="Амия"]   Но... Пожалуйста, помоги нам.
 [Character(name="char_002_amiya_1#2")]
-[name="Амия"]   Мы будем поддерживать тебя!
+[name="Амия"]   Мы поддержим тебя!
 [Decision(options="Давайте сначала оттесним их!;...;У нас нет другого выбора, кроме как дать отпор, верно?", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="char_002_amiya_1")]
@@ -323,7 +323,7 @@
 [name="Амия"]   Я всё равно верю в тебя!
 [Image(image="avg_0_3", fadetime=0.8)]
 [name="Амия"]   Я знаю, что ты сможешь это сделать.
-[name="Амия"]   Пожалуйста, прими командование... Родос Айлендом!
+[name="Амия"]   Пожалуйста, возьми командование... Родос Айлендом!
 [Delay(time=0.6)]
 [Dialog]
 [Blocker(block=true)]

@@ -3,45 +3,45 @@
 [Background(image="bg_cher_1",fadetime=1,screenadapt="coverall")]
 [Delay(time=1)]
 [character(name="char_013_riop")]
-[name="Guard"]  Ugh... Gahh...
-[name="Guard"]  Those Reunion goons... sure are energetic!
+[name="Гард"]  Уф... Гах...
+[name="Гард"]  Эти головорезы из Реюниона... уж слишком энергичны!
 [character]
-[name="Ursus Captain"]  Who are you people?
-[name="Ursus Captain"]  Why are you in Chernobog at a time like this?!
+[name="Капитан Урсуса"]  Кто вы такие?
+[name="Капитан Урсуса"]  Что вы забыли в Чернобоге в такое время?
 [character(name="char_013_riop")]
-[name="Guard"]  Huh? Wh-what's going on--
+[name="Гард"]  Э? Ч-что происходит...
 [character]
-[name="Ursus Captain"]  Are you spies?!
+[name="Капитан Урсуса"]  Вы шпионы?!
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]  (If our identities get revealed and the Ursus government starts to keep an eye on us, the consequences would be unfathomable!)
-[name="Dobermann"]  (If it comes down to it...!)
+[name="Доберман"]  (Если нас раскоют и правительство Урсуса заинтересуется нами, никто не сможет предсказать последствия!)
+[name="Доберман"]  (Если дело дойдет до этого...!)
 [character]
 [Character(name="char_002_amiya_1#7")]
-[name="Amiya"]   Sir.
+[name="Амия"]   Сэр.
 [character]
-[name="Ursus Captain"]  ... A little girl?
-[name="Ursus Captain"]  You're... an Infected?
-[name="Ursus Captain"]  Stop right there! Put down your weapon!
+[name="Капитан Урсуса"]  ... Маленькая девчонка?
+[name="Капитан Урсуса"]  Ты... зараженная?
+[name="Капитан Урсуса"]  Ни с места! Бросайте оружие!
 [Character]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=0.3, block=true)]
 [Dialog]
 [Blocker(a=0, fadetime=0.3, block=true)]
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]  (Be ready to back her up. If they show any signs of hostility...)
+[name="Доберман"]  (Будьте готовы прикрыть её. Если они проявят какие-либо признаки враждебности...)
 [Blocker(a=0.3, r=0.95, g=0.95, b=0.95, fadetime=4, block=true)]
-[name="Dobermann"]  (Smoke? Where did it come from...?)
+[name="Доберман"]  (Дым? Откуда он взялся...?)
 [PlayMusic(intro="$calamity_intro", key="$calamity_loop", volume=1, crossfade=1.5)]
 [Character]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=0.3, block=true)]
 [Dialog]
 [Blocker(a=0.3, r=0.95, g=0.95, b=0.95, fadetime=0.3, block=true)]
 [Character(name="char_002_amiya_1#7")]
-[name="Amiya"]   Sir, surely you understand that we have a common enemy!
-[name="Amiya"]   Dobermann!
+[name="Амия"]   Сэр, вы ведь понимаете, что у нас общий враг!
+[name="Амия"]   Доберман!
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]  Defenders! They're attacking!
+[name="Доберман"]  Защитники! Они нападают!
 [character]
-[name="Ursus Captain"]  Wh-what?!
+[name="Капитан Урсуса"]  Ч-что?!
 [character(fadetime=0)]
 [Dialog(fadetime=0)]
 [PlaySound(key="$d_sp_ballista",volume=0.7)]
@@ -51,54 +51,54 @@
 [Character(name="char_1502_crowns",fadetime=0.5)]
 [name="???"]  ......
 [Character(name="char_002_amiya_1#7")]
-[name="Amiya"]   Reunion... they're here.
+[name="Амия"]   Реюнион... они здесь.
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]  Amiya, be careful...
-[name="Dobermann"]  She's on a completely different level compared to those ordinary thugs!
+[name="Доберман"]  Амия, осторожно...
+[name="Доберман"]  Она совсем другого уровня — не чета тем головрезам!
 [Blocker(a=1, r=0, g=0, b=0, block=true)]
 [Character(fadetime=0)]
 [Background(fadetime=0)]
 [Blocker(a=0.3, r=0.95, g=0.95, b=0.95, fadetime=0.3, block=true)]
 [Image(image="avg_1_1",x=0, y=-50, xScale=1.2, yScale=1.2, fadetime=1)]
 [ImageTween(xFrom=0, yFrom=-50, xTo=0, yTo=0, xScaleFrom=1.2, yScaleFrom=1.2, xScaleTo=1, yScaleTo=1, duration=10, block=false)]
-[name="???"]  Hmph. Trying to run...?
-[name="???"]  Where do you think you're going?
-[name="???"]  Go. Tear them apart.
+[name="???"]  Хм. Пытаетесь бежать...?
+[name="???"]  Куда это вы собрались?
+[name="???"]  Вперед. Разорвите их на части.
 [name="Reunion Member"]  ...
 [Blocker(a=1, r=0.95, g=0.95, b=0.95, fadetime=4, block=true)]
 [Background(image="bg_cher_1", width=1, height=1, screenadapt="coverall")]
 [Image]
 [Blocker(a=0.3, r=0.95, g=0.95, b=0.95, fadetime=0.3, block=true)]
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]  Even her minions seem like they're well-trained...
-[name="Dobermann"]  Could she be Reunion's ringleader?
+[name="Доберман"]  Даже её бойцы кажутся хорошо обученными...
+[name="Доберман"]  Неужели она — одна из лидеров Реюниона?
 [Character(name="char_002_amiya_1#7")]
-[name="Amiya"]   The haze is getting thicker and thicker... are they planning to utilize it to launch a surprise attack?
-[name="Amiya"]   Sir, we have to evacuate immediately!
-[name="Amiya"]   If they manage to cut off our escape route, we'll all...
+[name="Амия"]   Дым всё гуще... Они собираются использовать его для внезапной атаки?
+[name="Амия"]   Сэр, мы должны немедленно отступить!
+[name="Амия"]   Если им удастся отрезать нам путь, то мы все...
 [Character]
-[name="Ursus Captain"]  ...
-[name="Ursus Captain"]  Get lost, Infected.
+[name="Капитан Урсуса"]  ...
+[name="Капитан Урсуса"]  Убирайся, зараженная.
 [Character(name="char_002_amiya_1")]
-[name="Amiya"]   ...
+[name="Амия"]   ...
 [Character]
-[name="Ursus Captain"]  I was tasked with defending this street.
-[name="Ursus Captain"]  Rabbit, I don't care why you came here or what you plan to do.
-[name="Ursus Captain"]  If you plan to ruin our city, know that someone will come after you. The rage of Ursus is never-ending.
-[name="Ursus Captain"]  If not, then what happens here is none of your business.
+[name="Капитан Урсуса"]  Мне было поручено держать эту улицу.
+[name="Капитан Урсуса"]  Кролик, мне плевать, зачем ты здесь и что задумала.
+[name="Капитан Урсуса"]  Если вы собираетесь навредить городу, знай, что кто-то придет за тобой. Гнев Урсуса бесконечен.
+[name="Капитан Урсуса"]  Если же нет, то происходящее здесь вас не касается.
 [Character(name="char_002_amiya_1#2")]
-[name="Amiya"]   ... I understand.
+[name="Амия"]   ... Я поняла.
 [Character]
-[name="Ursus Captain"]  Everybody in Ursus knows to never turn their back to the enemy.
-[name="Ursus Captain"]  Now scram! We don't have time to deal with you.
+[name="Капитан Урсуса"]  В Урсусе каждый знает: нельзя поворачиваться к врагу спиной.
+[name="Капитан Урсуса"]  А теперь убирайся! У нас нет времени на тебя.
 [Character(name="char_002_amiya_1")]
-[name="Amiya"]   ...
-[name="Amiya"]   Thank you.
+[name="Амия"]   ...
+[name="Амия"]   Спасибо.
 [Character(name="char_002_amiya_1#7")]
-[name="Amiya"]   Dobermann!
+[name="Амия"]   Доберман!
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]  Hurry! Let's get to the first rendezvous point!
-[name="Dobermann"]  All teams, move out! Quick!
+[name="Доберман"]  Скорее! Направляемся к первой точке сбора.
+[name="Доберман"]  Все команды, выдвигаемся! Быстро!
 [Character]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=0.6, block=true)]
 [Dialog]
@@ -106,11 +106,11 @@
 [Character(name="char_1502_crowns")]
 [name="???"]  ......
 [Character]
-[name="Ursus Captain"]  Come at us, Infected filth!
-[name="Ursus Captain"]  Is that all you're capable of? Are you just going to stand there staring at us?
+[name="Капитан Урсуса"]  Ну давай, зараженная мразь!
+[name="Капитан Урсуса"]  Это всё, на что ты способна? Просто будешь стоять и смотреть на нас?
 [Character(name="char_1502_crowns")]
-[name="???"]  All Chernobogians...
-[name="???"]  Must die.
+[name="???"]  Все чернобожцы...
+[name="???"]  Должны умереть.
 [Delay(time=0.6)]
 [Dialog]
 [Blocker(block=true)]
