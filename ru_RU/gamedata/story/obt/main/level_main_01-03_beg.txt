@@ -1,73 +1,73 @@
 [HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")] 第八关（前）
-[name=""]   Time - Unknown \ Weather - Unknown \ Visibility - Poor
-[name=""]   Chernobog - Operation Squad E0's Location
-[name=""]   Dr. {@nickname} Rescue Operation, Phase 3
+[name=""]   Время - Неизвестно \ Погода - Неизвестно \ Видимость - Низкая
+[name=""]   Чернобог — Местоположение оперативной группы Е0
+[name=""]   Операция по спасению Доктора {@nickname}, фаза 3
 [dialog]
 [Background(image="bg_cher_1", width=1, height=1, fadetime=1)]
 [PlayMusic(intro="$chernormal_intro", key="$chernormal_loop", volume=0.8, crossfade=1, delay=0.5)]
 [Delay(time=1)]
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]  We have less than an hour left. We can't afford to make a detour...
-[name="Dobermann"]  The more time we waste, the more like we are to get caught in the Catastrophe.
-[name="Dobermann"]  We must directly cut across this area.
-[name="Dobermann"]  However, we won't be able to conceal our movements anymore given the size of our forces.
-[name="Dobermann"]  The possibility of getting ambushed when we're navigating through narrow streets is very high...
+[name="Доберманн"]  У нас осталось меньше часа. Мы не можем идти в обход...
+[name="Доберманн"]  Чем больше времени мы теряем, тем выше шанс оказаться посреди Катастрофы.
+[name="Доберманн"]  Нужно идти сквозь эту зону — напрямую.
+[name="Доберманн"]  Однако, из-за численности отряда мы уже не можем двигаться скрытно.
+[name="Доберманн"]  Вероятность засады в этих узких улочках очень высока...
 [Character(name="char_148_nearl_1", name2="char_130_doberm_ex", focus=1)]
-[name="Nearl"]   What's the plan?
+[name="Нирл"]   Каков план?
 [Character(name="char_148_nearl_1", name2="char_130_doberm_ex", focus=2)]
-[name="Dobermann"]   We don't have many options...
-[name="Dobermann"]  Dr. {@nickname}, what's your assessment?
-[Decision(options="All we have to do is destroy them in a head-on attack!;...They can't stop us, probably...;It takes time for the enemy to regroup.", values="1;2;3")]
+[name="Доберманн"]  У нас не так много вариантов...
+[name="Доберманн"]  Доктор {@nickname}, как вы оцениваете ситуацию?
+[Decision(options="Уничтожим их лобовой атакой!;...Они, вероятно, не смогут нас остановить...;Противнику понадобится время, чтобы перегруппироваться.", values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]  Reunion's forces are no match for us individually.
-[name="Dobermann"]  But most of the time, they try to overwhelm us with sheer numbers.
+[name="Доберманн"]  Отдельные отряды Реюниона не тянут на равных с нами.
+[name="Доберманн"]  Но в большинстве случаев они пытаются взять нас численностью.
 [Character(name="char_148_nearl_1")]
-[name="Nearl"]   If we can utilize our speed to constantly press forward while avoiding large-scale fights...
+[name="Нирл"]   Если будем использовать мобильность — постоянно двигаться вперёд и избегать крупных стычек...
 [Predicate(references="2")]
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]   They don't seem to have built any fortifications.
+[name="Доберманн"]   Похоже, они не строили никаих укреплений.
 [Character(name="char_148_nearl_1")]
-[name="Nearl"]   If we're able to charge through their blockade...
+[name="Нирл"]   Если нам удастся прорвать их блокаду...
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]   Even though it looks like they have a numbers advantage, their loose formation won't be able to stop our advance.
+[name="Доберманн"]   Хотя у них численное преимущество, их разрозненная формация не сможет остановить наше наступление.
 [Predicate(references="3")]
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]   From what I've observed through our past battles, Reunion's communication methods are absolutely primitive.
+[name="Доберманн"]   Судя по тому, что я наблюдала в ходе наших прошлых сражений, методы коммуникации Реюниона абсолютно примитивны.
 [Character(name="char_148_nearl_1")]
-[name="Nearl"]   If we do this quickly, by the time they're able to regroup and mount an effort to stop us...
+[name="Нирл"]   Если мы сделаем это быстро, то к тому времени, когда они смогут перегруппироваться и предпринять попытку остановить нас...
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]   We'll already be long gone by the time they get into formation.
+[name="Доберманн"]   К тому времени, как они выстроятся в строй, нас уже давно не будет.
 [Predicate]
 [Character(name="char_148_nearl_1")]
-[name="Nearl"]   Sounds good.
-[name="Nearl"]   We'll storm them, disrupt their formation, destroy their firebase, and then fall back quickly.
-[name="Nearl"]   Dobermann, are you testing me, or...
+[name="Нирл"]   Звучит неплохо.
+[name="Нирл"]   Мы атакуем их, нарушим их построение, уничтожим их огневую базу, а затем быстро отступим.
+[name="Нирл"]   Доберманн, ты меня проверяешь, или...
 [Character(name="char_002_amiya_1#1", name2="char_130_doberm_ex", focus=2)]
-[name="Dobermann"]  It's far easier to deal with threats we can see than to be stuck between a rock and a hard place.
-[name="Dobermann"]  I take it that these are Dr. {@nickname}'s orders, Amiya?
+[name="Доберманн"]  Гораздо легче справиться с угрозами, которые мы видим, чем оказаться между молотом и наковальней.
+[name="Доберманн"]  Я так понимаю, что это указания Доктора {@nickname}, Амия?
 [Character(name="char_002_amiya_1#1", name2="char_130_doberm_ex", focus=1)]
-[name="Amiya"]  The situation is clear. I trust Doctor's decisions...
+[name="Амия"]  Ситуация ясна. Я доверяю решениям Доктора...
 [Character(name="char_002_amiya_1#1", name2="char_130_doberm_ex", focus=2)]
-[name="Dobermann"]   ...Trust isn't built so easily from just a single battle.
-[name="Dobermann"]   I do think highly of Dr. {@nickname}, Amiya...
-[name="Dobermann"]   But don't let your guard down. Of course, there is nothing wrong with learning from the Doctor's wisdom, but remember, you can't fully rely on anyone else in this world.
+[name="Доберманн"]   ...Доверие не так легко завоевать всего за одну битву.
+[name="Доберманн"]   Я очень высоко ценю Доктора {@nickname}, Амию...
+[name="Доберманн"]   Но не теряй бдительность. Конечно, нет ничего плохого в том, чтобы учиться на мудрости Доктора, но помни, что в этом мире нельзя полностью полагаться на кого-либо другого.
 [Character(name="char_002_amiya_1#7", name2="char_130_doberm_ex", focus=1)]
-[name="Amiya"]  ...I know.
+[name="Амия"]  ...Я знаю.
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]  Don't get me wrong, Doctor, I'm not trying to make things difficult for you.
-[name="Dobermann"]   But I hope you understand... Amiya still needs to learn and grow.
-[name="Dobermann"]   If you were in my position, you also wouldn't allow her to rely on someone else.
-[name="Dobermann"]   However, know that I've already acknowledged your abilities as a commander.
-[Decision(options="Thank you...", values="1")]
+[name="Доберманн"]   Не поймите меня неправильно, Доктор, я не пытаюсь усложнить вам жизнь.
+[name="Доберманн"]   Но я надеюсь, вы понимаете... Амия еще должна учиться и расти.
+[name="Доберманн"]   Если бы вы были на моем месте, вы бы тоже не позволили ей полагаться на кого-то другого.
+[name="Доберманн"]   Однако знайте, что я уже признала ваши способности как командира.
+[Decision(options="Спасибо...", values="1")]
 [Predicate(references="1")]
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]   Also, there's no reason to be so formal. We're comrades-in-arms now.
-[name="Dobermann"]   At least on the battlefield, I've already entrusted my life to you.
-[name="Dobermann"]   Enough with the chit-chatting though, let's hurry it up.
+[name="Доберманн"]   Кроме того, нет причин быть столь формальным. Мы теперь соратники.
+[name="Доберманн"]   По крайней мере, на поле боя я уже доверила тебе свою жизнь.
+[name="Доберманн"]   Хватит болтать, давайте поспешим.
 [Character(name="char_148_nearl_1#1", name2="char_130_doberm_ex", focus=1)]
-[name="Nearl"]   That's right.
-[name="Nearl"]   There's an old saying in Kazimierz: 'Death catches up to you when you stop to take a break.'
+[name="Нирл"]   Верно.
+[name="Нирл"]   В Казимеже есть старая поговорка: «Смерть настигает тебя, когда ты останавливаешься, чтобы отдохнуть».
 [Delay(time=0.6)]
 [Dialog]
 [Blocker(block=true)]
