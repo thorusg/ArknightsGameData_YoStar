@@ -4,18 +4,18 @@
 [PlaySound(key="$d_gen_soldiersrun",volume=0.5)]
 [CameraShake(duration=3,xstrength=2,ystrength=3,vibrato=10,randomness=90,fadeout=true,block=true)]
 [Character(name="char_148_nearl_1#3")]
-[name="Nearl"]  Впере-е-д!
+[name="Нирл"]  Впере-е-д!
 [Character(name="char_1002_nsabr_2")]
-[name="Reunion Member"]   А?
-[name="Reunion Member"]   -Кто здесь?!
+[name="Член Реюниона"]   А?
+[name="Член Реюниона"]   -Кто здесь?!
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]   Ха-х, не туда смотришь! Получай!
+[name="Доберманн"]   Ха-х, не туда смотришь! Получай!
 [playsound(key="$p_imp_whip_h", volume=0.7)]
 [Blocker(a=0.7, r=0.95, g=0.95, b=0.95, fadetime=0.02, block=true)]
 [Blocker(a=0, r=0.95, g=0.95, b=0.95, fadetime=0.25, block=true)]
 [Character(name="char_1002_nsabr_2")]
 [CameraShake(duration=3,xstrength=2,ystrength=3,vibrato=10,randomness=90,fadeout=true,block=false)]
-[name="Reunion Member"]   Гах!!
+[name="Член Реюниона"]   Гах!!
 [Dialog]
 [Blocker(a=1, initr=2, r=0, g=0, b=0, fadetime=0.6, block=true)]
 [Character(fadetime=0)]
@@ -24,15 +24,15 @@
 [name="Guard"]   Фух...
 [name="Guard"]   Силы Реюниона перегруппировываются позади... они готовятся напасть!
 [Character(name="char_013_riop", name2="char_148_nearl_1#3", focus=2)]
-[name="Nearl"]   Им за нами не угнаться. Не сбавлять темп!
+[name="Нирл"]   Им за нами не угнаться. Не сбавлять темп!
 [Character(fadetime=0)]
 [PlaySound(key="$d_gen_soldiersrun",volume=0.8)]
 [CameraShake(duration=3,xstrength=2,ystrength=3,vibrato=10,randomness=90,fadeout=true,block=true)]
 [Character(name="char_130_doberm_ex", name2="char_148_nearl_1#3", focus=1)]
-[name="Dobermann"]  Мы почти выбрались из подконтрольной Реюниону территории! Не останавливаться!
+[name="Доберманн"]  Мы почти выбрались из подконтрольной Реюниону территории! Не останавливаться!
 [Character(name="char_130_doberm_ex", name2="char_148_nearl_1#3", focus=2)]
-[name="Nearl"]   Ничтожные головорезы...
-[name="Nearl"]   ...И не надейтесь нас остановить!
+[name="Нирл"]   Ничтожные головорезы...
+[name="Нирл"]   ...И не надейтесь нас остановить!
 [Delay(time=0.6)]
 [Dialog]
 [Blocker(block=true)]
