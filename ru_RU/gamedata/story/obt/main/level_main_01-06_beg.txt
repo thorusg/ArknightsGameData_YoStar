@@ -3,11 +3,11 @@
 [PlayMusic(intro="$chernormal_intro", key="$chernormal_loop", volume=0.8, crossfade=1, delay=0.5)]
 [Delay(time=1)]
 [Character(name="char_1507_Mephisto_1")]
-[name="Mephisto"]  Indeed. They don't know that Faust is following them. I received some information from one of his scouts.
-[name="Mephisto"]  Rhodes Island is trapped around the perimeter of the city center.
-[name="Mephisto"]  Insects as they might be, they still might take advantage of the confusion caused by the Catastrophe to make their escape.
-[name="Mephisto"]  Given their understanding of the situation in Chernobog, they could potentially interfere with our plans.
-[name="Mephisto"]  ... At least, getting rid of them won't do us any harm.
+[name="Мефисто"]  Отлично. Они даже не подозревают, что Фауст преследует их. Я получил информацию от одного из его разведчиков.
+[name="Мефисто"]  Родос Айленд попал в ловушку в центре города.
+[name="Мефисто"]  Пусть они всего лишь насекомые, они всё равно могут воспользоваться суматохой из-за Катастрофы, чтобы сбежать.
+[name="Мефисто"]  Учитывая их осведомленность о ситуации в Чернобоге, они потенциально могут вмешаться в наши планы.
+[name="Мефисто"]  ... Что ж, избавиться от них нам никак не повредит.
 [Dialog(fadetime=0)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.6, block=true)]
 [Character(fadetime=0)]
@@ -21,25 +21,25 @@
 [Character(fadetime=0)]
 [Blocker(a=0, fadetime=0.6, block=true)]
 [Character(name="char_1002_nsabr_2",name2="char_1002_nsabr_2")]
-[name="Reunion Member"]  Chernobog bastards! It's because of you, it's all your fault... that us Infected became like this!
+[name="Член Реюниона"]  Чернобожские ублюдки! Это всё ваша вина, это из-за вас... зараженные стали такими!
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]  Get lost!
+[name="Доберманн"]   Пошёл прочь!
 [CameraShake(duration=1, xstrength=10, ystrength=12, vibrato=30, randomness=90, block=false)]
 [playsound(key="$p_imp_whip_h", volume=0.5)]
 [Blocker(a=0.7, r=0.95, g=0.95, b=0.95, fadetime=0.02, block=true)]
 [Blocker(a=0, r=0.95, g=0.95, b=0.95, fadetime=0.25, block=true)]
 [Character(name="char_1002_nsabr_2")]
-[name="Reunion Member"]  Ugh!
+[name="Член Реюниона"]  Угх!
 [Character(fadetime=0.5)]
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]  These people, it's like they're just waiting to die! !
+[name="Доберманн"]   Да что с этими людьми не так?! Они будто сами ищут смерти!
 [Character(name="char_148_nearl_1#4")]
-[name="Nearl"]  Why is Reunion going completely berserk?
+[name="Нирл"]  Реюнион окончательно сошёл с ума?
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]  Why are they sending so many members out here now?!
-[name="Dobermann"]  This makes no sense! There's no reason for them to be defending this place so staunchly!
+[name="Доберманн"]   Зачем они направляют сюда столько бойцов?!
+[name="Доберманн"]   Это бессмысенно! Нет никакого резона так упорно оборонять это место!
 [Character(name="char_148_nearl_1#3")]
-[name="Nearl"]  Rhodes Island Operators, stand your ground! Push Reunion back and open up an escape route!
+[name="Нирл"]  Операторы Родос Айленд, не сдавать позиций! Отбросьте Реюнион и пробейте путь к отступлению!
 [Dialog]
 [Blocker(a=1, initr=2, r=0, g=0, b=0, fadetime=0.6, block=true)]
 [Character(fadetime=0)]
@@ -50,10 +50,10 @@
 [name="???"]   ————
 [Delay(time=1)]
 [Character(name="char_1505_frstar_1#2")]
-[name="???"]   So that's the 'Rhodes Island' that I've been hearing so much about? Heh... How heroic.
+[name="???"]   Так значит это и есть тот самый «Родос Айленд», о котором я столько наслышана? Хех... Как героически.
 [Delay(time=0.5)]
 [Character(name="char_1502_crowns")]
-[name="Crownslayer"]   ...
+[name="Краунслеер"]   ...
 [Delay(time=0.5)]
 [Dialog]
 [PlayMusic(intro="$calamity_intro", key="$calamity_loop", volume=0.8, crossfade=1.5, delay=0.5)]
@@ -68,44 +68,44 @@
 [Blocker(a=0, r=0.93, g=0.75, b=0.32, fadetime=0.2, block=true)]
 [PlaySound(key="$d_gen_explo_n", volume=0.1)]
 [Character(name="char_016_medic")]
-[name="Medic"]  ...Huh?
+[name="Медик"]  ...А?
 [Character(name="char_013_riop")]
-[name="Guard"]  ... Falling rocks? At a time like this?
+[name="Гард"]  ... Падающие камни? В такое время?
 [Character(name="char_014_riope",name2="char_130_doberm_ex",focus=2)]
-[name="Dobermann"]  Don't stop moving! Maintain our defensive line!
+[name="Доберманн"]   Не останавливаться! Держать оборону!
 [Character(name="char_013_riop")]
-[name="Guard"]  Something's not right... These rocks are coming from the buildings...
+[name="Гард"]  Что-то не так... Эти камни летят со зданий...
 [Character(name="char_014_riope",name2="char_130_doberm_ex",focus=2)]
-[name="Dobermann"]  What are you talking about...
+[name="Доберманн"]   О чем ты говоришь...
 [Character(name="char_1002_nsabr_2",name2="char_1002_nsabr_2")]
-[name="Reunion Member"]  It's here! It's here!
-[name="Reunion Member"]  Ahaha... salvation has come for us! Judgment day has come!
-[name="Reunion Member"]  Ahhh, arghhhh--*CRASH!*
+[name="Член Реюниона"]  Она здесь! Здесь!
+[name="Член Реюниона"]  Ахаха... Вот оно, спасение! Судный день настал!
+[name="Член Реюниона"]  Аххх, аргхххх--*Грохот*
 [dialog]
 [PlaySound(key="$d_gen_explo_n", channel=2, volume=0.6)]
 [Blocker(a=0.7, r=1, g=0.1, b=0.3, fadetime=0.02, block=true)]
 [Blocker(a=0, r=0.95, g=0.95, b=0.95, fadetime=0.25, block=true)]
 [CameraShake(duration=1, xstrength=10, ystrength=10, vibrato=30, randomness=90, block=false)]
-[name="Reunion Member"]  Ahhh, arghhhh--*CRASH!*
+[name="Член Реюниона"]  Аххх, аргхххх--*Грохот*
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]  ...
-[name="Dobermann"]  They were... crushed by something?
-[name="Dobermann"]  Was it one of you... who attacked them?
-[name="Dobermann"]  Or were they...
+[name="Доберманн"]   ...
+[name="Доберманн"]   Их что-то... раздавило?
+[name="Доберманн"]   Это один из вас атаковал?..
+[name="Доберманн"]   Или они...
 [PlaySound(key="$d_gen_explo_n", volume=0.4, delay=2)]
 [Character(name="char_002_amiya_1#7")]
-[name="Amiya"]  Dobermann! Look, the sky...!
+[name="Амия"]  Доберманн! Смотрите, небо...!
 [Character(name="char_148_nearl_1#3")]
-[name="Nearl"]  ...
+[name="Нирл"]  ...
 [Blocker(a=1, initr=2, r=0, g=0, b=0, fadetime=0.8, block=true)]
-[name="Nearl"]  The sky was dyed a bloody crimson...
-[name="Nearl"]  'Boiling dark clouds, tumbling in flames...'
+[name="Нирл"]  Небо окрасилось в кроваво-алый...
+[name="Нирл"]  'Тёмные облака вскипают, клубясь в языках пламени...'
 [Character(name="char_014_riope")]
-[name="Ace"]  Don't panic!
+[name="Эйс"]  Без паники!
 [Character(name="char_148_nearl_1#7")]
-[name="Nearl"]  Keep your senses about you!
+[name="Нирл"]  Держите себя в руках!
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]  ... We still can make it out of this alive if we act decisively!
+[name="Доберманн"]   ... Мы всё еще можем выбраться живыми, если будем действовать решительно!
 [Dialog]
 [Character(fadetime=0)]
 [Background(fadetime=0)]
@@ -114,7 +114,7 @@
 [ImageTween(xFrom=-64, yFrom=35, xTo=64, yTo=35, xScaleFrom=1.1, yScaleFrom=1.1, xScaleTo=1.1, yScaleTo=1.1, duration=10, block=false)]
 [CameraShake(duration=3, fadeout=true, xstrength=15, ystrength=15, vibrato=30, randomness=90, block=false)]
 [PlaySound(key="$d_gen_explo_n", channel=2, volume=0.6)]
-[name="???"]  '...As terror strips away their voices, the land falls into silence.'
+[name="???"]  '…Когда страх лишает голоса, земля замирает в безмолвии.'
 [Blocker(a=0, fadetime=1, block=true)]
 [Blocker(a=0.1, r=0.93, g=0.40, b=0.32, fadetime=0.1, block=true)]
 [Blocker(a=0, r=0.93, g=0.40, b=0.32, fadetime=0.1, block=true)]
@@ -123,12 +123,12 @@
 [PlaySound(key="$d_gen_explo_n", channel=2, volume=0.8)]
 [CameraShake(duration=3, fadeout=true, xstrength=25, ystrength=25, vibrato=30, randomness=90, block=false)]
 [Delay(time=0.2)]
-[name="???"]  'The titanic Originium lowers its head...'
+[name="???"]  'Величественный Ориджиниум склоняет голову...'
 [Blocker(a=0.1, r=0.93, g=0.40, b=0.32, fadetime=0.1, block=true)]
 [Blocker(a=0, r=0.93, g=0.40, b=0.32, fadetime=0.1, block=true)]
 [Blocker(a=0.05, r=0.93, g=0.40, b=0.32, fadetime=0.1, block=true)]
 [Blocker(a=0, r=0.93, g=0.40, b=0.32, fadetime=0.1, block=true)]
-[name="???"]  '...and falls upon the scorched shadow of death.'
+[name="???"]  '…и низвергается на выженную тень смерти.'
 [PlaySound(key="$d_gen_explo_n", channel=2, volume=0.6)]
 [CameraShake(duration=3, fadeout=true, xstrength=25, ystrength=25, vibrato=30, randomness=90, block=false)]
 [Blocker(a=0.05, r=0.93, g=0.40, b=0.32, fadetime=0.1, block=true)]
@@ -148,12 +148,12 @@
 [Image(image="avg_9_1",x=0, y=50,xScale=1, yScale=1, fadetime=0)]
 [CameraShake(stop=true, block=true)]
 [Blocker(a=0, fadetime=1, block=true)]
-[name="Crownslayer"]  Talulah.
-[name="Talulah"]  ...
-[name="Crownslayer"]  What do we do next?
-[name="Talulah"]  ... Perhaps they will be able to survive the Catastrophe.
-[name="Talulah"]  Finish off the stragglers.
-[name="Crownslayer"]  Very well.
+[name="Краунслеер"]  Талула.
+[name="Талула"]  ...
+[name="Краунслеер"]  Что нам делать дальше?
+[name="Талула"]  ... Возможно, им они смогут пережить Катастрофу.
+[name="Талула"]  Добейте отстающих.
+[name="Краунслеер"]  Хорошо.
 [Dialog]
 [PlaySound(key="$d_gen_thunders_amb", volume=0.3)]
 [character]
@@ -164,37 +164,37 @@
 [Image]
 [Blocker(a=0, fadetime=1, block=true)]
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]  Even though I figured that Reunion would be using the Catastrophe to take their revenge...
-[name="Dobermann"]  I didn't expect them to use it to completely destroy Chernobog...
-[name="Dobermann"]  Rather than vengeance, this seems more like a manifesto...
-[name="Dobermann"]  Something about the Era of the Infected... or something like that?
+[name="Доберманн"]   Хотя я и догадывалась, что Реюнион воспользуется Катастрофой как инструментом своей мести...
+[name="Доберманн"]   Я и подумать не могла, что они решат полностью уничтожить Чернобог...
+[name="Доберманн"]   Это не столько месть, сколько манифест...
+[name="Доберманн"]   Что-то про Эпоху Инфицированных... или что-то в этом роде?
 [Character(name="char_016_medic")]
-[name="Medic"]  Aaaahh...
-[name="Medic"]  The entire sky... is crashing down...
+[name="Медик"]  Аааахх...
+[name="Медик"]  Всё небо... падает...
 [Character(name="char_016_medic",name2="char_013_riop",focus=2)]
-[name="Guard"]  Watch out! !
+[name="Гард"]  Берегись!
 [Character(name="char_016_medic",name2="char_013_riop",focus=1)]
-[name="Medic"]  What's that...
+[name="Медик"]  Что это...
 [PlaySound(key="$d_gen_thunders_amb", volume=0.3)]
 [Blocker(a=1, r=1, g=1, b=1, fadetime=1, block=true)]
 [Image(image="avg_9_3",x=0, y=0, xScale=1, yScale=1, fadetime=0)]
 [Blocker(a=0, fadetime=1, block=true)]
 [CameraShake(duration=3, fadeout=true, xstrength=35, ystrength=35, vibrato=30, randomness=90, block=false)]
 [Character(name="char_002_amiya_1#7")]
-[name="Amiya"]  Be more alert!
+[name="Амия"]  Внимательней!
 [PlaySound(key="$d_gen_thunders_amb", volume=0.3)]
 [Blocker(a=1, r=1, g=0.5, b=0.5, block=true)]
 [Blocker(a=0, fadetime=1, block=true)]
 [Character(name="char_016_medic")]
-[name="Medic"]  -- Oh!
+[name="Медик"]  -- Ох!
 [Character(name="char_002_amiya_1#7",name2="char_013_riop",focus=1)]
-[name="Amiya"]  Protect the Medic - hurry and take her someplace safe!
+[name="Амия"]  Защитить Медика — поспешите и отведите её в безопасное место!
 [Character(name="char_002_amiya_1#7",name2="char_013_riop",focus=2)]
-[name="Guard"]  Roger!
+[name="Гард"]  Принял!
 [Character(name="char_014_riope")]
-[name="Ace"]  All operators, find cover!
+[name="Эйс"]  Всем оператором, найти укрытие!
 [Character(name="char_002_amiya_1#7")]
-[name="Amiya"]  All teams, prepare to... weather the Catastrophe!
+[name="Амия"]  Всем отрядам, приготовиться... выдержать Катастрофу!
 [PlaySound(key="$d_gen_thunders_amb", volume=0.3)]
 [Delay(time=0.6)]
 [Dialog]
