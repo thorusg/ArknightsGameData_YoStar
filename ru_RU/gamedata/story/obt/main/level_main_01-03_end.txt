@@ -4,7 +4,7 @@
 [PlaySound(key="$d_gen_soldiersrun",volume=0.5)]
 [CameraShake(duration=3,xstrength=2,ystrength=3,vibrato=10,randomness=90,fadeout=true,block=true)]
 [Character(name="char_148_nearl_1#3")]
-[name="Нирл"]  Впере-е-д!
+[name="Нэрл"]  Впере-е-д!
 [Character(name="char_1002_nsabr_2")]
 [name="Член Реюниона"]   А?
 [name="Член Реюниона"]   -Кто здесь?!
@@ -24,15 +24,15 @@
 [name="Guard"]   Фух...
 [name="Guard"]   Силы Реюниона перегруппировываются позади... они готовятся напасть!
 [Character(name="char_013_riop", name2="char_148_nearl_1#3", focus=2)]
-[name="Нирл"]   Им за нами не угнаться. Не сбавлять темп!
+[name="Нэрл"]   Им за нами не угнаться. Не сбавлять темп!
 [Character(fadetime=0)]
 [PlaySound(key="$d_gen_soldiersrun",volume=0.8)]
 [CameraShake(duration=3,xstrength=2,ystrength=3,vibrato=10,randomness=90,fadeout=true,block=true)]
 [Character(name="char_130_doberm_ex", name2="char_148_nearl_1#3", focus=1)]
 [name="Доберманн"]  Мы почти выбрались из подконтрольной Реюниону территории! Не останавливаться!
 [Character(name="char_130_doberm_ex", name2="char_148_nearl_1#3", focus=2)]
-[name="Нирл"]   Ничтожные головорезы...
-[name="Нирл"]   ...И не надейтесь нас остановить!
+[name="Нэрл"]   Ничтожные головорезы...
+[name="Нэрл"]   ...И не надейтесь нас остановить!
 [Delay(time=0.6)]
 [Dialog]
 [Blocker(block=true)]

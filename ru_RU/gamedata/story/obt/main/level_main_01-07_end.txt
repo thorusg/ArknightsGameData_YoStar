@@ -7,85 +7,85 @@
 [PlaySound(key="$d_gen_explo_n")]
 [CameraShake(duration=1, xstrength=3, ystrength=5, vibrato=30, randomness=90, fadeout=false)]
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]   *gasp* *gasp*...
+[name="Dobermann"]   *вздох* *вздох*...
 [Character(name="char_148_nearl_1#3")]
-[name="Nearl"]   We made it...!
-[name="Nearl"]   We've not only managed to shake off Reunion...
-[name="Nearl"]   ...but the Catastrophe is also visibly weakening!
-[name="Nearl"]   But we're still in a terrible situation... Everyone, continue to exercise caution!
+[name="Nearl"]   Мы справились...!
+[name="Nearl"]   Мы не только сбросили Реюнион с хвоста..
+[name="Nearl"]   ...и Катастрофа также заметно стихает!
+[name="Nearl"]   Но наше положение всё еще ужасно... Всем быть начеку!
 [Character(name="char_002_amiya_1#5")]
-[name="Amiya"]   The Catastrophe...
-[name="Amiya"]   The streets are now buried underneath rubble, and collapsed buildings are blocking all the roads...
+[name="Amiya"]   Катастрофа...
+[name="Amiya"]   Улицы засыпаны обломками, а поваленные здания перекрыли все дороги...
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]   Is the Originium already beginning to metastasize...?
-[name="Dobermann"]   We're almost there, but everything is blocking our way!
-[name="Dobermann"]   If we can just...
-[name="Dobermann"]   ... Just...
+[name="Dobermann"]   Ориджиниум уже начал давать метастазы?..
+[name="Dobermann"]   Мы почти у цели, но путь прегражден!
+[name="Dobermann"]   Если бы просто...
+[name="Dobermann"]   ... Просто...
 [Character(name="char_014_riope")]
 [name="Ace"]  ——
-[name="Ace"]  They're here.
+[name="Ace"]  Они здесь.
 [Character(name="char_014_riope",name2="char_013_riop",focus=2)]
-[name="Guard"]   What's here?
-[name="Guard"]   Reunion? They caught up to us? !
+[name="Guard"]   Кто?
+[name="Guard"]   Реюнион? Они нас догнали?!
 [Character(fadetime=0)]
 [Dialog]
 [PlaySound(key="$d_gen_soldiersrun",volume=1)]
 [Character(name="char_1002_nsabr_2",fadetime=1)]
 [Delay(time=2)]
 [Character(name="char_016_medic")]
-[name="Medic"]   Ugh...
-[name="Medic"]   There's... so many of them...
+[name="Medic"]   Угх...
+[name="Medic"]   Их... слишком много...
 [Character(fadetime=0)]
 [PlaySound(key="$d_gen_soldiersrun",volume=1)]
 [Dialog]
 [Delay(time=2)]
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]   They didn't just catch up to us...
-[name="Dobermann"]   They're...
+[name="Dobermann"]   Они не просто нагнали нас...
+[name="Dobermann"]   Они...
 [Character(name="char_148_nearl_1#3")]
-[name="Nearl"]   --Everywhere.
+[name="Nearl"]   --Повсюду.
 [Character(fadetime=0)]
 [Dialog]
 [PlaySound(key="$d_gen_soldiersrun",volume=1)]
 [Character(name="char_1002_nsabr_2",name2="char_1002_nsabr_2",fadetime=1)]
 [Delay(time=2)]
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]   From the plaza, the streets, the buildings... and even all the ruins.
-[name="Dobermann"]   Look at those numbers. Hah...
-[name="Dobermann"]   That explains why they weren't afraid of the Catastrophe at all, except for the ones who ended up being crushed.
-[name="Dobermann"]   Even if we assume...
-[name="Dobermann"]   That the Catastrophe wiped out half their men--
-[name="Dobermann"]   They still have enough people here to kill us a dozen times over.
+[name="Dobermann"]   Они лезут с площади, улиц, зданий... и даже из руин.
+[name="Dobermann"]   Взгляните на их численность. Хах...
+[name="Dobermann"]   Вот почему они совсем не боялись Катастрофы. Не считая тех, раздавленных...
+[name="Dobermann"]   Даже если предположить...
+[name="Dobermann"]   Что Катастрофа уничтожила половину их людей...
+[name="Dobermann"]   У них всё еще хватает бойцов, чтобы прикончить нас десятки раз.
 [Character(name="char_148_nearl_1#3")]
 [name="Nearl"]   ...
-[name="Nearl"]   Don't stop moving! We'll continue moving towards our retreat route!
-[name="Nearl"]   We're done for if we stop in a wide-open area! At least make it to the plaza's exit before regrouping!
+[name="Nearl"]   Не останавливайтесь! Продолжаем двигаться по марштуту отхода!
+[name="Nearl"]   Нам конец, если встанем на открытой местности! Хотя бы прорвёмся к выходу с площади, а там перегруппируемся!
 [Character(name="char_148_nearl_1#3",name2="char_002_amiya_1#7",focus=2)]
-[name="Amiya"]   Nearl...
+[name="Amiya"]   Нэрл...
 [Character(name="char_148_nearl_1#3",name2="char_002_amiya_1#7",focus=1)]
-[name="Nearl"]   We have to fight. After we break through their line, we'll slip out in the ensuing chaos.
+[name="Nearl"]   Нам придётся сражаться. Как только мы проврём их строй, ускользнем в суматохе.
 [Character(name="char_148_nearl_1#3",name2="char_002_amiya_1#7",focus=2)]
-[name="Amiya"]   Are you sure it'll work?
+[name="Amiya"]   Вы уверены, что это сработает?
 [Character(name="char_148_nearl_1#3",name2="char_002_amiya_1#7",focus=1)]
-[name="Nearl"]   The chance is slim, but we're out of options. But...
-[name="Nearl"]   Even if they outnumber us ten-to-one, if they're just a bunch of thugs, we still have a chance!
-[name="Nearl"]   Stay calm! Prepare for battle! Defensive formations!
+[name="Nearl"]   Шансы невелики, но у нас нет другого выхода. И всё же...
+[name="Nearl"]   Даже если их в десятки больше, они всё лишь головорезы! У нас есть есть шанс!
+[name="Nearl"]   Сохранять спокойствие! Приготовиться к бою! Оборонительный строй!
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]   ...Tsk.
-[name="Dobermann"]   With these numbers, if they wanted to take over Chernobog... they might actually be able to do it.
+[name="Dobermann"]   ...Тсс.
+[name="Dobermann"]   С такой численностью, если они решат захватить Чернобог... им это вполне может удаться.
 [Character(name="char_148_nearl_1#3")]
-[name="Nearl"]   There are too many...
-[name="Nearl"]   Way too many of them..
-[name="Nearl"]   Where did Reunion find all these Infected?
+[name="Nearl"]   Их так много...
+[name="Nearl"]   Слишком много...
+[name="Nearl"]   Где Реюнион набрал столько Инфицированных?
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]   We're completely surrounded...
-[name="Dobermann"]   I never asked for this kind of respect from Reunion.
+[name="Dobermann"]   Мы полностью окружены...
+[name="Dobermann"]   Я никогда не просила такого «уважения» от Реюниона.
 [Character(name="char_013_riop")]
-[name="Guard"]   The entire plaza... is swarming with Reunion forces!
-[name="Guard"]   They've stopped moving!
+[name="Guard"]   Вся площадь... кишит силами Реюниона!
+[name="Guard"]   Они встали.
 [name="Guard"]   ...
 [Character(name="char_002_amiya_1#7")]
-[name="Amiya"]   Ugh...
+[name="Amiya"]   Угх...
 [PlayMusic(intro="$calamity_intro", key="$calamity_loop", volume=0.8, crossfade=1.5, delay=0.5)]
 [Character(fadetime=0)]
 [PlaySound(key="$d_gen_walk_n",volume=1)]
@@ -100,24 +100,24 @@
 [character(fadetime=1)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(name="char_013_riop")]
-[name="Guard"]   Only a single enemy is approaching our defensive line!
-[name="Guard"]   Why is that person walking towards us alone...
-[name="Guard"]   Are they sending an envoy? I don't think so...
+[name="Guard"]   К нашей обороне приближается один из противников!
+[name="Guard"]   Почему она идет к нам одна...
+[name="Guard"]   Они хотят переговоров? Как-то сомнительно...
 [Dialog]
 [character]
 [PlaySound(key="$d_gen_walk_n")]
 [Blocker(a=1, r=0, g=0, b=0, block=true)]
 [Blocker(a=0, r=0, g=0, b=0, block=true)]
 [Character(name="char_002_amiya_1#7")]
-[name="Amiya"]   She...
-[name="Amiya"]   According to our intel, she's...
+[name="Amiya"]   Она...
+[name="Amiya"]   По разведданным, она...
 [Character(name="char_148_nearl_1#3")]
 [name="Nearl"]   ...
-[name="Nearl"]   There's something peculiar about her scent.
+[name="Nearl"]   В её запахе есть что-то странное.
 [Character(name="char_148_nearl_1#3",name2="char_130_doberm_ex",focus=2)]
-[name="Dobermann"]   Nearl...
+[name="Dobermann"]   Нэрл...
 [Character(name="char_148_nearl_1#3",name2="char_130_doberm_ex",focus=1)]
-[name="Nearl"]   I can't exactly put my finger on it, but...
+[name="Nearl"]   Не могу точно определить, но...
 [Dialog]
 [character]
 [Blocker(a=1, r=0, g=0, b=0, block=true)]
@@ -133,16 +133,16 @@
 [Background(image="bg_cher_7", fadetime=0)]
 [Blocker(a=0, r=0, g=0, b=0, block=true)]
 [Character(name="char_148_nearl_1#3")]
-[name="Nearl"]   It's... the smell of steel and sulfur.
-[name="Nearl"]   As if something was burning.
-[name="Nearl"]   If it really is fire, then...
+[name="Nearl"]   Это... запах стали и серы.
+[name="Nearl"]   Как будто что-то горит.
+[name="Nearl"]   Если действительно огонь, то...
 [Character(name="char_002_amiya_1#7")]
-[name="Amiya"]   All Operators... be on maximum alert.
-[name="Amiya"]   ...That person is...
+[name="Amiya"]   Всем операторам... максимальная боеготовность.
+[name="Amiya"]   ...Этот человек...
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]   Reunion's ruler...
+[name="Dobermann"]   Главный лидер Реюниона...
 [Character(name="char_002_amiya_1#7")]
-[name="Amiya"]   ...Talulah.
+[name="Amiya"]   ...Талула.
 [PlaySound(key="$d_gen_thunders_amb")]
 [CameraShake(duration=1, xstrength=5, ystrength=3, vibrato=30, randomness=90, block=false)]
 [stopmusic(fadetime=2)]
@@ -157,7 +157,7 @@
 [name="Talulah"]   ... ...
 [Blocker(a=1, initr=2, r=0, g=0, b=0, block=true, fadetime=1)]
 [Character(name="char_148_nearl_1#3")]
-[name="Nearl"]   I reckon... her flames are powerful enough to swallow Terra entirely.
+[name="Nearl"]   Кажется... её пламя может поглотить всю Терру целиком.
 [Delay(time=0.6)]
 [Dialog]
 [Blocker(block=true)]
