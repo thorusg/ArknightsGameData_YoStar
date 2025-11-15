@@ -5,46 +5,46 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5,block=true)]
 [Delay(time=0.3)]
 [Character(name="char_148_nearl_1#3")]
-[name="Nearl"]   Амия, бери Доктора!
-[name="Nearl"]   Немедленно уходите!
+[name="Нэрл"]   Амия, бери Доктора!
+[name="Нэрл"]   Немедленно уходите!
 [Character(name="char_002_amiya_1#4")]
-[name="Amiya"]   Нет! Я вас не брошу...
+[name="Амия"]   Нет! Я вас не брошу...
 [Character(name="char_002_amiya_1#4", name2="char_148_nearl_1#3", focus=2)]
-[name="Nearl"]   Ты же тоже это чувствуешь! Она... Если вы не уйдёте, вся спасательная команда погибнет здесь!
-[name="Nearl"]   Эта Талула...
-[name="Nearl"]   Она монстр во плоти! Амия!
+[name="Нэрл"]   Ты же тоже это чувствуешь! Она... Если вы не уйдёте, вся спасательная команда погибнет здесь!
+[name="Нэрл"]   Эта Талула...
+[name="Нэрл"]   Она монстр во плоти! Амия!
 [Character(name="char_002_amiya_1#7", name2="char_148_nearl_1#3", focus=1)]
-[name="Amiya"]   Всё будет хорошо, пока мы держимся вместе!
+[name="Амия"]   Всё будет хорошо, пока мы держимся вместе!
 [Character(name="char_002_amiya_1#7", name2="char_148_nearl_1#3", focus=2)]
-[name="Nearl"]   А Доктор? Ты можешь гарантировать его безопасность?
+[name="Нэрл"]   А Доктор? Ты можешь гарантировать его безопасность?
 [Character(name="char_002_amiya_1#4", name2="char_148_nearl_1#3", focus=1)]
-[name="Amiya"]   ... Хм...
+[name="Амия"]   ... Хм...
 [Character(name="char_148_nearl_1#3")]
-[name="Nearl"]   Отряд E4, мы остаёмся и держим оборону!
-[name="Nearl"]   Мы должны обеспечить безопасный отход Амии, Доктора {@nickname} и группы медиков!
+[name="Нэрл"]   Отряд E4, мы остаёмся и держим оборону!
+[name="Нэрл"]   Мы должны обеспечить безопасный отход Амии, Доктора {@nickname} и группы медиков!
 [Character(name="char_014_riope")]
-[name="Ace"]   Нет, с этим разберётся мой отряд.
+[name="Эйс"]   Нет, с этим разберётся мой отряд.
 [Character(name="char_014_riope",name2="char_148_nearl_1#3",focus=2)]
-[name="Nearl"]   Эйс! Подумай головой, сейчас не время спорить!
+[name="Нэрл"]   Эйс! Подумай головой, сейчас не время спорить!
 [Character(name="char_014_riope",name2="char_148_nearl_1#3",focus=1)]
-[name="Ace"]   Я подумал.
+[name="Эйс"]   Я подумал.
 [Character(name="char_014_riope",name2="char_148_nearl_1#3",focus=2)]
-[name="Nearl"]   Вы же тоже это видите — всё вокруг неё буквально плавится!
+[name="Нэрл"]  Разве ты не видишь? Всё вокруг неё буквально плавится!
 [Character(name="char_002_amiya_1#7")]
-[name="Amiya"]   Я не оставлю вас сражаться одних!
-[name="Amiya"]   Родос Айленд... не бросит вас!
+[name="Амия"]   Я не оставлю вас сражаться одних!
+[name="Амия"]   Родос Айленд... не бросит вас!
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]   Амия, каждая секунда на счету! Вы должны уходить!
+[name="Доберманн"]   Амия, каждая секунда на счету! Вы должны уходить!
 [Character(name="char_014_riope")]
-[name="Ace"]   ...Доверься мне.
+[name="Эйс"]   ...Доверься мне.
 [Character(name="char_002_amiya_1#7")]
-[name="Amiya"]   Я не хочу видеть, как Родос Айленд кем-то жертвует!
+[name="Амия"]   Я не хочу видеть, как Родос Айленд кем-то жертвует!
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]   Подумай о нашей цели! Подумай о том, ради чего мы здесь!
+[name="Доберманн"]   Вспомни о нашей цели! Вспомни, ради чего мы здесь!
 [Character(name="char_002_amiya_1#7")]
-[name="Amiya"]   Сейчас не время об это обсуждать!
+[name="Амия"]   Сейчас не время об этом!
 [Character(name="char_011_talula_1")]
-[name="Talulah"]  ...
+[name="Талула"]  ...
 [Dialog]
 [PlaySound(key="$d_gen_thunders_amb", volume=0.5)]
 [PlaySound(key="$b_char_defboost", volume=0.5, Delay=0.4)]
@@ -58,26 +58,26 @@
 [Blocker(a=1, r=0, g=0, b=0, afrom=0, rfrom=0, gfrom=0, bfrom=0, fadetime=0.3, block=true)]
 [Blocker(a=0, fadetime=3, block=true)]
 [Character(name="char_148_nearl_1#3")]
-[name="Nearl"]   --? Этот жар... собирается в её руках?
+[name="Нэрл"]   --? Этот жар... собирается в её руках?
 [Character(name="char_013_riop")]
-[name="Guard"]   Она... искажает пространство вокруг себя?
+[name="Гард"]   Она... искажает пространство вокруг себя?
 [Character(name="char_148_nearl_1#3")]
-[name="Nearl"]   Нет, это... раскалённый воздух вокруг неё!
+[name="Нэрл"]   Нет, это... раскалённый воздух вокруг неё!
 [Character(name="char_002_amiya_1#4")]
-[name="Amiya"]   Осторожно! Она готовится использовать свой Артс...
-[name="Amiya"]   Нет... Вам нельзя! Нэрл!! Вернитесь, сейчас же!!
-[name="Amiya"]   Это не её... Вас убьют, если...
+[name="Амия"]   Осторожно! Она собирается использовать свой Артс...
+[name="Амия"]   Нет... Не смейте! Нэрл!! Назад, сейчас же!!
+[name="Амия"]   Это еще не её... Вас убьют, если...
 [Dialog]
 [Character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Background(image="bg_cher_7", width=1, height=1, fadetime=0)]
 [Blocker(a=0, fadetime=1.5, block=true)]
 [Character(name="char_011_talula_1",block=true)]
-[name="Talulah"]  ... Тишина.
+[name="Талула"]  ... Молчать.
 [Dialog]
 [Character(fadetime=1)]
 [Character(name="char_148_nearl_1#3")]
-[name="Nearl"]   Уааааагх...!
+[name="Нэрл"]   Уааааагх...!
 [Dialog]
 [Character]
 [Character(name="char_011_talula_1",block=true)]
@@ -94,26 +94,26 @@
 [Blocker(a=0.1, fadetime=2, block=false)]
 [delay(time=1)]
 [Character(name="char_148_nearl_1#3")]
-[name="Nearl"]   Угх... Гахх...
+[name="Нэрл"]   Угх... Гахх...
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]   Нэрл!
+[name="Доберманн"]   Нэрл!
 [Character(name="char_148_nearl_1#3",name2="char_130_doberm_ex",focus=1)]
-[name="Nearl"]   *кашель*... Не подходи! Не беспокойся обо мне...
-[name="Nearl"]   Это всего лишь... немного жара...
+[name="Нэрл"]   *кашель*... Не подходи! Не беспокойся обо мне...
+[name="Нэрл"]   Это всего лишь... немного жара...
 [Character(name="char_148_nearl_1#3",name2="char_130_doberm_ex",focus=2)]
-[name="Dobermann"]   Что ты несешь... не беспокоиться?
-[name="Dobermann"]   На тебе не осталось ни одной целой части брони, а ты говоришь мне не беспокоиться? !
-[name="Dobermann"]   Не пытайся с ней сражаться!
+[name="Доберманн"]   Что ты несешь... не беспокоиться?
+[name="Доберманн"]   На твоей броне ни одного целого куска, а ты говоришь мне не беспокоиться?!
+[name="Доберманн"]   Не пытайся с ней сражаться!
 [Character(name="char_148_nearl_1#3",name2="char_130_doberm_ex",focus=1)]
-[name="Nearl"]   Я же сказала... Не подходи!
+[name="Нэрл"]   Я же сказала... Не подходи!
 [Character(name="char_148_nearl_1#3",name2="char_130_doberm_ex",focus=2)]
-[name="Dobermann"]   Нэрл! Упрямая, чтоб тебя...!
+[name="Доберманн"]   Нэрл! Упрямая, чёрт бы тебя побрал!
 [Dialog]
 [Character(fadetime=1)]
 [Character(name="char_011_talula_1",block=true)]
-[name="Talulah"]   ... Хм?
+[name="Талула"]   ... Хм?
 [Character(name="char_014_riope")]
-[name="Ace"]   Ложись!
+[name="Эйс"]   Ложись!
 [Dialog]
 [Character]
 [PlaySound(key="$d_gen_thunders_amb", volume=0.5)]
@@ -129,42 +129,42 @@
 [Blocker(a=0.1, fadetime=2, block=false)]
 [delay(time=1)]
 [Character(name="char_148_nearl_1#3")]
-[name="Nearl"]   *кашель* *кашель*... Что это на этот раз?!
+[name="Нэрл"]   *кашель* *кашель*... Что теперь?!
 [Character(name="char_148_nearl_1#3",name2="char_014_riope",focus=2)]
-[name="Ace"]   ... Невидимое пламя пронеслось над нашими головами.
-[name="Ace"]   Отступай. Весь сектор плавится...
-[name="Ace"]   Не жертвуй собой напрасно!
+[name="Эйс"]   ... Невидимое пламя пронеслось над нашими головами.
+[name="Эйс"]   Отступай. Весь квартал плавится...
+[name="Эйс"]   Не жертвуй собой напрасно!
 [Character(name="char_148_nearl_1#3",name2="char_014_riope",focus=1)]
-[name="Nearl"]   ...
-[name="Nearl"]   С каким чудовищем мне приходится сражаться?
+[name="Нэрл"]   ...
+[name="Нэрл"]   Против какого чудовища я сражаюсь?
 [Character(name="char_148_nearl_1#3",name2="char_014_riope",focus=2)]
-[name="Ace"]   Мы должны как-то прервать её заклинание...
-[name="Ace"]   Стрелки, цельтесь в противника!
+[name="Эйс"]   Мы должны как-то прервать её заклинание...
+[name="Эйс"]   Стрелки, целься!
 [Blocker(a=1, r=0, g=0, b=0, block=true)]
 [Dialog]
 [Character(fadetime=0)]
 [Blocker(a=0, r=0, g=0, b=0, block=true)]
 [Background(fadetime=2)]
 [Character(name="char_011_talula_1")]
-[name="Talulah"]   ...
-[name="Talulah"]   Сопротивление принесет надежду на эту землю.
-[name="Talulah"]   Но сопротивление... не изменит твою судьбу.
+[name="Талула"]   ...
+[name="Талула"]   Сопротивление подарит надежду этой земле.
+[name="Талула"]   Но сопротивление... не изменит вашей судьбы.
 [Character(name="char_014_riope")]
-[name="Ace"]   Огонь!!
+[name="Эйс"]   Огонь!!
 [Character(fadetime=0)]
 [PlaySound(key="$d_sp_ballista")]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [PlaySound(key="$e_atk_arrow_h")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Character(name="char_011_talula_1")]
-[name="Talulah"]   Чернобог уже достиг освобождения.
-[name="Talulah"]   Наша работа здесь закончена, и ваша группа оказалась весьма интересной.
+[name="Талула"]   Чернобог уже обрёл освобождения.
+[name="Талула"]   Наша работа здесь закончена. А ваша группа была довольно интересной.
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]   Что...
+[name="Доберманн"]   Что...
 [Character(name="char_011_talula_1")]
-[name="Talulah"]   Однако это всё, чего вы стоите.
-[name="Talulah"]   Вы сделали неверный выбор.
-[name="Talulah"]   Родос Айленд, вам следовало встать на сторону зараженных.
+[name="Талула"]   И всё же, это единственное, чего вы стоите.
+[name="Талула"]   Вы сделали неверный выбор.
+[name="Талула"]   Родос Айленд, вам стоило встать на сторону зараженных.
 [Dialog]
 [Character(fadetime=1)]
 [PlaySound(key="$d_gen_thunders_amb", volume=0.5)]
@@ -182,30 +182,30 @@
 [Background(image="bg_cher_8", width=1, height=1, fadetime=0)]
 [Blocker(a=0, r=0, g=0, b=0, block=true)]
 [Character(name="char_016_medic")]
-[name="Medic"]   Что... происходит?
-[name="Medic"]   Почему вся площадь... пылает?
-[name="Medic"]   Что... это... было..?
-[name="Medic"]   Я... Я не могу дышать... жжётся...
+[name="Медик"]   Что... происходит?
+[name="Медик"]   Почему вся площадь... обуглилась?
+[name="Медик"]   Что... это... было... только что...?
+[name="Медик"]   Я... Я не могу дышать... всё жжётся...
 [Character(name="char_013_riop")]
-[name="Guard"]   Камни, болты, стрелы...
-[name="Guard"]   Всё пропало.
-[name="Guard"]   В мгновение ока... все предметы вокруг неё обратились в ничто...
+[name="Гард"]   Камни, болты, стрелы...
+[name="Гард"]   Все исчезли.
+[name="Гард"]   В мгновение ока... всё вокруг неё обратились в ничто...
 [Character(name="char_011_talula_1")]
-[name="Talulah"]   У вас есть стойкость освободителей.
+[name="Талула"]   У вас есть стойкость освободителей.
 [Character(name="char_013_riop")]
-[name="Guard"]   ... Даже пепла не осталось...
+[name="Гард"]   ... Даже пепла не осталось...
 [Character(name="char_148_nearl_1#3",name2="char_002_amiya_1#7",focus=1)]
-[name="Nearl"]   Амия. Ты знаешь, что делать.
+[name="Нэрл"]   Амия. Ты знаешь, что делать.
 [Character(name="char_148_nearl_1#3",name2="char_002_amiya_1#7",focus=2)]
-[name="Amiya"]   ...
+[name="Амия"]   ...
 [Character(name="char_148_nearl_1#3",name2="char_002_amiya_1#7",focus=1)]
-[name="Nearl"]   Кто-то... должен остановить её.
+[name="Нэрл"]   Кто-то... должен остановить её.
 [Character(name="char_011_talula_1")]
-[name="Talulah"]   ...Но мне это надоело.
+[name="Талула"]   ...Но меня это утомило.
 [Character(name="char_002_amiya_1#7")]
-[name="Amiya"]   ...
+[name="Амия"]   ...
 [Character(name="char_148_nearl_1#3")]
-[name="Nearl"]   Амия!!
+[name="Нэрл"]   Амия!!
 [PlaySound(key="$d_gen_thunders_amb", volume=0.3)]
 [PlaySound(key="$b_char_defboost", volume=0.3, Delay=0.4)]
 [Blocker(a=1, initr=2, r=1, g=1, b=1, fadetime=0.5, block=true)]
@@ -218,21 +218,21 @@
 [Blocker(r=0.7, g=0.4, a=1, fadetime=0.3, block=true)]
 [Blocker(r=0.2, g=0,b=0, a=0.1, fadetime=1.5, block=true)]
 [Character(name="char_011_talula_1")]
-[name="Talulah"]   Это та цена, которую вы должны заплатить за убийство своих товарищей зараженных.
-[name="Talulah"]   Я подарю вам конец, который мне очень по душе.
-[name="Talulah"]   ...Исчезните.
+[name="Талула"]   Это та цена, которую вы должны заплатить за убийство своих товарищей зараженных.
+[name="Талула"]   Я дарую вам конец, который мне поистене по душе.
+[name="Талула"]   ...Исчезните.
 [Dialog]
 [Character(fadetime=0)]
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]   Черт возьми!!
-[name="Dobermann"]   Бегите... быстрее!!
-[name="Dobermann"]   Столько жара, в таком масштабе... Нет, нет!
-[name="Dobermann"]   Защитите Амию и Доктора! Быстрее!
+[name="Доберманн"]   Чёрт возьми!!
+[name="Доберманн"]   Бегите... живо!!
+[name="Доберманн"]   Столько жара, в таком масштабе... Нет, нет!
+[name="Доберманн"]   Прикрыть Амию и Доктора! Живо!
 [Character(name="char_148_nearl_1#3")]
-[name="Nearl"]   Мы не справимся...!
-[name="Nearl"]   Я ей помешаю!!!
+[name="Нэрл"]   Ну успеем..!
+[name="Нэрл"]   Я её остановлю!!!
 [Character(name="char_016_medic")]
-[name="Medic"]   АААААГХ!!
+[name="Медик"]   АААААГХ!!
 [stopmusic(fadetime=1)]
 [Blocker(r=0.9, g=0.4, b=0.3, a=1, fadetime=0.1, block=true)]
 [Image(fadetime=0)]
@@ -251,20 +251,20 @@
 [Blocker(a=0.8, r=0, g=0, b=0, fadetime=0.1, block=true)]
 [Blocker(a=1, r=1, g=1, b=1, fadetime=0.1, block=true)]
 [Character(name="char_016_medic")]
-[name="Medic"]   ...
-[name="Medic"]   ...А???
+[name="Медик"]   ...
+[name="Медик"]   ...Ч-чего???
 [Blocker(a=0, r=1, g=1, b=1, fadetime=0.5, block=true)]
-[name="Medic"]   А-Амия?
+[name="Медик"]   А-Амия?
 [Character(name="char_002_amiya_1#7")]
-[name="Amiya"]   Ты не навредишь им.
+[name="Амия"]   Ты им не навредишь.
 [Delay=1]
 [Character(name="char_011_talula_1")]
-[name="Talulah"]  ...
+[name="Талула"]  ...
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Image(image="bg_1_reflect",fadetime=0,screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Character(name="char_002_amiya_1#9")]
-[name="Amiya"]   Я ни за что... не позволю тебе этого сделать!
+[name="Амия"]   Я ни за что... не позволю тебе этого!
 [PlayMusic(intro="$m_bat_game02_intro", key="$m_bat_game02_loop", volume=0.8, crossfade=1.5, delay=0.5)]
 [Dialog]
 [CameraShake(duration=6, xstrength=10, ystrength=8, vibrato=20, randomness=90, fadeout=true, block=false)]
@@ -293,7 +293,7 @@
 [Blocker(a=1, r=0, g=0, b=0, afrom=0, rfrom=0, gfrom=0, bfrom=0, fadetime=0.2, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, afrom=0, rfrom=0, gfrom=0, bfrom=0, fadetime=0.2, block=false)]
 [Blocker(a=0, fadetime=2, block=true)]
-[name="Talulah"]   -----О?
+[name="Талула"]   -----О?
 [Delay(time=0.6)]
 [Dialog]
 [Character(fadetime=0)]
@@ -328,8 +328,8 @@
 [Blocker(a=1, r=0, g=0, b=0, afrom=0, rfrom=0, gfrom=0, bfrom=0, fadetime=0.2, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, afrom=0, rfrom=0, gfrom=0, bfrom=0, fadetime=0.2, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, afrom=0, rfrom=0, gfrom=0, bfrom=0, fadetime=0.2, block=false)]
-[name="Amiya"]   Нгх...
-[name="Amiya"]   Я должна... защитить всех...!
+[name="Амия"]   Нгх...
+[name="Амия"]   Я должна... защитить всех...!
 [CameraShake(duration=6, xstrength=10, ystrength=8, vibrato=20, randomness=90, fadeout=true, block=false)]
 [Blocker(a=0.7, r=0.95, g=0.95, b=0.95, fadetime=0.2, block=true)]
 [Blocker(a=0, r=0.95, g=0.95, b=0.95, fadetime=0.25, block=true)]
@@ -351,17 +351,17 @@
 [Character(name="char_148_nearl_1#8")]
 [Delay=1]
 [Character(name="char_148_nearl_1#3",name2="char_130_doberm_ex",focus=2)]
-[name="Dobermann"]   Амия сдерживает Артс противника... в одиночку...?
+[name="Доберманн"]   Амия сдерживает Артс противника... в одиночку...?
 [Character(name="char_148_nearl_1#3",name2="char_130_doberm_ex",focus=1)]
-[name="Nearl"]   Это нехорошо... Её мощь слишком велика!
-[name="Nearl"]   Даже Амия не сможет...
-[name="Nearl"]   Она не сможет долго продержаться!
+[name="Нэрл"]   Это нехорошо... Её мощь слишком велика!
+[name="Нэрл"]   Даже Амия не сможет...
+[name="Нэрл"]   Она долго не протянет!
 [Character(name="char_016_medic")]
-[name="Medic"]   Амия!
+[name="Медик"]   Амия!
 [Character(name="char_002_amiya_1#7")]
-[name="Amiya"]   Не волнуйтесь... Не волнуйтесь обо мне...
-[name="Amiya"]   Я выдержу...!
-[name="Amiya"]   Я хочу... Я должна... защитить вас всех!
+[name="Амия"]   Не волнуйтесь... Не волнуйтесь обо мне...
+[name="Амия"]   Я справлюсь...!
+[name="Амия"]   Я хочу... Я должна... защитить вас всех!
 [Dialog]
 [Character(fadetime=1)]
 [PlaySound(key="$d_gen_thunders_amb", volume=0.5)]
@@ -376,39 +376,39 @@
 [Blocker(a=0, fadetime=2, block=true)]
 [CameraShake(duration=0.5, xstrength=10, ystrength=12, vibrato=30, randomness=90, block=false)]
 [Character(name="char_016_medic")]
-[name="Medic"]   Тёмная материя... запечатывает Артс врага...
+[name="Медик"]   Тёмная материя... запечатывает Артс Талулы по всей площади...
 [Character(name="char_002_amiya_1#9")]
-[name="Amiya"]   Нгх... Аргх... Угх!
+[name="Амия"]   Нгх... Аргх... Угх!
 [Character(name="char_013_riop")]
-[name="Guard"]   Её барьер в огне!
+[name="Гард"]   Её барьер пылает!
 [Character(name="char_130_doberm_ex",name2="char_002_amiya_1#9",focus=1)]
-[name="Dobermann"]   Амия, прекрати!! Твоё кольцо...!
+[name="Доберманн"]   Амия, прекрати!! Твоё кольцо...!
 [Character(name="char_130_doberm_ex",name2="char_002_amiya_1#4",focus=2)]
-[name="Amiya"]   Мне всё равно... даже если....
-[name="Amiya"]   Доктор, мне жаль...
-[name="Amiya"]   Даже если это приведет к бедствию, даже если я...!
+[name="Амия"]   Мне всё равно... даже если....
+[name="Амия"]   Доктор, мне жаль...
+[name="Амия"]   Даже если это обернется бедой, даже если я...!
 [Character(name="char_002_amiya_1#4")]
-[name="Amiya"]   Я не хочу потерять... самого дорогого мне человека... снова...
+[name="Амия"]   Я не хочу потерять... самого дорогого мне человека... снова...
 [Character(name="char_011_talula_1")]
-[name="Talulah"]   Хех...
-[name="Talulah"]   Очень хорошо.
+[name="Талула"]   Хех...
+[name="Талула"]   Очень хорошо.
 [Character(name="char_002_amiya_1#7")]
-[name="Amiya"]   Агхх... Аааааа...!!
+[name="Амия"]   Агхх... Аааааа...!!
 [Character(name="char_148_nearl_1#3")]
-[name="Nearl"]   Амия!
-[name="Nearl"]   Проклятье... Мы её потеряем...!
+[name="Нэрл"]   Амия!
+[name="Нэрл"]   Проклятье... Мы её потеряем...!
 [Character(name="char_130_doberm_ex",name2="char_148_nearl_1#3",focus=1)]
-[name="Dobermann"]   Что ты делаешь?
+[name="Доберманн"]   Что ты делаешь?
 [Character(name="char_130_doberm_ex",name2="char_148_nearl_1#3",focus=2)]
-[name="Nearl"]   Пытаюсь уничтожить Артс этой драконихи!
+[name="Нэрл"]   Пытаюсь уничтожить Артс этой драконихи!
 [Character(name="char_130_doberm_ex",name2="char_148_nearl_1#3",focus=1)]
-[name="Dobermann"]   Ты...
+[name="Доберманн"]   Ты...
 [Character(name="char_148_nearl_1#3")]
-[name="Nearl"]   ... 'О Свет Казимежа, Лучезарный Рыцарь, она преподносит тебе своё тело...'
+[name="Нэрл"]   ... 'О Свет Казимежа, Лучезарный Рыцарь преподносит тебе своё тело...'
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]   Доктор! Уходи! Мы поможем Амии, но ты должен...
+[name="Доберманн"]   Доктор! Уходи! Мы поможем Амии, но ты должен...
 [Character(name="char_011_talula_1")]
-[name="Talulah"]   --!
+[name="Талула"]   --!
 [Dialog]
 [Character(fadetime=1)]
 [PlaySound(key="$d_gen_thunders_amb", volume=0.5)]
@@ -446,42 +446,42 @@
 [Character(name="char_002_amiya_1#9")]
 [Blocker(a=0, r=1, g=1, b=1, fadetime=0.5, block=true)]
 [CameraShake(duration=1, xstrength=10, ystrength=12, vibrato=30, randomness=90, block=false)]
-[name="Amiya"]   Ааааааааггх!!
+[name="Амия"]   Ааааааааггх!!
 [Blocker(a=1, r=1, g=1, b=1, afrom=0, rfrom=0, gfrom=0, bfrom=0, fadetime=0.1, block=true)]
 [Blocker(a=0, r=0, g=0, b=0, afrom=0, rfrom=0, gfrom=0, bfrom=0, fadetime=1, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, block=true)]
 [stopmusic(fadetime=1)]
-[name="Amiya"]   Что...?
-[name="Ace"]   Хватит, Амия.
-[name="Amiya"]   --?!
+[name="Амия"]   Что...?
+[name="Эйс"]   Хватит, Амия.
+[name="Амия"]   --?!
 [character(fadetime=0)]
 [Image]
 [Background]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(name="char_014_riope")]
-[name="Ace"]   Ты хорошо постаралась.
-[name="Ace"]   Позволь нам разделить твою ношу.
+[name="Эйс"]   Ты хорошо постаралась.
+[name="Эйс"]   Позволь нам разделить твою ношу.
 [Character(name="char_002_amiya_1#4")]
-[name="Amiya"]   Я...
+[name="Амия"]   Я...
 [CameraShake(duration=1, xstrength=10, ystrength=12, vibrato=30, randomness=90, block=false)]
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]   Амия!
+[name="Доберманн"]   Амия!
 [Character(name="char_014_riope")]
-[name="Ace"]   Доберманн, забери её с собой. Скоро увидимся.
+[name="Эйс"]   Доберманн, забери её с собой. Скоро увидимся.
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]   ...Эйс...
+[name="Доберманн"]   ...Эйс...
 [Character(name="char_002_amiya_1#4")]
-[name="Amiya"]   Эйс... Нет... Эйс...!
-[name="Amiya"]   Обещай мне... что ты...
+[name="Амия"]   Эйс... Нет... Эйс...!
+[name="Амия"]   Обещай мне... что ты...
 [Character(fadetime=1.5)]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
-[name="Ace"]   ——
-[name="Ace"]   Мне жаль, Доктор {@nickname}. Ты должно быть не помнишь меня.
-[name="Ace"]   Но я тебя помню и знаю, что ты человек.
-[name="Ace"]   ... Настанет день, когда ты и Амия вместе столкнетесь с жестокостью этой земли.
-[name="Ace"]   Вот почему... вы должны беречь её, доктор.
-[name="Ace"]   Идите.
-[name="Ace"]   И удачи.
+[name="Эйс"]   ——
+[name="Эйс"]   Мне жаль, Доктор {@nickname}. Ты должно быть не помнишь меня.
+[name="Эйс"]   Но я тебя помню и знаю, что ты человек.
+[name="Эйс"]   ... Настанет день, когда ты и Амия вместе столкнетесь с жестокостью этой земли.
+[name="Эйс"]   Вот почему... вы должны беречь её, доктор.
+[name="Эйс"]   Идите.
+[name="Эйс"]   И удачи.
 [Delay(time=0.6)]
 [Dialog]
 [Blocker(block=true)]

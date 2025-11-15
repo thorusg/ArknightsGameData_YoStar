@@ -7,35 +7,35 @@
 [PlaySound(key="$d_gen_explo_n")]
 [CameraShake(duration=1, xstrength=3, ystrength=5, vibrato=30, randomness=90, fadeout=false)]
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]  Приготовиться к столкновению!!
-[name="Dobermann"]  Рассредоточиться—!!!
-[name="Dobermann"]  Их слишком много... Такими темпами все здания в городе будут разрушены!
-[name="Dobermann"]  Дела плохи..!
+[name="Доберманн"]  Приготовиться к столкновению!!
+[name="Доберманн"]  Рассредоточиться—!!!
+[name="Доберманн"]  Их слишком много... Такими темпами все здания в городе будут разрушены!
+[name="Доберманн"]  Дела плохи..!
 [character]
 [dialog]
 [image(fadetime=1)]
 [Character(name="char_014_riope")]
-[name="Ace"]  ——!
-[name="Ace"] Нам нужно сменить позицию!
+[name="Эйс"]  ——!
+[name="Эйс"] Нам нужно сменить позицию!
 [Character(name="char_016_medic")]
-[name="Medic"]   ...!
+[name="Медик"]   ...!
 [Character(name="char_014_riope")]
-[name="Ace"]  Держитесь!!
+[name="Эйс"]  Держитесь!!
 [Character]
 [PlaySound(key="$d_gen_explo_n", volume=0.7)]
 [CameraShake(duration=3, fadeout=true, xstrength=25, ystrength=25, vibrato=30, randomness=90, block=false)]
 [Blocker(a=0.2, r=0.93, g=0.7, b=0.2, fadetime=0.1, block=true)]
 [Blocker(a=0, r=0.93, g=0.75, b=0.32, fadetime=0.2, block=true)]
-[name="Reunion Member"]    Аааагх!! Оно падает... Падает!
-[name="Reunion Member"]    Небо рушится!
+[name="Член Реюниона"]    Аааагх!! Оно падает... Падает!
+[name="Член Реюниона"]    Небо рушится!
 [PlaySound(key="$d_gen_explo_n", volume=0.7)]
 [CameraShake(duration=3, fadeout=true, xstrength=25, ystrength=25, vibrato=30, randomness=90, block=false)]
 [Blocker(a=0.2, r=0.93, g=0.7, b=0.2, fadetime=0.1, block=true)]
 [Blocker(a=0, r=0.93, g=0.75, b=0.32, fadetime=0.2, block=true)]
-[name="Reunion Member"]    Агхххх! Как больно...!
-[name="Reunion Member"]    Моя рука... моя рука! Где моя рука...
-[name="Reunion Member"]    Нет, не может быть!! Я не хочу умирать...!
-[name="Reunion Member"]    Ааааагхх!!!
+[name="Член Реюниона"]    Агхххх! Как больно...!
+[name="Член Реюниона"]    Моя рука... моя рука! Где моя рука...
+[name="Член Реюниона"]    Нет, не может быть!! Я не хочу умирать...!
+[name="Член Реюниона"]    Ааааагхх!!!
 [PlaySound(key="$d_gen_thunders_amb", delay=2, volume=0.5)]
 [Dialog]
 [Blocker(a=0.2, r=0.93, g=0.8, b=0.4, fadetime=0.1, block=true)]
@@ -43,23 +43,23 @@
 [Blocker(a=0, r=0.93, g=0.75, b=0.32, fadetime=0.2, block=true)]
 [CameraShake(duration=1, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true)]
 [Character(name="char_148_nearl_1#3")]
-[name="Nearl"]    Щитоносцы!
-[name="Nearl"]    Прикройте заклинателей! !
-[name="Nearl"]    ...!!
-[name="Nearl"]    Что это за звук?!
+[name="Нэрл"]    Щитоносцы!
+[name="Нэрл"]    Прикройте заклинателей! !
+[name="Нэрл"]    ...!!
+[name="Нэрл"]    Что это за звук?!
 [Character(name="char_014_riope")]
-[name="Ace"]  Огромный обломок только что обрушил здание напротив! Ложитесь!
+[name="Эйс"]  Огромный обломок только что обрушил здание напротив! Ложитесь!
 [Dialog]
 [PlaySound(key="$d_gen_explo_n", volume=0.7)]
 [CameraShake(duration=3, fadeout=true, xstrength=25, ystrength=25, vibrato=30, randomness=90, block=false)]
 [Blocker(a=0.2, r=0.93, g=0.7, b=0.2, fadetime=0.1, block=true)]
 [Blocker(a=0, r=0.93, g=0.75, b=0.32, fadetime=0.2, block=true)]
 [Character(name="char_016_medic")]
-[name="Medic"]  Ааа...!
+[name="Медик"]  Ааа...!
 [Character(name="char_002_amiya_1#7")]
-[name="Amiya"]    ... Не стой там... Медик! Берегись!
+[name="Амия"]    ... Не стой там... Медик! Берегись!
 [Character(name="char_013_riop")]
-[name="Guard"]    О нет... Медик, уходи оттуда!
+[name="Гард"]    О нет... Медик, уходи оттуда!
 [Character]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=0.3, block=true)]
 [Dialog]
@@ -71,18 +71,18 @@
 [Dialog]
 [Blocker(a=0, fadetime=0.3, block=true)]
 [Character(name="char_016_medic")]
-[name="Medic"]  Аааа!!
-[name="Medic"]  ...А, Д-Доктор?
+[name="Медик"]  Аааа!!
+[name="Медик"]  ...А, Д-Доктор?
 [Character(name="char_013_riop")]
-[name="Guard"]    Доктор оттолкнул Медика? Но тогда... Доктор...?!
-[name="Guard"]    Нет, Доктор!!
+[name="Гард"]    Доктор оттолкнул Медика? Но тогда... Доктор...?!
+[name="Гард"]    Нет, Доктор!!
 [Character(name="char_148_nearl_1#3")]
-[name="Nearl"]    Доктор {@nickname}!!
+[name="Нэрл"]    Доктор {@nickname}!!
 [Character(name="char_013_riop")]
-[name="Guard"]    А?
-[name="Guard"]    Н-Нэрл бросилась вперёд!
+[name="Гард"]    А?
+[name="Гард"]    Н-Нэрл бросилась вперёд!
 [Character(name="char_148_nearl_1#3")]
-[name="Nearl"]    Ложитесь, Доктор!
+[name="Нэрл"]    Ложитесь, Доктор!
 [Character]
 [Dialog]
 [PlaySound(key="$d_gen_explo_n", volume=0.5)]
@@ -93,86 +93,86 @@
 [Blocker(a=1, r=0,g=0, b=0, fadetime=0.3, block=true)]
 [Blocker(a=0, fadetime=2, block=true)]
 [Character(name="char_148_nearl_1#3",fadetime=0.7)]
-[name="Nearl"]    Аагх...
-[name="Nearl"]    Успела!
+[name="Нэрл"]    Аагх...
+[name="Нэрл"]    Успела!
 [Character(name="char_013_riop")]
-[name="Guard"]    Она смогла... Она спасла Доктора!
+[name="Гард"]    Она смогла... Она спасла Доктора!
 [Character(name="char_148_nearl_1#3")]
-[name="Nearl"]    *Кашель*... Хаах...
+[name="Нэрл"]    *Кашель*... Хаах...
 [Character(name="char_002_amiya_1#7")]
-[name="Amiya"]    Нэрл! Доктор! Быстрее сюда!
+[name="Амия"]    Нэрл! Доктор! Быстрее сюда!
 [Character(name="char_148_nearl_1#3")]
-[name="Nearl"]    Всё в порядке!
-[name="Nearl"]    Я всё еще могу держать свой щит...!
-[name="Nearl"]    Прыгайте, Доктор!
-[name="Nearl"]    Скорее!
+[name="Нэрл"]    Всё в порядке!
+[name="Нэрл"]    Я всё еще могу держать свой щит...!
+[name="Нэрл"]    Прыгайте, Доктор!
+[name="Нэрл"]    Скорее!
 [Character]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=0.6, block=true)]
 [Dialog]
 [Blocker(a=0, fadetime=0.6, block=true)]
 [Character(name="char_002_amiya_1#2")]
-[name="Amiya"]    Доктор, Доктор...
-[name="Amiya"]    Ты... Ты не ранен?
+[name="Амия"]    Доктор, Доктор...
+[name="Амия"]    Ты... Ты не ранен?
 [Decision(options="Я в порядке... Пустяк.;...;Спасибо, что спасла, Нэрл.", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="char_148_nearl_1#3")]
-[name="Nearl"]    Как вы могли... подвергнуть себя такой опасности!
-[name="Nearl"]    Хоть бы взяли меня с собой, я бы вас прикрыла!
-[name="Nearl"]    Я не могу позволить вам пострадать...
-[name="Nearl"]    Особенно, прямо на моих глазах!
+[name="Нэрл"]    Как вы могли... подвергнуть себя такой опасности!
+[name="Нэрл"]    Хоть бы взяли меня с собой, я бы вас прикрыла!
+[name="Нэрл"]    Я не могу позволить вам пострадать...
+[name="Нэрл"]    Особенно, прямо на моих глазах!
 [Character(name="char_002_amiya_1#2")]
-[name="Amiya"]    Нам повезло, что все остались целы.
+[name="Амия"]    Нам повезло, что все остались целы.
 [Character(name="char_002_amiya_1#4")]
-[name="Amiya"]    Но...
-[name="Amiya"]    (Как долго это будет продолжаться?)
-[name="Amiya"]    (Как долго протянем?)
+[name="Амия"]    Но...
+[name="Амия"]    (Как долго это будет продолжаться?)
+[name="Амия"]    (Как долго протянем?)
 [Character(name="char_002_amiya_1#1")]
-[name="Amiya"]    ... Хм...
-[name="Amiya"]    Камней падает меньше?
-[name="Amiya"]    Значит, нам удалось пережить первое столкновение...
+[name="Амия"]    ... Хм...
+[name="Амия"]    Камней падает меньше?
+[name="Амия"]    Значит, нам удалось пережить первое столкновение...
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]    Но нам всё еще нужно быть осторожными. Никто не знает, как долго продлится эта Катастрофа.
-[name="Dobermann"]    По крайней мере... нас не застали врасплох посреди этого всего.
-[name="Dobermann"]    Нам повезло проскочить.
+[name="Доберманн"]    Но нам всё еще нужно быть осторожными. Никто не знает, как долго продлится эта Катастрофа.
+[name="Доберманн"]    По крайней мере... нас не застали врасплох посреди этого всего.
+[name="Доберманн"]    Нам повезло проскочить.
 [Character(name="char_002_amiya_1#1")]
-[name="Amiya"]    Мм-хм...
-[name="Amiya"]    Как у всех дела?
+[name="Амия"]    Мм-хм...
+[name="Амия"]    Как у всех дела?
 [Character(name="char_013_riop")]
-[name="Guard"]    Похоже, все Операторы выбрались целыми...!
-[name="Guard"]    Некоторые получили легкие травмы, но, учитывая ситуацию, нам невероятно повезло!
-[name="Guard"]    Мы... мы справились!
+[name="Гард"]    Похоже, все Операторы выбрались целыми...!
+[name="Гард"]    Некоторые получили легкие травмы, но, учитывая ситуацию, нам невероятно повезло!
+[name="Гард"]    Мы... мы справились!
 [Character]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=0.3, block=true)]
 [Dialog]
 [Blocker(a=0, fadetime=0.3, block=true)]
-[name="Reunion Member"]    Угх...
+[name="Член Реюниона"]    Угх...
 [Character(name="char_002_amiya_1#1")]
-[name="Amiya"]    Некоторые из Реюниона тоже...
+[name="Амия"]    Некоторые из Реюниона тоже...
 [Character(name="char_1002_nsabr_2")]
-[name="Reunion Member"]    ...Э?
-[name="Reunion Member"]    Э... Ааа! ! Родос Айленд!
+[name="Член Реюниона"]    ...Э?
+[name="Член Реюниона"]    Э... Ааа! ! Родос Айленд!
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]    ...Чего?
+[name="Доберманн"]    ...Чего?
 [Character(name="char_1002_nsabr_2",name2="char_1002_nsabr_2")]
-[name="Reunion Member"]    Аргхх...!!
+[name="Член Реюниона"]    Аргхх...!!
 [Character(name="char_002_amiya_1#6")]
-[name="Amiya"]    Они всё ещё пытаются напасть на нас?!
+[name="Амия"]    Они всё ещё пытаются напасть на нас?!
 [Character(name="char_1002_nsabr_2",name2="char_1002_nsabr_2")]
-[name="Reunion Member"]    ...
-[name="Reunion Member"]    Родос Айленд!
+[name="Член Реюниона"]    ...
+[name="Член Реюниона"]    Родос Айленд!
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]    Да что с вами, черт возьми?!
+[name="Доберманн"]    Да что с вами, черт возьми?!
 [Character(name="char_1002_nsabr_2")]
-[name="Reunion Member"]    Вернитесь сюда...!
+[name="Член Реюниона"]    Вернитесь сюда...!
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]    Они сошли с ума.
+[name="Доберманн"]    Они сошли с ума.
 [Character(name="char_148_nearl_1#3")]
-[name="Nearl"]    Неужели они совсем не ценят свои жизни?!
+[name="Нэрл"]    Неужели они совсем не ценят свои жизни?!
 [Character(name="char_002_amiya_1#7")]
-[name="Amiya"]    Доберманн...
+[name="Амия"]    Доберманн...
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]    У нас нет выбора...
-[name="Dobermann"]    Сначала подавим их, затем немедленно уходим!
+[name="Доберманн"]    У нас нет выбора...
+[name="Доберманн"]    Сначала подавим их, затем немедленно уходим!
 [Delay(time=0.6)]
 [Dialog]
 [Blocker(block=true)]
