@@ -5,72 +5,72 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.6, block=true)]
 [Dialog]
 [Delay(time=0.6)]
-[name="Dobermann"]  We've broken through Reunion's encirclement!
-[name="Nearl"]  But... they...
-[name="Nearl"]  ... I... Aaaagh...
+[name="Доберманн"]  Мы прорвали окружение Реюниона!
+[name="Нэрл"]  Но... они...
+[name="Нэрл"]  ... Я... Ааааагх...
 [Background]
 [PlayMusic(intro="$darkness01_intro", key="$darkness01_loop", volume=0.8, crossfade=1.5, delay=0.5)]
 [Character(name="char_148_nearl_1#3", name2="char_130_doberm_ex", focus=2)]
-[name="Dobermann"]  Shh...
-[name="Dobermann"]  ...Don't let Amiya hear you.
+[name="Доберманн"]  Тише...
+[name="Доберманн"]  ...Смотри, чтобы Амия тебя не услышала.
 [Character(name="char_148_nearl_1#7", name2="char_130_doberm_ex", focus=1)]
-[name="Nearl"]  Amiya's kept a clear head through this! She's a lot more mature than we thought...!
-[name="Amiya"]  ...Ngh...
-[name="Amiya"]  ...Mmh...?
+[name="Нэрл"]  Амия всё время сохраняла самообладание! Она гораздо более зрелая, чем мы думали....!
+[name="Амия"]  ...Нгх...
+[name="Амия"]  ...Мхм...?
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.6, block=true)]
 [Image]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.6, block=true)]
 [Character(name="char_148_nearl_1#3", name2="char_130_doberm_ex", focus=2)]
-[name="Dobermann"]  Even if that's the case, we can't let her hear this!
-[name="Dobermann"]  We mustn't burden her any further. She's already... carrying the weight of the world on her shoulders.
-[name="Dobermann"]  ...We can't... let their efforts go to waste!
-[name="Dobermann"]  They made the ultimate choice to let us live, so we have to return the favor... by making sure Amiya and the Doctor return safely.
+[name="Доберманн"]  Даже если так, ей не стоит этого слышать!
+[name="Доберманн"]  Мы не должны еще больше обременять её. Она и так... несёт на своих плечах груз всего мира.
+[name="Доберманн"]  ....Мы не можем... позволить их усилиям пропасть даром!
+[name="Доберманн"]  Они сделали свой выбор, позволив нам жить. Мы должны отплатить им... гарантировав безопасное возвращение Амии и Доктора.
 [Character(name="char_148_nearl_1#2", name2="char_130_doberm_ex", focus=1)]
-[name="Nearl"]  ...
-[name="Nearl"]  That's right.
+[name="Нэрл"]  ...
+[name="Нэрл"]  Верно.
 [Character(name="char_148_nearl_1#2", name2="char_130_doberm_ex", focus=2)]
-[name="Dobermann"]  Now isn't the time to be dejected.
-[name="Dobermann"]  As the Radiant Knight, shouldn't you always be our beacon of hope, no matter what happens?
+[name="Доберманн"]  Не время унывать.
+[name="Доберманн"]  Как Лучезарный Рыцарь, разве ты не обязана быть для нас маяком надежды, что бы ни случилось?
 [Character(name="char_148_nearl_1#4", name2="char_130_doberm_ex", focus=1)]
-[name="Nearl"]  ...
-[name="Nearl"]  ... I'm not sure anymore. But, I will do my part.
+[name="Нэрл"]  ...
+[name="Нэрл"]  ... Я больше не уверена. Но я сделаю всё, что от меня зависит.
 [Character(name="char_148_nearl_1#3")]
-[name="Nearl"]  Regroup! Don't let your guard down! We're almost there!
+[name="Нэрл"]  Перегруппироваться! Не терять бдительности! Мы почти на месте!
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]  ...
-[name="Dobermann"]  *sigh*...
-[name="Dobermann"]  Those who told me not to worry... None of them ended up coming back.
+[name="Доберманн"]  ...
+[name="Доберманн"]  *вздох*...
+[name="Доберманн"]  Те, кто говорил мне не волноваться... Никто из них не вернулся.
 [Dialog]
 [Blocker(a=1, initr=2, r=0, g=0, b=0, fadetime=0.6, block=true)]
 [Character(fadetime=0)]
 [Background(image="bg_cher_2", width=1, height=1, fadetime=1, block=true)]
 [Blocker(a=0, fadetime=0.6, block=true)]
 [Character(name="char_002_amiya_1")]
-[name="Amiya"]  ...
-[name="Amiya"]  Doctor {@nickname}...? What happened...?
-[name="Amiya"]  P-please... let me down...
+[name="Амия"]  ...
+[name="Амия"]  Доктор {@nickname}...? Что произошло...?
+[name="Амия"]  П-пожалуйста... отпусти меня...
 [Dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [CameraShake(duration=2, fadeout=true, xstrength=2, ystrength=5, vibrato=10, randomness=90, block=true)]
-[name="Amiya"]  Mm, I'm fine. I can walk on my own...
-[name="Amiya"]  I just... lost consciousness for a little... but I'm okay.
-[name="Amiya"]  ...We managed to make it out?
-[name="Amiya"]  What about Ace and the others...?
+[name="Амия"]  Мм, я в порядке. Я могу идти сама...
+[name="Амия"]  Я просто... немного потеряла сознание... но я в порядке.
+[name="Амия"]  ...Нам удалось выбраться?
+[name="Амия"]  Что там с Эйсом и остальные...?
 [Decision(options="......",values="1")]
 [Predicate(references="1")]
 [Character(name="char_002_amiya_1#4")]
-[name="Amiya"]  I see.
+[name="Амия"]  Понятно.
 [Character(name="char_002_amiya_1#2")]
-[name="Amiya"]  It's okay. I'm sure Ace will be fine.
-[name="Amiya"]  Everyone in Rhodes Island is very strong.
-[name="Amiya"]  We're almost at the south exit. Once we leave Chernobog, we'll be...
+[name="Амия"]  Всё хорошо. Я уверена, Эйс будет в порядке.
+[name="Амия"]  Каждый в Родос Айленд очень силён.
+[name="Амия"]  Мы почти у южного выхода. Как только мы покинем Чернобог, мы будем...
 [Character(name="char_002_amiya_1#1")]
-[name="Amiya"]  We'll... be...
+[name="Амия"]  Мы... будем...
 [Character(name="char_002_amiya_1#4")]
-[name="Amiya"]  ...
-[name="Amiya"]  Doctor... Can I... lean on you for a bit...
-[name="Amiya"]  Just... a little...
-[name="Amiya"]  ...
+[name="Амия"]  ...
+[name="Амия"]  Доктор... Можно мне... прислониться к тебе на минутку...
+[name="Амия"]  Немного...
+[name="Амия"]  ...
 [Dialog]
 [Blocker(a=1, initr=2, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(fadetime=0)]
@@ -78,20 +78,20 @@
 [Blocker(a=0, fadetime=1, block=true)]
 [Character(name="char_011_talula_1")]
 [PlayMusic(intro="$escape_intro", key="$escape_loop", volume=0.8, crossfade=1.5, delay=0.5)]
-[name="Talulah"]  ...
-[name="Talulah"]  What a pain.
+[name="Талула"]  ...
+[name="Талула"]  Какая морока.
 [Character(name="char_1507_Mephisto_1#2")]
-[name="Mephisto"]  ...
-[name="Mephisto"]  How did that guy... manage to do this...
-[name="Mephisto"]  Half of the city was burnt to ashes, the entire plaza became a sea of flames... Steel was melting and reforming...
-[name="Mephisto"]  But how was he... able to keep fighting?
+[name="Мефисто"]  ...
+[name="Мефисто"]  Как этот парень... смог это сделать...
+[name="Мефисто"]  Половина города была превращена в пепел, вся площадь стала морем пламени... Сталь плавилась и деформировалась...
+[name="Мефисто"]  Но как он... мог продолжать сражаться?
 [Character(name="char_1505_frstar_1")]
-[name="???"]  He fought until the bitter end... Impressive.
+[name="???"]  HОн сражался до самого конца... Впечатляет.
 [Background( fadetime=4, block=false)]
 [Character(name="char_011_talula_1")]
-[name="Talulah"]  I'll remember this.
+[name="Талула"]  Я запомню это.
 [Delay(time=0.6)]
-[name="Talulah"]  ...Rhodes Island.
+[name="Талула"]  ...Родос Айленд.
 [Delay(time=0.6)]
 [Dialog]
 [Blocker(block=true)]

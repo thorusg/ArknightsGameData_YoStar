@@ -3,57 +3,57 @@
 [PlayMusic(intro="$escape_intro", key="$escape_loop", volume=0.8, crossfade=1.5, delay=0.5)]
 [Delay(time=1)]
 [Character(name="char_1504_cqbw")]
-[name="W"]  Ahh... What a nostalgic feeling!
-[name="W"]  Amiya, was it?
+[name="W"]  Какая ностальгия!
+[name="W"]  Амия, да?
 [name="W"]  ——
-[name="W"]  Ah, ahaha! I see... So that's what's going on.
-[name="W"]  I remember now, Amiya.
+[name="W"]  А, ахаха! Понятно... Вот оно что.
+[name="W"]  Я вспомнила, Амия.
 [Character(name="char_002_amiya_1#7")]
-[name="Amiya"]  ...What?
+[name="Амия"]  ...Что?
 [Character(name="char_1504_cqbw")]
-[name="W"]  I've already gotten what I came for. You can all go now. Shoo.
+[name="W"]  Я получила то, за чем пришла. Вы все свободны. Кыш.
 [Character(name="char_002_amiya_1#7")]
-[name="Amiya"]  You...!
+[name="Амия"]  Ты...!
 [Character(name="char_1504_cqbw",name2="char_1002_nsabr_2",focus=2)]
-[name="Reunion Member"]  W...?
+[name="Член Реюниона"]  W...?
 [Character(name="char_1504_cqbw",name2="char_1002_nsabr_2",focus=1)]
-[name="W"]  ... What, do you lot want to stay here and die? That's perfectly fine by me. You're all free to do as you please.
+[name="W"]  ... Что, вы хотите остаться здесь и сдохнуть? Пожалуйста, я не против. Делайте, что пожелаете.
 [Character(name="char_1504_cqbw",name2="char_1002_nsabr_2",focus=2)]
-[name="Reunion Member"]  ...
-[name="Reunion Member"]  We're falling back. Let them go. Talulah's orders.
+[name="Член Реюниона"]  ...
+[name="Член Реюниона"]  Мы отходим. Пусть идут. Приказ Талулы.
 [Character(name="char_002_amiya_1#7")]
-[name="Amiya"]  ...?
+[name="Амия"]  ...?
 [Character(name="char_1504_cqbw")]
-[name="W"]  Forget it. Things get boring when they get dragged out too long. I hate being bored, that's all there is to it.
-[name="W"]  However, I do look forward to seeing you again, Amiya.
-[name="W"]  As well as... that person.
+[name="W"]  Забудьте. Мне надоедает, когда всё затягивается. А я просто ненавижу скуку, вот и всё.
+[name="W"]  Тем не менее, я с нетерпением жду нашей новой встречи, Амия.
+[name="W"]  А также... с ним.
 [Character(name="char_002_amiya_1#1")]
-[name="Amiya"]  What...? !
+[name="Амия"]  Чего...? !
 [Character(name="char_1504_cqbw")]
-[name="W"]  Next time, I will hear the truth from you, {@Nickname}.
-[name="W"]  Bye~
+[name="W"]  В следующий раз я услышу правду от тебя, {@Nickname}.
+[name="W"]  Чао~
 [PlaySound(key="$d_gen_walk_n", volume=1.1)]
 [Dialog(fadetime=1)]
 [Character(fadetime=1)]
 [Delay(time=1)]
 [Character(name="char_002_amiya_1#7")]
-[name="Amiya"]  What... Why... is she doing this?
+[name="Амия"]  Что... Почему... она так поступила?
 [Delay=0.5]
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]  Reunion... they've left.
-[name="Dobermann"]  --We've long missed the rendezvous time.
-[name="Dobermann"]  Retreat back to Rhodes Island... immediately.
+[name="Доберманн"]  Реюнион... они ушли.
+[name="Доберманн"]  Мы давно просрочили  время встречи.
+[name="Доберманн"]  Отступаем на Родос Айленд... немедленно.
 [Character(name="char_002_amiya_1#4")]
-[name="Amiya"]  ...
-[name="Amiya"]  I'll escort... the Operators in the back.
+[name="Амия"]  ...
+[name="Амия"]  Я сопровожу... Операторов позади.
 [Character(name="char_148_nearl_1")]
-[name="Nearl"]  Amiya...
+[name="Нэрл"]  Амия...
 [Character(name="char_002_amiya_1#1")]
-[name="Amiya"]  I'm fine.
+[name="Амия"]  Я в порядке.
 [Character(name="char_148_nearl_1")]
-[name="Nearl"]  ... All right..
+[name="Нэрл"]  ... Хорошо..
 [Character(name="char_130_doberm_ex")]
-[name="Dobermann"]  Go, Amiya.
+[name="Доберманн"]  Иди, Амия.
 [Dialog]
 [Blocker(a=1, initr=2, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(fadetime=0)]
@@ -65,14 +65,14 @@
 [Background(image="bg_cher_7", width=1, height=1, fadetime=0)]
 [Character(name="char_014_riope", name2="char_013_riop", focus=2)]
 [Blocker(a=0, fadetime=3, block=false)]
-[name="Guard"]  ...
-[name="Guard"]  ... ...
-[name="Guard"]  ... Boss...?
-[name="Guard"]  Where are the others...
+[name="Гард"]  ...
+[name="Гард"]  ... ...
+[name="Гард"]  ... Босс...?
+[name="Гард"]  А где остальные?...
 [Character(name="char_014_riope", name2="char_013_riop", focus=1)]
-[name="Ace"]  Nearl and the others have already broken out with Amiya and Dr. {@nickname}.
-[name="Ace"]  Those who stayed behind...
-[name="Ace"]  ... They're all gone.
+[name="Эйс"]  Нэрл и остальные уже прорвались вместе с Амией и Доктором. {@nickname}.
+[name="Эйс"]  Тех, кто остался...
+[name="Эйс"]  ... Их больше нет.
 [Dialog]
 [Blocker(a=1, initr=2, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Background(fadetime=0)]
@@ -86,39 +86,39 @@
 [Background(image="bg_cher_7", width=1, height=1, fadetime=0)]
 [Blocker(a=0, fadetime=0.5, block=true)]
 [Character(name="char_014_riope", name2="char_013_riop", focus=2)]
-[name="Guard"]  ... What...
+[name="Гард"]  ... Что...
 [Character(name="char_014_riope", name2="char_013_riop", focus=1)]
-[name="Ace"]  We're the only two left.
+[name="Эйс"]  Мы остались только вдвоем.
 [Character(name="char_014_riope", name2="char_013_riop", focus=2)]
-[name="Guard"]  I remember now... That, that freak... Talulah... single-handedly...
-[name="Guard"]  She knocked away our Guards like they were toy bricks...
-[name="Guard"]  That monster cut through our Defenders as if they were butter...
+[name="Гард"]  Я вспомнил... Эта психопатка... Талула... в одиночку...
+[name="Гард"]  Она отшвырнула наших, будто те были игрушечными солдатиками....
+[name="Гард"]  Это чудовище прошло сквозь наших щитоносцев, словно нож сквозь масло...
 [Character(name="char_014_riope", name2="char_013_riop", focus=1)]
-[name="Ace"]  Hush... Your wounds are deep.
+[name="Эйс"]  Тише... У тебя глубокие раны.
 [Character(name="char_014_riope", name2="char_013_riop", focus=2)]
-[name="Guard"]  The Catastrophe...! She is Catastrophe incarnate... How, how else could she have reduced our squads to ashes in an instant...
-[name="Guard"]  Even though I saw it with my own eyes, I can't... I can't believe it...
-[name="Guard"]  The screams... Aagh... Gaaaah...
+[name="Гард"]  Катастрофа...! Она — Катастрофа воплоти... Как, ну как еще она могла мгновенно обратить наши отряды в пепел...
+[name="Гард"]  Я видел это собственными глазами, но я не могу... Не могу в это поверить...
+[name="Гард"]  Крики... Агх... Г-а-а-а-ах...
 [Character(name="char_014_riope")]
 [CameraShake(duration=0.5, xstrength=15, ystrength=12, vibrato=30, randomness=90, fadeout=true)]
-[name="Ace"]  Snap out of it!
+[name="Эйс"]  Возьми себя в руки!
 [Character(name="char_014_riope", name2="char_013_riop", focus=2)]
-[name="Guard"]  I'm so sorry... I, I don't know how...
+[name="Гард"]  Мне очень жаль... Я, я не знаю...
 [Character(name="char_014_riope", name2="char_013_riop", focus=1)]
-[name="Ace"]  Calm down.
-[name="Ace"]  I gave you some emergency treatment.
+[name="Эйс"]  Успокойся.
+[name="Эйс"]  Я оказал тебе первую помощь.
 [Character(name="char_014_riope", name2="char_013_riop", focus=2)]
-[name="Guard"]  ... Boss... what happened to your arm...?
+[name="Гард"]  ... Босс... что с твоей рукой...?
 [Character(name="char_014_riope", name2="char_013_riop", focus=1)]
-[name="Ace"]  At least I still have one I can use.
+[name="Эйс"]  По крайней мере, у меня ещё есть вторая.
 [Character(name="char_014_riope", name2="char_013_riop", focus=-1)]
 [Dialog]
 [Delay(time=0.6)]
 [Character(name="char_014_riope", name2="char_013_riop", focus=2)]
-[name="Guard"]  Boss... You should go. I'm sure you'll be able to break your way out.
+[name="Гард"]  Босс... Ты должен идти. Я уверен, что ты сможешь выбраться.
 [Character(name="char_014_riope", name2="char_013_riop", focus=1)]
-[name="Ace"]  We only managed to stall her for a few minutes.
-[name="Ace"]  Until Dr. {@nickname} and Amiya are safe, I cannot go.
+[name="Эйс"]  Нам удалось задержать её всего на пару минут.
+[name="Эйс"]  Пока Доктор {@nickname} и Амия не будут в безопасности — я никуда не уйду.
 [Dialog]
 [Blocker(a=1, initr=2, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Background(fadetime=0)]
@@ -132,16 +132,16 @@
 [Background(image="bg_cher_7", width=1, height=1, fadetime=0)]
 [Blocker(a=0, fadetime=0.5, block=true)]
 [Character(name="char_014_riope")]
-[name="Ace"]  I have to stop that monster first.
+[name="Эйс"]  Сначала я должен остановить это чудовище.
 [Character(name="char_014_riope", name2="char_013_riop", focus=2)]
-[name="Guard"]  Boss... I also...
+[name="Гард"]  Босс... Я тоже...
 [Character(name="char_014_riope", name2="char_013_riop", focus=1)]
-[name="Ace"]  The price of your life... was paid with my arm.
-[name="Ace"]  If you can live even a single minute longer, it will be worth it.
+[name="Эйс"]  Цена твоей жизни... была оплачена моей рукой.
+[name="Эйс"]  Если ты проживёшь хотя бы минуту дольше, то это стоило того.
 [Character(name="char_014_riope", name2="char_013_riop", focus=2)]
-[name="Guard"]  ...
+[name="Гард"]  ...
 [Character(name="char_014_riope", name2="char_013_riop", focus=1)]
-[name="Ace"]  I'll be right back. Take care of yourself.
+[name="Эйс"]  Я скоро вернусь. Береги себя.
 [Dialog]
 [Blocker(a=1, initr=2, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Background(fadetime=0)]
@@ -155,49 +155,49 @@
 [Background(image="bg_cher_7", width=1, height=1, fadetime=0)]
 [Blocker(a=0, fadetime=0.5, block=true)]
 [Character(name="char_013_riop")]
-[name="Guard"]  Boss... I'm sorry... that I'm so unworthy.
+[name="Гард"]  Босс... Прости... что я такой никчёмный.
 [Character(name="char_013_riop")]
-[name="Guard"]  Amiya...
+[name="Гард"]  Амия...
 [Character(fadetime=1)]
 [CameraShake(duration=0.5, xstrength=2, ystrength=3, vibrato=30, randomness=90, fadeout=true)]
-[name="Guard"]  I'm sure you'll be able to... make everyone's dreams...
+[name="Гард"]  Я уверен, ты сумеешь... воплотить мечты каждого...
 [Dialog]
-[name="Amiya"]  ...
-[name="???"]  They're all... I...
-[name="Amiya"]  ... ...
-[name="???"]  ... Amiya?
-[name="???"]  ... ... Amiya?
+[name="Амия"]  ...
+[name="???"]  Все они... Я...
+[name="Амия"]  ... ...
+[name="???"]  ... Амия?
+[name="???"]  ... ... Амия?
 [StopMusic(fadetime=0.1)]
 [Blocker(a=1, r=1, g=1, b=1, fadetime=0.5, block=true)]
 [Background(image="bg_cher_3", width=1, height=1, fadetime=0, block=true, screenadapt="coverall")]
 [cameraEffect(effect="Grayscale", keep=true, amount=0, fadetime=0)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Character(name="char_016_medic", name2="char_002_amiya_1#4" ,fadetime=0, focus=2)]
-[name="Amiya"]  Oh, huh?
+[name="Амия"]  А, что?
 [Character(name="char_016_medic", name2="char_002_amiya_1#4", focus=1)]
-[name="Medic"]  What's the matter?
+[name="Медик"]  В чем дело?
 [Character(name="char_016_medic", name2="char_002_amiya_1#4", focus=2)]
-[name="Amiya"]  N-nothing... I just suddenly felt...
-[name="Amiya"]  Grief...
+[name="Амия"]  Ничего... Я просто вдруг почувствовала...
+[name="Амия"]  Скорбь...
 [Character(name="char_016_medic", name2="char_002_amiya_1#4", focus=1)]
-[name="Medic"]  *sniff*... Urk...
-[name="Medic"]  Grief... huh...
-[name="Medic"]  Aauugh...
+[name="Медик"]  *шмыг*... Угх...
+[name="Медик"]  Скорбь... хах...
+[name="Медик"]  А-а-агх...
 [Character(name="char_016_medic", name2="char_002_amiya_1#4", focus=2)]
-[name="Amiya"]  ... Don't cry...
-[name="Amiya"]  At least... for now.
-[name="Amiya"]  Someone once said to me...
-[name="Amiya"]  Tears... should be saved for when the war is over.
-[name="Amiya"]  Now... is not the time.
+[name="Амия"]  ... Не плачь...
+[name="Амия"]  По крайней мере... сейчас.
+[name="Амия"]  Кое-кто однажды сказал мне...
+[name="Амия"]  Слёзы... следует беречь до окончания войны.
+[name="Амия"]  Сейчас... не время.
 [Character(name="char_016_medic", name2="char_002_amiya_1#4", focus=1)]
-[name="Medic"]  Nnh... Ugh... Nn...
+[name="Медик"]  Н-нх... Угх... Н-н...
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [dialog]
 [character(fadetime=0)]
 [Background(image="bg_0_rhodes3", fadetime=0, screenadapt="coverall", screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
-[name="Amiya"]  Let's go...
-[name="Amiya"]  ...We're going home.
+[name="Амия"]  Пойдем...
+[name="Амия"]  ...Мы возвращаемся домой.
 [dialog]
 [Delay(time=1)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=3, block=true)]
